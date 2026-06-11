@@ -24,15 +24,18 @@ export async function GET(request: Request) {
       }
     }
 
-    // Always fetch upcoming fixtures for the Top 5 European Leagues
-    // 39: Premier League, 140: La Liga, 135: Serie A, 78: Bundesliga, 61: Ligue 1
-    const topLeagues = [39, 140, 135, 78, 61];
-    
-    const leaguePromises = topLeagues.map(leagueId => 
+    // Top 5 European club leagues: PL, La Liga, Serie A, Bundesliga, Ligue 1
+    const clubLeagues = [39, 140, 135, 78, 61];
+    // Major international competitions: World Cup (1), Nations League (5), Copa America (9), Euros (4), Intl Friendlies (10), AFCON (6), Gold Cup (2)
+    const intlLeagues = [1, 5, 9, 4, 10];
+
+    const allLeagues = [...clubLeagues, ...intlLeagues];
+
+    const leaguePromises = allLeagues.map(leagueId =>
       fetch(`${API_HOST}/fixtures?league=${leagueId}&next=2`, {
         headers: { 'x-apisports-key': API_KEY || '' },
         next: { revalidate: 3600 }
-      }).then(res => res.json())
+      }).then(res => res.json()).catch(() => ({ response: [] }))
     );
 
     const leagueResults = await Promise.all(leaguePromises);
