@@ -1,5 +1,4 @@
 import { cn } from "@/lib/utils";
-import Link from "next/link";
 import { motion } from "framer-motion";
 
 export function NewsCard({ news, className }: { news: { id?: string, source: string, sourceIconUrl?: string, timeAgo: string, headline: string, imageUrl?: string, url?: string, tags: string[] }, className?: string }) {
@@ -35,14 +34,6 @@ export function NewsCard({ news, className }: { news: { id?: string, source: str
       )}
     </motion.div>
   );
-
-  if (news.id) {
-    return (
-      <Link href={`/news/${news.id}`} className="block">
-        <CardContent />
-      </Link>
-    );
-  }
 
   if (news.url) {
     return (
