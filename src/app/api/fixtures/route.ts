@@ -22,30 +22,23 @@ export async function GET(request: Request) {
         const data = await res.json();
         if (data.response) allFixtures = allFixtures.concat(data.response);
       }
-    } else {
-      // Fallback: Fetch top 5 upcoming Premier League matches
-      const res = await fetch(`${API_HOST}/fixtures?league=39&next=5`, {
-        headers: { 'x-apisports-key': API_KEY || '' },
-        next: { revalidate: 3600 }
-      });
-      const data = await res.json();
-      if (data.response) allFixtures = data.response;
     }
 
-    // Always fetch World Cup (1) and International Friendlies (10)
-    const intlRes1 = await fetch(`${API_HOST}/fixtures?league=1&next=3`, {
-      headers: { 'x-apisports-key': API_KEY || '' },
-      next: { revalidate: 3600 }
-    });
-    const intlData1 = await intlRes1.json();
-    if (intlData1.response) allFixtures = allFixtures.concat(intlData1.response);
+    // Always fetch upcoming fixtures for the Top 5 European Leagues
+    // 39: Premier League, 140: La Liga, 135: Serie A, 78: Bundesliga, 61: Ligue 1
+    const topLeagues = [39, 140, 135, 78, 61];
+    
+    const leaguePromises = topLeagues.map(leagueId => 
+      fetch(`${API_HOST}/fixtures?league=${leagueId}&next=2`, {
+        headers: { 'x-apisports-key': API_KEY || '' },
+        next: { revalidate: 3600 }
+      }).then(res => res.json())
+    );
 
-    const intlRes2 = await fetch(`${API_HOST}/fixtures?league=10&next=3`, {
-      headers: { 'x-apisports-key': API_KEY || '' },
-      next: { revalidate: 3600 }
+    const leagueResults = await Promise.all(leaguePromises);
+    leagueResults.forEach(data => {
+      if (data.response) allFixtures = allFixtures.concat(data.response);
     });
-    const intlData2 = await intlRes2.json();
-    if (intlData2.response) allFixtures = allFixtures.concat(intlData2.response);
 
     // Deduplicate fixtures (in case multiple followed teams play each other)
     const uniqueFixtures = Array.from(new Map(allFixtures.map(item => [item.fixture.id, item])).values());
