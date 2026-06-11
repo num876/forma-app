@@ -1,0 +1,607 @@
+{
+  "Lyon": [],
+  "Lille": [],
+  "Monaco": [],
+  "Rennes": [],
+  "Marseille": [],
+  "St Etienne": [
+    {
+      "id": 646505,
+      "name": "Aleksandr Rekhviashvili",
+      "position": "UNK",
+      "nationality": "Georgia",
+      "age": 51
+    }
+  ],
+  "Lens": [],
+  "Auxerre": [
+    {
+      "id": 1,
+      "name": "Fabien Cool",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Johan Radet",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Jean-Sébastien Jaurès",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Stéphane Grichting",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Philippe Violeau",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Benoît Cheyrou",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Yann Lachuer",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Luigi Pieroni",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Teemu Tainio",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Kanga Akalé",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Jean-Pascal Mignot",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "David Vandenbossche",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Bonaventure Kalou",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Sébastien Hamel",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Hassan Yebda[notes 1]",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Lionel Mathis",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Pierre Vignaud",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Arnaud Gonzalez",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Benjani Mwaruwari",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Richard Suriano",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "René Bolf",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Abou Diaby",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "David Recorbet",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Younès Kaboul",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Mamoutou Coulibaly",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Michaël Ciani",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Bacary Sagna",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Baptiste Chabert",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "Garra Dembélé[notes 2]",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 30,
+      "name": "Kévin Lejeune",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 31,
+      "name": "Ferdinand Bitangane",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 32,
+      "name": "Mickaël Bertrand",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 33,
+      "name": "Mickaël Castejon",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 34,
+      "name": "David Dareglosse",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 35,
+      "name": "Nicolas Gourio",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 36,
+      "name": "Karim Hraiba",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 37,
+      "name": "Cédric Kisamba[notes 3]",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 38,
+      "name": "Alexis Lafon",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 39,
+      "name": "Baptiste Martin",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 40,
+      "name": "David Pierre",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 41,
+      "name": "Stéphane Veron",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 42,
+      "name": "Karim Ziouane",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 43,
+      "name": "Ousmane Cissokho",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 44,
+      "name": "Damien Dufour",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 45,
+      "name": "Arnaud Sauvage",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 46,
+      "name": "Serge Akakpo",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 47,
+      "name": "Irélé Apo",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 48,
+      "name": "Romain Poyet",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    }
+  ],
+  "Paris SG": [
+    {
+      "id": 60013,
+      "name": "B. Ogbeche",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 39
+    },
+    {
+      "id": 113906,
+      "name": "Lionel Letizi",
+      "position": "GK",
+      "nationality": "France",
+      "age": 40
+    }
+  ],
+  "Sochaux": [],
+  "Strasbourg": [],
+  "Nice": [],
+  "Toulouse": [],
+  "Ajaccio": [],
+  "Bordeaux": [],
+  "Metz": [
+    {
+      "id": 1,
+      "name": "Grégory Wimbée",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Franck Béria",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Franck Signorino",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Mehdi Méniri",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Stéphane Borbiconi",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Bruno Pompiére",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Ivan Gvozdenović",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Samuel Allegro",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Hervé Tum",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Christophe Avezac",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Grégory Proment",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Ludovic Obraniak[notes 1]",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Richard Socrier",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Moktar Mangane",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Kossi Agassa",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Ruslan Pimenov",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Bartholomew Ogbeche",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Julien Gorius",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Babacar Gueye",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Grégory Leca",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Dino Djiba",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Venn Touré",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Momar N'Diaye",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Sébastien Renouard",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Mathieu Dinet",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Benjamin Nicaise",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Jean-Philippe Caillet",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Guillaume Cherreau",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "Hemza Mihoubi",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 30,
+      "name": "Roy Contout",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 31,
+      "name": "Joslain Mayebi",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 32,
+      "name": "Franck Ribéry",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    }
+  ],
+  "Nantes": [],
+  "Caen": [],
+  "Bastia": [],
+  "Istres": []
+}

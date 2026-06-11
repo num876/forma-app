@@ -1,0 +1,75 @@
+{
+  "Werder Bremen": [],
+  "Bayern Munich": [],
+  "Leverkusen": [
+    {
+      "id": 243130,
+      "name": "Diego Rodolfo Placente",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 36
+    }
+  ],
+  "Stuttgart": [],
+  "Bochum": [],
+  "Dortmund": [],
+  "Schalke 04": [
+    {
+      "id": 114953,
+      "name": "L. Kobiashvili",
+      "position": "DEF",
+      "nationality": "Georgia",
+      "age": 44
+    },
+    {
+      "id": 116158,
+      "name": "S. Cziommer",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 41
+    }
+  ],
+  "Hamburg": [],
+  "Hansa Rostock": [],
+  "Wolfsburg": [
+    {
+      "id": 2,
+      "name": "M. Hitz",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 38
+    }
+  ],
+  "M'gladbach": [],
+  "Hertha": [],
+  "Kaiserslautern": [],
+  "Freiburg": [
+    {
+      "id": 221225,
+      "name": "A. Iashvili",
+      "position": "ATT",
+      "nationality": "Georgia",
+      "age": 44
+    }
+  ],
+  "Hannover": [],
+  "Ein Frankfurt": [
+    {
+      "id": 643029,
+      "name": "Jermaine Jones",
+      "position": "UNK",
+      "nationality": "USA",
+      "age": 44
+    }
+  ],
+  "Munich 1860": [],
+  "FC Koln": [
+    {
+      "id": 33255,
+      "name": "Ł. Podolski",
+      "position": "UNK",
+      "nationality": "Germany",
+      "age": 40
+    }
+  ]
+}

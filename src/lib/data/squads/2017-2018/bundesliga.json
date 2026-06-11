@@ -1,0 +1,4329 @@
+{
+  "Bayern Munich": [
+    {
+      "id": 88393,
+      "name": "J. Weimar",
+      "position": "GK",
+      "nationality": "Netherlands",
+      "age": 27
+    },
+    {
+      "id": 88305,
+      "name": "K. Demann",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 88209,
+      "name": "V. Wieder",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 147883,
+      "name": "A. Pfluger",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 153030,
+      "name": "K. Kögel",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 143620,
+      "name": "T. Korpela",
+      "position": "GK",
+      "nationality": "Finland",
+      "age": 39
+    },
+    {
+      "id": 88289,
+      "name": "J. DamnjanoviÄ",
+      "position": "ATT",
+      "nationality": "Serbia",
+      "age": 31
+    },
+    {
+      "id": 68935,
+      "name": "L. Beerensteyn",
+      "position": "ATT",
+      "nationality": "Netherlands",
+      "age": 29
+    },
+    {
+      "id": 68930,
+      "name": "J. Roord",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 28
+    },
+    {
+      "id": 68651,
+      "name": "M. Leupolz",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 88222,
+      "name": "S. Lohmann",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 88389,
+      "name": "M. Zinsberger",
+      "position": "GK",
+      "nationality": "Austria",
+      "age": 30
+    },
+    {
+      "id": 143591,
+      "name": "L. Galton",
+      "position": "MID",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 69054,
+      "name": "F. Rolfö",
+      "position": "DEF",
+      "nationality": "Sweden",
+      "age": 32
+    },
+    {
+      "id": 74247,
+      "name": "S. Däbritz",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 88428,
+      "name": "K. Talaslahti",
+      "position": "GK",
+      "nationality": "Finland",
+      "age": 25
+    },
+    {
+      "id": 88202,
+      "name": "D. Å korvánková",
+      "position": "MID",
+      "nationality": "Slovakia",
+      "age": 34
+    }
+  ],
+  "Schalke 04": [
+    {
+      "id": 397,
+      "name": "M. Langer",
+      "position": "GK",
+      "nationality": "Austria",
+      "age": 40
+    },
+    {
+      "id": 399,
+      "name": "A. Nübel",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 404,
+      "name": "B. Oczipka",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 410,
+      "name": "D. Caligiuri",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 412,
+      "name": "A. Harit",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 28
+    },
+    {
+      "id": 413,
+      "name": "Y. Konoplyanka",
+      "position": "ATT",
+      "nationality": "Ukraine",
+      "age": 35
+    },
+    {
+      "id": 417,
+      "name": "A. Schöpf",
+      "position": "MID",
+      "nationality": "Austria",
+      "age": 31
+    },
+    {
+      "id": 420,
+      "name": "G. Burgstaller",
+      "position": "ATT",
+      "nationality": "Austria",
+      "age": 36
+    },
+    {
+      "id": 421,
+      "name": "B. Embolo",
+      "position": "ATT",
+      "nationality": "Switzerland",
+      "age": 28
+    },
+    {
+      "id": 427,
+      "name": "H. Wright",
+      "position": "UNK",
+      "nationality": "USA",
+      "age": 27
+    },
+    {
+      "id": 511,
+      "name": "L. Goretzka",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 24799,
+      "name": "J. Geis",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 24835,
+      "name": "B. Tekpetey",
+      "position": "ATT",
+      "nationality": "Ghana",
+      "age": 28
+    },
+    {
+      "id": 25167,
+      "name": "F. Reese",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 26218,
+      "name": "L. Hemmerich",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 33071,
+      "name": "Atsuto Uchida",
+      "position": "DEF",
+      "nationality": "Japan",
+      "age": 32
+    },
+    {
+      "id": 47451,
+      "name": "Coke",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 90646,
+      "name": "Pablo Insua",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 90663,
+      "name": "D. Avdijaj",
+      "position": "MID",
+      "nationality": "Kosovo",
+      "age": 29
+    },
+    {
+      "id": 91064,
+      "name": "D. Wieszolek",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 94,
+      "name": "Naldo",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 39
+    },
+    {
+      "id": 261,
+      "name": "T. Kehrer",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 396,
+      "name": "R. Fährmann",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 37
+    },
+    {
+      "id": 403,
+      "name": "M. Nastasić",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 32
+    },
+    {
+      "id": 405,
+      "name": "S. Riether",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 38
+    },
+    {
+      "id": 407,
+      "name": "B. Stambouli",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 409,
+      "name": "N. Bentaleb",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 31
+    },
+    {
+      "id": 415,
+      "name": "W. McKennie",
+      "position": "MID",
+      "nationality": "USA",
+      "age": 27
+    },
+    {
+      "id": 425,
+      "name": "C. Teuchert",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 18851,
+      "name": "M. Meyer",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 21996,
+      "name": "A. Baba",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 31
+    },
+    {
+      "id": 25077,
+      "name": "S. Sam",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 30413,
+      "name": "M. Pjaca",
+      "position": "ATT",
+      "nationality": "Croatia",
+      "age": 30
+    },
+    {
+      "id": 47552,
+      "name": "F. Di Santo",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 35
+    }
+  ],
+  "Hoffenheim": [
+    {
+      "id": 702,
+      "name": "O. Baumann",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 703,
+      "name": "A. Stolz",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 38
+    },
+    {
+      "id": 708,
+      "name": "B. Hübner",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 713,
+      "name": "K. Vogt",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 714,
+      "name": "N. Amiri",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 718,
+      "name": "D. Geiger",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 719,
+      "name": "F. Grillitsch",
+      "position": "MID",
+      "nationality": "Austria",
+      "age": 30
+    },
+    {
+      "id": 721,
+      "name": "N. Schulz",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 722,
+      "name": "N. Wähling",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 725,
+      "name": "R. Hack",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 728,
+      "name": "D. Otto",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 729,
+      "name": "Á. Szalai",
+      "position": "ATT",
+      "nationality": "Hungary",
+      "age": 36
+    },
+    {
+      "id": 12859,
+      "name": "S. Wagner",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 19068,
+      "name": "F. Passlack",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 24924,
+      "name": "J. Hoogma",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 27
+    },
+    {
+      "id": 25179,
+      "name": "A. Rossipal",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 25282,
+      "name": "G. Kobel",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 28
+    },
+    {
+      "id": 25366,
+      "name": "K. Akpoguma",
+      "position": "DEF",
+      "nationality": "Nigeria",
+      "age": 30
+    },
+    {
+      "id": 26620,
+      "name": "Johannes Bühler",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 90639,
+      "name": "E. Polanski",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 35
+    },
+    {
+      "id": 426,
+      "name": "M. Uth",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 510,
+      "name": "S. Gnabry",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 705,
+      "name": "E. Bičakčić",
+      "position": "DEF",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 35
+    },
+    {
+      "id": 709,
+      "name": "P. Kadeřábek",
+      "position": "DEF",
+      "nationality": "Czechia",
+      "age": 33
+    },
+    {
+      "id": 711,
+      "name": "S. Posch",
+      "position": "DEF",
+      "nationality": "Austria",
+      "age": 28
+    },
+    {
+      "id": 717,
+      "name": "K. Demirbay",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 720,
+      "name": "L. Rupp",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 726,
+      "name": "A. Kramarić",
+      "position": "ATT",
+      "nationality": "Croatia",
+      "age": 34
+    },
+    {
+      "id": 1118,
+      "name": "J. Toljan",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 2811,
+      "name": "S. Zuber",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 34
+    },
+    {
+      "id": 7124,
+      "name": "M. Waack",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 7768,
+      "name": "M. Skenderović",
+      "position": "ATT",
+      "nationality": "Montenegro",
+      "age": 27
+    },
+    {
+      "id": 15727,
+      "name": "P. Ochs",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 19021,
+      "name": "Håvard Nordtveit",
+      "position": "DEF",
+      "nationality": "Norway",
+      "age": 32
+    },
+    {
+      "id": 24858,
+      "name": "R. Žulj",
+      "position": "MID",
+      "nationality": "Austria",
+      "age": 33
+    },
+    {
+      "id": 26121,
+      "name": "S. Lorenz",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 26259,
+      "name": "M. Terrazzino",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 34
+    }
+  ],
+  "Dortmund": [
+    {
+      "id": 8,
+      "name": "Raphaël Guerreiro",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 32
+    },
+    {
+      "id": 10,
+      "name": "Ł. Piszczek",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 36
+    },
+    {
+      "id": 11,
+      "name": "Marcel Schmelzer",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 13,
+      "name": "D. Zagadou",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 26
+    },
+    {
+      "id": 16,
+      "name": "M. Götze",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 19,
+      "name": "J. Weigl",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 24,
+      "name": "M. Philipp",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 966,
+      "name": "S. Bender",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 2915,
+      "name": "M. Ginter",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 8604,
+      "name": "E. Bansen",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 19068,
+      "name": "F. Passlack",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 24951,
+      "name": "D. Reimann",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 25129,
+      "name": "D. Burnić",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 25313,
+      "name": "J. Beste",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 26339,
+      "name": "E. Amenyido",
+      "position": "ATT",
+      "nationality": "Togo",
+      "age": 27
+    },
+    {
+      "id": 26547,
+      "name": "L. Dietz",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 26605,
+      "name": "M. Fritz",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 90640,
+      "name": "R. Weidenfeller",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 41
+    },
+    {
+      "id": 90765,
+      "name": "Massih Wassey",
+      "position": "MID",
+      "nationality": "Canada",
+      "age": 33
+    },
+    {
+      "id": 119158,
+      "name": "H. Bockhorn",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 1,
+      "name": "R. Bürki",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 35
+    },
+    {
+      "id": 5,
+      "name": "M. Akanji",
+      "position": "DEF",
+      "nationality": "Switzerland",
+      "age": 30
+    },
+    {
+      "id": 25,
+      "name": "M. Reus",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 153,
+      "name": "O. Dembélé",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 28
+    },
+    {
+      "id": 1118,
+      "name": "J. Toljan",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 1561,
+      "name": "Marc Bartra",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 1822,
+      "name": "S. Rode",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 2864,
+      "name": "A. Isak",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 26
+    },
+    {
+      "id": 24973,
+      "name": "J. Serra",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 24994,
+      "name": "H. Al Ghaddioui",
+      "position": "ATT",
+      "nationality": "Morocco",
+      "age": 35
+    },
+    {
+      "id": 26113,
+      "name": "H. Bonmann",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 26306,
+      "name": "Gonzalo Castro Randon",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 26310,
+      "name": "D. Kopacz",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 26
+    },
+    {
+      "id": 26497,
+      "name": "P. Pflücke",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 26610,
+      "name": "M. Eberwein",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 46695,
+      "name": "A. Ramos",
+      "position": "ATT",
+      "nationality": "Colombia",
+      "age": 39
+    },
+    {
+      "id": 47311,
+      "name": "Mikel Merino",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 29
+    },
+    {
+      "id": 47446,
+      "name": "E. Mor",
+      "position": "UNK",
+      "nationality": "Türkiye",
+      "age": 28
+    },
+    {
+      "id": 91171,
+      "name": "M. Hober",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 162988,
+      "name": "D. Wanner",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 12,
+      "name": "Ö. Toprak",
+      "position": "DEF",
+      "nationality": "Türkiye",
+      "age": 35
+    },
+    {
+      "id": 14,
+      "name": "M. Dahoud",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 17,
+      "name": "C. Pulišić",
+      "position": "MID",
+      "nationality": "USA",
+      "age": 27
+    },
+    {
+      "id": 18,
+      "name": "J. Sancho",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 22,
+      "name": "J. Bruun Larsen",
+      "position": "ATT",
+      "nationality": "Denmark",
+      "age": 27
+    },
+    {
+      "id": 23,
+      "name": "Sergio Gómez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 25
+    },
+    {
+      "id": 1450,
+      "name": "S. Papastathopoulos",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 36
+    },
+    {
+      "id": 1465,
+      "name": "P. Aubameyang",
+      "position": "ATT",
+      "nationality": "Gabon",
+      "age": 36
+    },
+    {
+      "id": 1991,
+      "name": "S. Kagawa",
+      "position": "MID",
+      "nationality": "Japan",
+      "age": 36
+    },
+    {
+      "id": 2927,
+      "name": "M. Batshuayi",
+      "position": "UNK",
+      "nationality": "Belgium",
+      "age": 32
+    },
+    {
+      "id": 18834,
+      "name": "A. Yarmolenko",
+      "position": "MID",
+      "nationality": "Ukraine",
+      "age": 36
+    },
+    {
+      "id": 19031,
+      "name": "A. Schürrle",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 19040,
+      "name": "E. Durm",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 22091,
+      "name": "N. Subotić",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 33
+    },
+    {
+      "id": 25325,
+      "name": "N. Şahin",
+      "position": "MID",
+      "nationality": "Turkey",
+      "age": 34
+    }
+  ],
+  "Leverkusen": [
+    {
+      "id": 98,
+      "name": "B. Henrichs",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 966,
+      "name": "S. Bender",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 969,
+      "name": "T. Jedvaj",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 30
+    },
+    {
+      "id": 970,
+      "name": "Wendell",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 972,
+      "name": "J. Tah",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 975,
+      "name": "J. Baumgartlinger",
+      "position": "MID",
+      "nationality": "Austria",
+      "age": 35
+    },
+    {
+      "id": 976,
+      "name": "K. Bellarabi",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 977,
+      "name": "L. Bender",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 979,
+      "name": "D. Kohr",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 980,
+      "name": "S. Schreck",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 984,
+      "name": "J. Brandt",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 989,
+      "name": "K. Volland",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 1085,
+      "name": "André Ramalho",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 1155,
+      "name": "K. Kampl",
+      "position": "MID",
+      "nationality": "Slovenia",
+      "age": 35
+    },
+    {
+      "id": 15676,
+      "name": "V. Yurchenko",
+      "position": "MID",
+      "nationality": "Ukraine",
+      "age": 31
+    },
+    {
+      "id": 25168,
+      "name": "N. Lomb",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 26591,
+      "name": "J. Abu Hanna",
+      "position": "DEF",
+      "nationality": "Israel",
+      "age": 27
+    },
+    {
+      "id": 36787,
+      "name": "A. Akkaynak",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 38722,
+      "name": "M. Frey",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 90642,
+      "name": "S. Kießling",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 37
+    },
+    {
+      "id": 965,
+      "name": "R. Özcan",
+      "position": "GK",
+      "nationality": "Austria",
+      "age": 37
+    },
+    {
+      "id": 968,
+      "name": "A. Dragović",
+      "position": "DEF",
+      "nationality": "Austria",
+      "age": 34
+    },
+    {
+      "id": 971,
+      "name": "P. Retsos",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 27
+    },
+    {
+      "id": 974,
+      "name": "C. Aránguiz",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 36
+    },
+    {
+      "id": 978,
+      "name": "K. Havertz",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 982,
+      "name": "L. Alario",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 33
+    },
+    {
+      "id": 983,
+      "name": "L. Bailey",
+      "position": "ATT",
+      "nationality": "Jamaica",
+      "age": 28
+    },
+    {
+      "id": 986,
+      "name": "J. Pohjanpalo",
+      "position": "UNK",
+      "nationality": "Finland",
+      "age": 31
+    },
+    {
+      "id": 1438,
+      "name": "B. Leno",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 2808,
+      "name": "A. Mehmedi",
+      "position": "ATT",
+      "nationality": "Switzerland",
+      "age": 32
+    }
+  ],
+  "RB Leipzig": [
+    {
+      "id": 7341,
+      "name": "K. Ludewig",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 1167,
+      "name": "Y. Poulsen",
+      "position": "ATT",
+      "nationality": "Denmark",
+      "age": 31
+    },
+    {
+      "id": 1151,
+      "name": "D. Demme",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 1148,
+      "name": "W. Orbán",
+      "position": "DEF",
+      "nationality": "Hungary",
+      "age": 33
+    },
+    {
+      "id": 1144,
+      "name": "L. Klostermann",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 1155,
+      "name": "K. Kampl",
+      "position": "MID",
+      "nationality": "Slovenia",
+      "age": 35
+    },
+    {
+      "id": 1149,
+      "name": "D. Upamecano",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 27
+    },
+    {
+      "id": 1157,
+      "name": "K. Laimer",
+      "position": "MID",
+      "nationality": "Austria",
+      "age": 28
+    },
+    {
+      "id": 1162,
+      "name": "N. Stierlin",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 90662,
+      "name": "F. Coltorti",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 41
+    },
+    {
+      "id": 1143,
+      "name": "M. Halstenberg",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 1164,
+      "name": "J. Augustin",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 28
+    },
+    {
+      "id": 15883,
+      "name": "Dominik Kaiser",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 25623,
+      "name": "F. Palacios",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 1158,
+      "name": "E. Majetschak",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 1142,
+      "name": "Y. Mvogo",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 31
+    },
+    {
+      "id": 7313,
+      "name": "P. Köhn",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 27
+    },
+    {
+      "id": 1152,
+      "name": "E. Forsberg",
+      "position": "MID",
+      "nationality": "Sweden",
+      "age": 34
+    },
+    {
+      "id": 1163,
+      "name": "Bruma",
+      "position": "UNK",
+      "nationality": "Portugal",
+      "age": 31
+    },
+    {
+      "id": 24794,
+      "name": "B. Schmitz",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 294,
+      "name": "N. Keïta",
+      "position": "MID",
+      "nationality": "Guinea",
+      "age": 30
+    },
+    {
+      "id": 1124,
+      "name": "O. Burke",
+      "position": "ATT",
+      "nationality": "Scotland",
+      "age": 28
+    },
+    {
+      "id": 1139,
+      "name": "P. Gulácsi",
+      "position": "GK",
+      "nationality": "Hungary",
+      "age": 35
+    },
+    {
+      "id": 1145,
+      "name": "I. Konaté",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 26
+    },
+    {
+      "id": 1154,
+      "name": "S. Ilsanker",
+      "position": "MID",
+      "nationality": "Austria",
+      "age": 34
+    },
+    {
+      "id": 1159,
+      "name": "M. Sabitzer",
+      "position": "MID",
+      "nationality": "Austria",
+      "age": 31
+    },
+    {
+      "id": 1166,
+      "name": "T. Werner",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 18767,
+      "name": "A. Lookman",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 28
+    },
+    {
+      "id": 18964,
+      "name": "Bernardo",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 30
+    },
+    {
+      "id": 38753,
+      "name": "N. Kühn",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 90652,
+      "name": "M. Compper",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 36
+    }
+  ],
+  "Stuttgart": [
+    {
+      "id": 2740,
+      "name": "M. Langerak",
+      "position": "GK",
+      "nationality": "Australia",
+      "age": 37
+    },
+    {
+      "id": 24812,
+      "name": "S. Terodde",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 25129,
+      "name": "D. Burnić",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 25160,
+      "name": "H. Sarpei",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 27
+    },
+    {
+      "id": 25165,
+      "name": "J. Green",
+      "position": "MID",
+      "nationality": "USA",
+      "age": 30
+    },
+    {
+      "id": 25375,
+      "name": "T. Asano",
+      "position": "ATT",
+      "nationality": "Japan",
+      "age": 31
+    },
+    {
+      "id": 25415,
+      "name": "D. Ginczek",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 25462,
+      "name": "J. Zimmer",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 25463,
+      "name": "M. Zimmermann",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 25593,
+      "name": "P. Breier",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 26291,
+      "name": "J. Grahl",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 37
+    },
+    {
+      "id": 26292,
+      "name": "A. Meyer",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 26295,
+      "name": "D. Aogo",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 26296,
+      "name": "H. Badstuber",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 26297,
+      "name": "T. Baumgartl",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 26309,
+      "name": "C. Gentner",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 38
+    },
+    {
+      "id": 26311,
+      "name": "E. Thommy",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 26637,
+      "name": "N. Sessa",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 50860,
+      "name": "E. Ofori",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 30
+    },
+    {
+      "id": 90681,
+      "name": "T. Werner",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 22,
+      "name": "J. Bruun Larsen",
+      "position": "ATT",
+      "nationality": "Denmark",
+      "age": 27
+    },
+    {
+      "id": 1083,
+      "name": "J. Onguéné",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 28
+    },
+    {
+      "id": 2725,
+      "name": "B. Pavard",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 2762,
+      "name": "J. Brekalo",
+      "position": "UNK",
+      "nationality": "Croatia",
+      "age": 27
+    },
+    {
+      "id": 3003,
+      "name": "M. Kamiński",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 33
+    },
+    {
+      "id": 24882,
+      "name": "O. Mangala",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 27
+    },
+    {
+      "id": 24885,
+      "name": "B. Özcan",
+      "position": "MID",
+      "nationality": "Türkiye",
+      "age": 27
+    },
+    {
+      "id": 26293,
+      "name": "R. Zieler",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 26298,
+      "name": "Andreas Beck",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 26299,
+      "name": "E. Insúa",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 35
+    },
+    {
+      "id": 26304,
+      "name": "C. Akolo",
+      "position": "ATT",
+      "nationality": "Congo DR",
+      "age": 30
+    },
+    {
+      "id": 26305,
+      "name": "S. Ascacíbar",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 28
+    },
+    {
+      "id": 26313,
+      "name": "A. Donis",
+      "position": "ATT",
+      "nationality": "Greece",
+      "age": 29
+    },
+    {
+      "id": 26314,
+      "name": "M. Gómez",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 41094,
+      "name": "Aílton Ferreira Silva",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 29
+    },
+    {
+      "id": 48520,
+      "name": "A. Grgić",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 29
+    }
+  ],
+  "Ein Frankfurt": [
+    {
+      "id": 26,
+      "name": "M. Wolf",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 414,
+      "name": "Omar Mascarell",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 1801,
+      "name": "J. Zimmermann",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 1802,
+      "name": "D. Abraham",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 35
+    },
+    {
+      "id": 1803,
+      "name": "T. Chandler",
+      "position": "MID",
+      "nationality": "USA",
+      "age": 35
+    },
+    {
+      "id": 1808,
+      "name": "M. Russ",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 1810,
+      "name": "T. Tawatha",
+      "position": "DEF",
+      "nationality": "Israel",
+      "age": 32
+    },
+    {
+      "id": 1812,
+      "name": "D. da Costa",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 1819,
+      "name": "M. Hasebe",
+      "position": "DEF",
+      "nationality": "Japan",
+      "age": 40
+    },
+    {
+      "id": 1827,
+      "name": "B. Hrgota",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 32
+    },
+    {
+      "id": 14307,
+      "name": "M. Ćavar",
+      "position": "MID",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 27
+    },
+    {
+      "id": 24947,
+      "name": "A. Meier",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 38
+    },
+    {
+      "id": 25048,
+      "name": "S. Medojević",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 35
+    },
+    {
+      "id": 25262,
+      "name": "Y. Regäsel",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 25455,
+      "name": "A. Barkok",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 27
+    },
+    {
+      "id": 47000,
+      "name": "D. Blum",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 50741,
+      "name": "M. Fabián",
+      "position": "MID",
+      "nationality": "Mexico",
+      "age": 36
+    },
+    {
+      "id": 90637,
+      "name": "D. Beyreuther",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 23
+    },
+    {
+      "id": 114928,
+      "name": "Anderson Soares de Oliveira",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 29
+    },
+    {
+      "id": 253749,
+      "name": "Miguel Blanco",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 22
+    },
+    {
+      "id": 152,
+      "name": "K. Boateng",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 36
+    },
+    {
+      "id": 963,
+      "name": "L. Hrádecký",
+      "position": "GK",
+      "nationality": "Finland",
+      "age": 36
+    },
+    {
+      "id": 1804,
+      "name": "S. Falette",
+      "position": "DEF",
+      "nationality": "Guinea",
+      "age": 33
+    },
+    {
+      "id": 1813,
+      "name": "J. Willems",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 31
+    },
+    {
+      "id": 1815,
+      "name": "J. de Guzmán",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 38
+    },
+    {
+      "id": 1816,
+      "name": "G. Fernandes",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 35
+    },
+    {
+      "id": 1818,
+      "name": "M. Gaćinović",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 30
+    },
+    {
+      "id": 1823,
+      "name": "M. Stendera",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 1826,
+      "name": "S. Haller",
+      "position": "ATT",
+      "nationality": "Côte d'Ivoire",
+      "age": 31
+    },
+    {
+      "id": 1828,
+      "name": "L. Jović",
+      "position": "ATT",
+      "nationality": "Serbia",
+      "age": 28
+    },
+    {
+      "id": 1831,
+      "name": "A. Rebić",
+      "position": "UNK",
+      "nationality": "Croatia",
+      "age": 32
+    },
+    {
+      "id": 2601,
+      "name": "D. Kamada",
+      "position": "MID",
+      "nationality": "Japan",
+      "age": 29
+    },
+    {
+      "id": 2877,
+      "name": "C. Salcedo",
+      "position": "DEF",
+      "nationality": "Mexico",
+      "age": 32
+    },
+    {
+      "id": 8960,
+      "name": "M. Besuschkow",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 41625,
+      "name": "R. Dadashov",
+      "position": "UNK",
+      "nationality": "Azerbaijan",
+      "age": 26
+    },
+    {
+      "id": 90670,
+      "name": "N. Knothe",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 26
+    }
+  ],
+  "M'gladbach": [
+    {
+      "id": 2803,
+      "name": "N. Elvedi",
+      "position": "DEF",
+      "nationality": "Switzerland",
+      "age": 29
+    },
+    {
+      "id": 2915,
+      "name": "M. Ginter",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 6991,
+      "name": "K. Yeboah",
+      "position": "ATT",
+      "nationality": "Australia",
+      "age": 27
+    },
+    {
+      "id": 25626,
+      "name": "M. Nicolas",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 25627,
+      "name": "T. Sippel",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 37
+    },
+    {
+      "id": 25629,
+      "name": "M. Doucouré",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 26
+    },
+    {
+      "id": 25630,
+      "name": "T. Jantschke",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 25634,
+      "name": "M. Cuisance",
+      "position": "MID",
+      "nationality": "France",
+      "age": 26
+    },
+    {
+      "id": 25635,
+      "name": "J. Hofmann",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 25636,
+      "name": "F. Johnson",
+      "position": "MID",
+      "nationality": "USA",
+      "age": 34
+    },
+    {
+      "id": 25639,
+      "name": "L. Stindl",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 25640,
+      "name": "T. Strobl",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 25642,
+      "name": "Raffael Caetano de Araújo",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": 25644,
+      "name": "P. Herrmann",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 25647,
+      "name": "I. Traoré",
+      "position": "ATT",
+      "nationality": "Guinea",
+      "age": 33
+    },
+    {
+      "id": 26248,
+      "name": "V. Grifo",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 90647,
+      "name": "M. Egbo",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 90648,
+      "name": "M. Benger",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 90651,
+      "name": "A. Herzog",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 91019,
+      "name": "C. Heimeroth",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 40
+    },
+    {
+      "id": 2802,
+      "name": "Y. Sommer",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 37
+    },
+    {
+      "id": 2810,
+      "name": "D. Zakaria",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 29
+    },
+    {
+      "id": 2929,
+      "name": "T. Hazard",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 32
+    },
+    {
+      "id": 6727,
+      "name": "R. Bobadilla",
+      "position": "ATT",
+      "nationality": "Paraguay",
+      "age": 38
+    },
+    {
+      "id": 18943,
+      "name": "J. Vestergaard",
+      "position": "DEF",
+      "nationality": "Denmark",
+      "age": 33
+    },
+    {
+      "id": 22086,
+      "name": "T. Kolodziejczak",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 24962,
+      "name": "L. Bénes",
+      "position": "MID",
+      "nationality": "Slovakia",
+      "age": 28
+    },
+    {
+      "id": 25293,
+      "name": "R. Oxford",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 25628,
+      "name": "J. Beyer",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 25631,
+      "name": "F. Mayer",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 25633,
+      "name": "O. Wendt",
+      "position": "DEF",
+      "nationality": "Sweden",
+      "age": 40
+    },
+    {
+      "id": 25637,
+      "name": "C. Kramer",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 25643,
+      "name": "J. Drmić",
+      "position": "ATT",
+      "nationality": "Switzerland",
+      "age": 32
+    },
+    {
+      "id": 25648,
+      "name": "J. Villalba",
+      "position": "ATT",
+      "nationality": "Paraguay",
+      "age": 27
+    },
+    {
+      "id": 37083,
+      "name": "B. Simakala",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 90653,
+      "name": "J. Hoffmanns",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 28
+    }
+  ],
+  "Hertha": [
+    {
+      "id": 973,
+      "name": "M. Weiser",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 2916,
+      "name": "N. Stark",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 25308,
+      "name": "Julian Schieber",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 25316,
+      "name": "S. Langkamp",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 25333,
+      "name": "R. Jarstein",
+      "position": "GK",
+      "nationality": "Norway",
+      "age": 39
+    },
+    {
+      "id": 25336,
+      "name": "T. Kraft",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 25337,
+      "name": "D. Smarsch",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 25338,
+      "name": "F. Baak",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 25342,
+      "name": "M. Mittelstädt",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 25344,
+      "name": "M. Plattenhardt",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 25346,
+      "name": "J. Torunarigha",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 25347,
+      "name": "M. Čović",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 25351,
+      "name": "J. Kade",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 25354,
+      "name": "F. Lustenberger",
+      "position": "DEF",
+      "nationality": "Switzerland",
+      "age": 36
+    },
+    {
+      "id": 25355,
+      "name": "A. Maier",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 25356,
+      "name": "P. Skjelbred",
+      "position": "MID",
+      "nationality": "Norway",
+      "age": 38
+    },
+    {
+      "id": 25357,
+      "name": "P. Dárdai",
+      "position": "ATT",
+      "nationality": "Hungary",
+      "age": 26
+    },
+    {
+      "id": 25359,
+      "name": "V. Ibišević",
+      "position": "ATT",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 37
+    },
+    {
+      "id": 26308,
+      "name": "A. Esswein",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 48386,
+      "name": "V. Stocker",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 33
+    },
+    {
+      "id": 2751,
+      "name": "M. Leckie",
+      "position": "ATT",
+      "nationality": "Australia",
+      "age": 34
+    },
+    {
+      "id": 10319,
+      "name": "Allan",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 28
+    },
+    {
+      "id": 25335,
+      "name": "J. Klinsmann",
+      "position": "GK",
+      "nationality": "USA",
+      "age": 28
+    },
+    {
+      "id": 25343,
+      "name": "P. Pekarík",
+      "position": "DEF",
+      "nationality": "Slovakia",
+      "age": 39
+    },
+    {
+      "id": 25345,
+      "name": "K. Rekik",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 31
+    },
+    {
+      "id": 25348,
+      "name": "V. Darida",
+      "position": "MID",
+      "nationality": "Czechia",
+      "age": 35
+    },
+    {
+      "id": 25349,
+      "name": "O. Duda",
+      "position": "MID",
+      "nationality": "Slovakia",
+      "age": 31
+    },
+    {
+      "id": 25352,
+      "name": "Salomon Armand Magloire Kalou",
+      "position": "ATT",
+      "nationality": "Côte d'Ivoire",
+      "age": 38
+    },
+    {
+      "id": 25353,
+      "name": "V. Lazaro",
+      "position": "DEF",
+      "nationality": "Austria",
+      "age": 29
+    },
+    {
+      "id": 25362,
+      "name": "D. Selke",
+      "position": "UNK",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 25379,
+      "name": "G. Haraguchi",
+      "position": "MID",
+      "nationality": "Japan",
+      "age": 34
+    }
+  ],
+  "Werder Bremen": [
+    {
+      "id": 1,
+      "name": "Jiří Pavlenka",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Luca Caldirola",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Robert Bauer",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Ludwig Augustinsson",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Thomas Delaney",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Florian Kainz",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Jérôme Gondorf",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Aron Jóhannsson",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Max Kruse",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Milot Rashica",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Miloš Veljković",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Ole Käuper",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Sebastian Langkamp",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Zlatko Junuzović",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Justin Eilers",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Niklas Moisander",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Yuning Zhang",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Fin Bartels",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Theodor Gebre Selassie",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Johannes Eggestein",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Jesper Verlaat",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Ishak Belfodil",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Michael Zetterer",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Marco Friedl",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Jaroslav Drobný",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Maximilian Eggestein",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Niklas Schmidt",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Luca Plogmann",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "Philipp Bargfrede",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 30,
+      "name": "Ousman Manneh",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 57,
+      "name": "Zhang Yuning",
+      "position": "ATT",
+      "nationality": "China",
+      "age": "N/A"
+    },
+    {
+      "id": 61,
+      "name": "Ulisses Garcia",
+      "position": "DEF",
+      "nationality": "Switzerland",
+      "age": "N/A"
+    },
+    {
+      "id": 63,
+      "name": "Izet Hajrović",
+      "position": "ATT",
+      "nationality": "Bosnia and Herzegovina",
+      "age": "N/A"
+    }
+  ],
+  "Augsburg": [
+    {
+      "id": 1,
+      "name": "Andreas Luthe",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Daniel Opare",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Jeffrey Gouweleeuw",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Marcel Heller",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Rani Khedira",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Shawn Parker",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Daniel Baier",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Michael Gregoritsch",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Fabian Giefer",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Jan Morávek",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Christoph Janker",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Jonathan Schmid",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Koo Ja-cheol",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Gojko Kačar",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Sergio Córdova",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Marco Richter",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Ioannis Gelios",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Kilian Jakob",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Simon Asta",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Alfreð Finnbogason",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Caiuby",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Philipp Max",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Raphael Framberger",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Marwin Hitz",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Martin Hinteregger",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Kevin Danso",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    }
+  ],
+  "Hannover": [
+    {
+      "id": 1,
+      "name": "Philipp Tschauner",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Josip Elez",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Miiko Albornoz",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Julian Korb",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Felipe",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Marvin Bakalorz",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Edgar Prib",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Manuel Schmiedebach",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Jonathas",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Sebastian Maier",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Felix Klaus",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Ihlas Bebou",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Martin Harnik",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Timo Hübers",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Yousef Emghames",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Iver Fossum",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Florian Hübner",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Salif Sané",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Matthias Ostrzolek",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Michael Esser",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Niclas Füllkrug",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Oliver Sorg",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Kenan Karaman",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Pirmin Schwegler",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Mete Kaan Demir",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Marlon Sündermann",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Waldemar Anton",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Fynn Arkenberg",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "Charlison Benschop",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 30,
+      "name": "Noah Sarenren Bazee",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 31,
+      "name": "Tom Baller",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 32,
+      "name": "Linton Maina",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 33,
+      "name": "Uffe Bech",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 34,
+      "name": "Marius Wolf",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 35,
+      "name": "Mike-Steven Bähre",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 36,
+      "name": "Babacar Guèye",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 37,
+      "name": "Samuel Şahin-Radlinger",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    }
+  ],
+  "Mainz": [
+    {
+      "id": 7,
+      "name": "A. Diallo",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 29
+    },
+    {
+      "id": 24825,
+      "name": "P. Klement",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 24886,
+      "name": "Jairo Samperio",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 25902,
+      "name": "R. Adler",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 25903,
+      "name": "F. Dahmen",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 25904,
+      "name": "J. Huth",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 25905,
+      "name": "F. Müller",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 25906,
+      "name": "R. Zentner",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 25907,
+      "name": "S. Bell",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 25908,
+      "name": "D. Brosinski",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 25909,
+      "name": "N. Bungert",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 25910,
+      "name": "G. Bussmann",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 25913,
+      "name": "A. Hack",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 25917,
+      "name": "R. Baku",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 25920,
+      "name": "D. Latza",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 25922,
+      "name": "L. Öztunalı",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 25924,
+      "name": "E. Berggreen",
+      "position": "ATT",
+      "nationality": "Denmark",
+      "age": 31
+    },
+    {
+      "id": 25928,
+      "name": "K. Onisiwo",
+      "position": "ATT",
+      "nationality": "Austria",
+      "age": 33
+    },
+    {
+      "id": 25929,
+      "name": "A. Ujah",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 35
+    },
+    {
+      "id": 47386,
+      "name": "P. De Blasis",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 418,
+      "name": "S. Serdar",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 1294,
+      "name": "V. Fischer",
+      "position": "ATT",
+      "nationality": "Denmark",
+      "age": 29
+    },
+    {
+      "id": 2767,
+      "name": "L. Balogun",
+      "position": "DEF",
+      "nationality": "Nigeria",
+      "age": 37
+    },
+    {
+      "id": 2866,
+      "name": "R. Quaison",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 32
+    },
+    {
+      "id": 3240,
+      "name": "J. Gbamin",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 30
+    },
+    {
+      "id": 18905,
+      "name": "Y. Muto",
+      "position": "MID",
+      "nationality": "Japan",
+      "age": 33
+    },
+    {
+      "id": 25911,
+      "name": "G. Donati",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 25919,
+      "name": "G. Holtmann",
+      "position": "UNK",
+      "nationality": "Philippines",
+      "age": 30
+    },
+    {
+      "id": 25921,
+      "name": "A. Maxim",
+      "position": "MID",
+      "nationality": "Romania",
+      "age": 35
+    },
+    {
+      "id": 26095,
+      "name": "M. Šverko",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 27
+    },
+    {
+      "id": 42188,
+      "name": "Nigel de Jong",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 39
+    },
+    {
+      "id": 47292,
+      "name": "K. Kodro",
+      "position": "UNK",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 32
+    },
+    {
+      "id": 48382,
+      "name": "F. Frei",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 36
+    }
+  ],
+  "Freiburg": [
+    {
+      "id": 1,
+      "name": "Alexander Schwolow",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Aleksandar Ignjovski",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Philipp Lienhart",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Çağlar Söyüncü",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Manuel Gulde",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Amir Abrashi",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Florian Niederlechner",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Mike Frantz",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Lucas Höler",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Marco Terrazzino",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Patrick Kammerbauer",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Pascal Stenzel",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Yoric Ravet",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Lukas Kübler",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Nils Petersen",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Janik Haberer",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Marc-Oliver Kempf",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Patric Klandt",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Vincent Sierro",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Julian Schuster",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Georg Niedermeier",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Robin Koch",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Gaëtan Bussmann",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Nicolas Höfler",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Jonas Meffert",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Christian Günter",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Karim Guédé",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Bartosz Kapustka",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "Caleb Stanko",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 30,
+      "name": "Tim Kleindienst",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 31,
+      "name": "Florian Kath",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 32,
+      "name": "Rafał Gikiewicz",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    }
+  ],
+  "Wolfsburg": [
+    {
+      "id": 2378,
+      "name": "Vieirinha",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 39
+    },
+    {
+      "id": 2809,
+      "name": "R. Steffen",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 34
+    },
+    {
+      "id": 2918,
+      "name": "K. Casteels",
+      "position": "GK",
+      "nationality": "Belgium",
+      "age": 33
+    },
+    {
+      "id": 25032,
+      "name": "M. Grün",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 38
+    },
+    {
+      "id": 25147,
+      "name": "P. Jaeckel",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 25222,
+      "name": "Christian Träsch",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 25395,
+      "name": "P. Menzel",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 25397,
+      "name": "J. Brooks",
+      "position": "DEF",
+      "nationality": "USA",
+      "age": 32
+    },
+    {
+      "id": 25400,
+      "name": "Y. Gerhardt",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 25401,
+      "name": "G. Itter",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 25402,
+      "name": "S. Jung",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 25403,
+      "name": "R. Knoche",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 25408,
+      "name": "M. Arnold",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 25409,
+      "name": "Ignacio Camacho",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 25410,
+      "name": "J. Guilavogui",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 25413,
+      "name": "E. Rexhbeçaj",
+      "position": "MID",
+      "nationality": "Kosovo",
+      "age": 28
+    },
+    {
+      "id": 26103,
+      "name": "J. Möbius",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 26307,
+      "name": "Daniel Didavi",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 82131,
+      "name": "K. Hinds",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 90636,
+      "name": "P. Verhaegh",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 38
+    },
+    {
+      "id": 305,
+      "name": "D. Origi",
+      "position": "ATT",
+      "nationality": "Belgium",
+      "age": 30
+    },
+    {
+      "id": 400,
+      "name": "J. Bruma",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 33
+    },
+    {
+      "id": 1434,
+      "name": "L. Dimata",
+      "position": "UNK",
+      "nationality": "Belgium",
+      "age": 28
+    },
+    {
+      "id": 2762,
+      "name": "J. Brekalo",
+      "position": "UNK",
+      "nationality": "Croatia",
+      "age": 27
+    },
+    {
+      "id": 2780,
+      "name": "V. Osimhen",
+      "position": "UNK",
+      "nationality": "Nigeria",
+      "age": 27
+    },
+    {
+      "id": 2808,
+      "name": "A. Mehmedi",
+      "position": "ATT",
+      "nationality": "Switzerland",
+      "age": 32
+    },
+    {
+      "id": 3006,
+      "name": "J. Błaszczykowski",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 38
+    },
+    {
+      "id": 25398,
+      "name": "William",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 30
+    },
+    {
+      "id": 25399,
+      "name": "D. Franke",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 25405,
+      "name": "M. Tisserand",
+      "position": "DEF",
+      "nationality": "Congo DR",
+      "age": 33
+    },
+    {
+      "id": 25406,
+      "name": "F. Uduokhai",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 25412,
+      "name": "Y. Mallı",
+      "position": "MID",
+      "nationality": "Türkiye",
+      "age": 32
+    },
+    {
+      "id": 26314,
+      "name": "M. Gómez",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 37175,
+      "name": "R. Bazoer",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 29
+    },
+    {
+      "id": 71567,
+      "name": "P. Ntep",
+      "position": "MID",
+      "nationality": "Cameroon",
+      "age": 32
+    }
+  ],
+  "Hamburg": [
+    {
+      "id": 7707,
+      "name": "B. Thoelke",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 24863,
+      "name": "T. Mickel",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 24864,
+      "name": "J. Pollersbeck",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 24868,
+      "name": "J. Vagnoman",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 24877,
+      "name": "A. Hunt",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 24880,
+      "name": "B. Jatta",
+      "position": "MID",
+      "nationality": "Gambia",
+      "age": 27
+    },
+    {
+      "id": 25029,
+      "name": "S. Schipplock",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 25172,
+      "name": "D. Diekmeier",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 25184,
+      "name": "M. Gouaida",
+      "position": "MID",
+      "nationality": "Tunisia",
+      "age": 31
+    },
+    {
+      "id": 25205,
+      "name": "Mërgim Mavraj",
+      "position": "DEF",
+      "nationality": "Albania",
+      "age": 36
+    },
+    {
+      "id": 25264,
+      "name": "Seo Young-Jae",
+      "position": "DEF",
+      "nationality": "Korea Republic",
+      "age": 29
+    },
+    {
+      "id": 25298,
+      "name": "A. Hahn",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 25382,
+      "name": "N. Müller",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 25394,
+      "name": "B. Wood",
+      "position": "ATT",
+      "nationality": "USA",
+      "age": 33
+    },
+    {
+      "id": 25599,
+      "name": "C. Mathenia",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 26260,
+      "name": "L. Waldschmidt",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 26525,
+      "name": "F. Porath",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 48730,
+      "name": "A. Hirzel",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 32
+    },
+    {
+      "id": 90644,
+      "name": "Sejad Salihović",
+      "position": "MID",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 37
+    },
+    {
+      "id": 119176,
+      "name": "J. Behounek",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 1821,
+      "name": "F. Kostić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 33
+    },
+    {
+      "id": 2858,
+      "name": "A. Ekdal",
+      "position": "MID",
+      "nationality": "Sweden",
+      "age": 36
+    },
+    {
+      "id": 15754,
+      "name": "M. Steinmann",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 24866,
+      "name": "Douglas Santos",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 31
+    },
+    {
+      "id": 24867,
+      "name": "G. Jung",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 24869,
+      "name": "S. Ambrosius",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 27
+    },
+    {
+      "id": 24871,
+      "name": "K. Papadopoulos",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 33
+    },
+    {
+      "id": 24872,
+      "name": "G. Sakai",
+      "position": "DEF",
+      "nationality": "Japan",
+      "age": 34
+    },
+    {
+      "id": 24873,
+      "name": "R. van Drongelen",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 27
+    },
+    {
+      "id": 24876,
+      "name": "L. Holtby",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 24878,
+      "name": "T. Ito",
+      "position": "ATT",
+      "nationality": "Japan",
+      "age": 28
+    },
+    {
+      "id": 24879,
+      "name": "V. Janjičić",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 27
+    },
+    {
+      "id": 24887,
+      "name": "J. Arp",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 24889,
+      "name": "Pierre-Michel Lasogga",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 25387,
+      "name": "Walace",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 30
+    },
+    {
+      "id": 25620,
+      "name": "T. Knöll",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 28
+    }
+  ],
+  "FC Koln": [
+    {
+      "id": 21393,
+      "name": "S. Guirassy",
+      "position": "ATT",
+      "nationality": "Guinea",
+      "age": 29
+    },
+    {
+      "id": 24785,
+      "name": "T. Horn",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 24786,
+      "name": "T. Kessler",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 24793,
+      "name": "Jorge Meré",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 28
+    },
+    {
+      "id": 24796,
+      "name": "C. Clemens",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 24798,
+      "name": "C. Führich",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 24801,
+      "name": "J. Hector",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 24804,
+      "name": "V. Koziello",
+      "position": "MID",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 24805,
+      "name": "M. Lehmann",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 38
+    },
+    {
+      "id": 24806,
+      "name": "N. Nartey",
+      "position": "MID",
+      "nationality": "Denmark",
+      "age": 25
+    },
+    {
+      "id": 24807,
+      "name": "S. Özcan",
+      "position": "MID",
+      "nationality": "Türkiye",
+      "age": 27
+    },
+    {
+      "id": 24808,
+      "name": "M. Risse",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 24812,
+      "name": "S. Terodde",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 25084,
+      "name": "S. Zoller",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 25094,
+      "name": "F. Kusić",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 29
+    },
+    {
+      "id": 26085,
+      "name": "S. Müller",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 26237,
+      "name": "D. Heintz",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 26485,
+      "name": "D. Maroh",
+      "position": "DEF",
+      "nationality": "Slovenia",
+      "age": 34
+    },
+    {
+      "id": 53652,
+      "name": "K. Rausch",
+      "position": "DEF",
+      "nationality": "Russia",
+      "age": 32
+    },
+    {
+      "id": 90654,
+      "name": "Artoms Rudņevs",
+      "position": "ATT",
+      "nationality": "Latvia",
+      "age": 29
+    },
+    {
+      "id": 716,
+      "name": "L. Bittencourt",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 19695,
+      "name": "P. Olkowski",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 35
+    },
+    {
+      "id": 24787,
+      "name": "B. Scott",
+      "position": "GK",
+      "nationality": "USA",
+      "age": 26
+    },
+    {
+      "id": 24790,
+      "name": "F. Sørensen",
+      "position": "DEF",
+      "nationality": "Denmark",
+      "age": 33
+    },
+    {
+      "id": 24791,
+      "name": "J. Horn",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 28
+    },
+    {
+      "id": 24802,
+      "name": "M. Höger",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 36
+    },
+    {
+      "id": 24810,
+      "name": "J. Córdoba",
+      "position": "ATT",
+      "nationality": "Colombia",
+      "age": 32
+    },
+    {
+      "id": 24953,
+      "name": "Y. Bisseck",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 25330,
+      "name": "Y. Osako",
+      "position": "ATT",
+      "nationality": "Japan",
+      "age": 35
+    },
+    {
+      "id": 25331,
+      "name": "C. Pizarro",
+      "position": "ATT",
+      "nationality": "Peru",
+      "age": 43
+    },
+    {
+      "id": 25340,
+      "name": "L. Klünter",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 25602,
+      "name": "K. Goden",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 26335,
+      "name": "A. Ouahim",
+      "position": "ATT",
+      "nationality": "Morocco",
+      "age": 28
+    },
+    {
+      "id": 38113,
+      "name": "T. Handwerker",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 27
+    },
+    {
+      "id": 39085,
+      "name": "B. Risa",
+      "position": "DEF",
+      "nationality": "Norway",
+      "age": 27
+    },
+    {
+      "id": 49855,
+      "name": "M. Jojić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 33
+    },
+    {
+      "id": 90762,
+      "name": "João Queirós",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 27
+    },
+    {
+      "id": 158121,
+      "name": "I. Jakobs",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 26
+    }
+  ]
+}

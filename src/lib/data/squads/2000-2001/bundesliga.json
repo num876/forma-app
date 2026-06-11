@@ -1,0 +1,725 @@
+{
+  "Bayern Munich": [
+    {
+      "id": 1,
+      "name": "Oliver Kahn (vice-captain)",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Bernd Dreher",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Stefan Wessels",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Patrik Andersson",
+      "position": "DEF",
+      "nationality": "Sweden",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Sebastian Backer",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Samuel Kuffour",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Thomas Linke",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Bixente Lizarazu",
+      "position": "DEF",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Michael Tarnat",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Willy Sagnol",
+      "position": "DEF",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Stephan Kling",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Ciriaco Sforza",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Stefan Effenberg (captain)",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Thorsten Fink",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Owen Hargreaves",
+      "position": "MID",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Patrick Mölzl",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Hasan Salihamidžić",
+      "position": "MID",
+      "nationality": "Bosnia and Herzegovina",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Jens Jeremies",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Mehmet Scholl",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Thomas Strunz",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Michael Wiesinger",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Sławomir Wojciechowski",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Berkant Göktan",
+      "position": "ATT",
+      "nationality": "Turkey",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Roque Santa Cruz",
+      "position": "ATT",
+      "nationality": "Paraguay",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Paulo Sérgio",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Giovane Élber",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Carsten Jancker",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Alexander Zickler",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "Antonio Di Salvo",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": "N/A"
+    }
+  ],
+  "Schalke 04": [
+    {
+      "id": 1,
+      "name": "Oliver Reck",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Nico Van Kerckhoven",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Radoslav Látal",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Yves Eigenrauch",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Sven Kmetsch",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Tomasz Hajto",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Andreas Möller",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Jörg Böhme",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Youri Mulder",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Olaf Thon",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Ebbe Sand",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Marco van Hoogdalem",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Frode Grodås",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Gerald Asamoah[notes 1]",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Tomasz Wałdoch",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Oliver Held",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Ünal Alpuğan",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Niels Oude Kamphuis",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Mike Büskens",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Jiří Němec",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Émile Mpenza",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Markus Happe",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Johan de Kock",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Ali Göl",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Benjamin Wingerter",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Sladan Peric",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Toni Tapalović",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Tamás Hajnal",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "Thorsten Legat",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 30,
+      "name": "Benjamin Koch",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 31,
+      "name": "Christian Mikolajczak",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 32,
+      "name": "Mathias Schober",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    }
+  ],
+  "Dortmund": [],
+  "Leverkusen": [
+    {
+      "id": 243130,
+      "name": "Diego Rodolfo Placente",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 36
+    }
+  ],
+  "Hertha": [],
+  "Freiburg": [
+    {
+      "id": 114953,
+      "name": "L. Kobiashvili",
+      "position": "DEF",
+      "nationality": "Georgia",
+      "age": 44
+    },
+    {
+      "id": 221225,
+      "name": "A. Iashvili",
+      "position": "ATT",
+      "nationality": "Georgia",
+      "age": 44
+    }
+  ],
+  "Werder Bremen": [],
+  "Kaiserslautern": [],
+  "Wolfsburg": [],
+  "FC Koln": [
+    {
+      "id": 1,
+      "name": "Faryd Mondragón",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Mišo Brečko",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Youssef Mohamad",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Pierre Womé",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Sebastian Freis",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Petit[notes 1]",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Manasseh Ishiaku",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Lukas Podolski[notes 2]",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Milivoje Novaković",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Maniche",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Daniel Brosinski",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Zoran Tošić",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Simon Terodde",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Christopher Schorch",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Kevin Pezzoni",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Thomas Kessler",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Taner Yalçın[notes 3]",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Adil Chihi[notes 4]",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Pedro Geromel",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Fabrice Ehret[notes 5]",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Kevin McKenna",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "José Pierre Vunguidica",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Adam Matuszczyk",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Christian Clemens",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Carsten Cullmann",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Sebastian Zielinsky",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Stephan Salger",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Michael Niedrig",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "Miro Varvodić",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 30,
+      "name": "Alexander Vaaßen",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 31,
+      "name": "Reinhold Yabo",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 32,
+      "name": "Andreas Dick",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 33,
+      "name": "Marvin Matip[notes 6]",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 34,
+      "name": "Wilfried Sanou",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 35,
+      "name": "Lukas Nottbeck",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 36,
+      "name": "Michael Gardawski",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    }
+  ],
+  "Munich 1860": [],
+  "Hansa Rostock": [],
+  "Hamburg": [],
+  "Cottbus": [],
+  "Stuttgart": [],
+  "Unterhaching": [],
+  "Ein Frankfurt": [],
+  "Bochum": []
+}

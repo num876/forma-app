@@ -1,0 +1,4704 @@
+{
+  "Paris SG": [
+    {
+      "id": 178,
+      "name": "Lucas Moura",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 257,
+      "name": "Marquinhos",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 31
+    },
+    {
+      "id": 259,
+      "name": "Thiago Silva",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 41
+    },
+    {
+      "id": 272,
+      "name": "A. Rabiot",
+      "position": "MID",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 273,
+      "name": "M. Verratti",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 508,
+      "name": "K. Coman",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 781,
+      "name": "J. Pastore",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 34
+    },
+    {
+      "id": 869,
+      "name": "B. Matuidi",
+      "position": "MID",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 2724,
+      "name": "L. Digne",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 13093,
+      "name": "E. Lavezzi",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 21013,
+      "name": "Mohamed Sissoko",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": 34
+    },
+    {
+      "id": 21053,
+      "name": "N. Douchez",
+      "position": "GK",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 21283,
+      "name": "K. Traoré",
+      "position": "DEF",
+      "nationality": "Mali",
+      "age": 33
+    },
+    {
+      "id": 22165,
+      "name": "Christophe Jallet",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 22221,
+      "name": "M. Maignan",
+      "position": "GK",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 43223,
+      "name": "H. Ongenda",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 51070,
+      "name": "Z. Ibrahimović",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 42
+    },
+    {
+      "id": 85062,
+      "name": "Thiago Motta",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 87211,
+      "name": "Maxwell Scherrer Cabelino Andrade",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 36
+    },
+    {
+      "id": 90488,
+      "name": "Y. Cabaye",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 274,
+      "name": "E. Cavani",
+      "position": "ATT",
+      "nationality": "Uruguay",
+      "age": 38
+    },
+    {
+      "id": 18842,
+      "name": "M. Sakho",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 30495,
+      "name": "S. Sirigu",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 35605,
+      "name": "J. Ménez",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 50808,
+      "name": "G. van der Wiel",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 33
+    },
+    {
+      "id": 113672,
+      "name": "Alex",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 39
+    }
+  ],
+  "Monaco": [
+    {
+      "id": 92,
+      "name": "D. Subašić",
+      "position": "GK",
+      "nationality": "Croatia",
+      "age": 39
+    },
+    {
+      "id": 100,
+      "name": "Andrea Raggi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 926,
+      "name": "G. Kondogbia",
+      "position": "MID",
+      "nationality": "Central African Republic",
+      "age": 32
+    },
+    {
+      "id": 1911,
+      "name": "L. Ocampos",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 31
+    },
+    {
+      "id": 1918,
+      "name": "V. Germain",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 2923,
+      "name": "Y. Carrasco",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 32
+    },
+    {
+      "id": 14331,
+      "name": "Borja López",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 15807,
+      "name": "Jakob Poulsen",
+      "position": "MID",
+      "nationality": "Denmark",
+      "age": 38
+    },
+    {
+      "id": 20561,
+      "name": "J. Pi",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 21296,
+      "name": "T. Makengo",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 21309,
+      "name": "G. Coulibaly",
+      "position": "MID",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 21483,
+      "name": "M. Caillard",
+      "position": "GK",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 24150,
+      "name": "M. Obbadi",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 38
+    },
+    {
+      "id": 24267,
+      "name": "A. Maraval",
+      "position": "GK",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 80979,
+      "name": "Ibrahima Touré",
+      "position": "ATT",
+      "nationality": "Senegal",
+      "age": 40
+    },
+    {
+      "id": 85698,
+      "name": "Jérémy Toulalan",
+      "position": "MID",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 113678,
+      "name": "E. Abidal",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 113687,
+      "name": "F. Roma",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 47
+    },
+    {
+      "id": 113715,
+      "name": "A. Wolf",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 39
+    },
+    {
+      "id": 113850,
+      "name": "Adriano Pereira",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 31
+    },
+    {
+      "id": 7,
+      "name": "A. Diallo",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 29
+    },
+    {
+      "id": 119,
+      "name": "R. Falcao",
+      "position": "UNK",
+      "nationality": "Colombia",
+      "age": 39
+    },
+    {
+      "id": 263,
+      "name": "L. Kurzawa",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 299,
+      "name": "Fabinho",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 517,
+      "name": "J. Rodríguez",
+      "position": "MID",
+      "nationality": "Colombia",
+      "age": 34
+    },
+    {
+      "id": 884,
+      "name": "S. Romero",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 908,
+      "name": "A. Martial",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 1356,
+      "name": "N. Dirar",
+      "position": "ATT",
+      "nationality": "Morocco",
+      "age": 39
+    },
+    {
+      "id": 1899,
+      "name": "A. Abdennour",
+      "position": "DEF",
+      "nationality": "Tunisia",
+      "age": 34
+    },
+    {
+      "id": 1980,
+      "name": "N. Isimat-Mirin",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 2677,
+      "name": "João Moutinho",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 39
+    },
+    {
+      "id": 8528,
+      "name": "G. Kagelmacher",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 37
+    },
+    {
+      "id": 20539,
+      "name": "E. Rivière",
+      "position": "ATT",
+      "nationality": "Martinique",
+      "age": 31
+    },
+    {
+      "id": 25405,
+      "name": "M. Tisserand",
+      "position": "DEF",
+      "nationality": "Congo DR",
+      "age": 33
+    },
+    {
+      "id": 50092,
+      "name": "D. N’Dinga",
+      "position": "MID",
+      "nationality": "Congo",
+      "age": 35
+    },
+    {
+      "id": 55393,
+      "name": "Elderson Echiejile",
+      "position": "DEF",
+      "nationality": "Nigeria",
+      "age": 33
+    },
+    {
+      "id": 80933,
+      "name": "Ricardo Carvalho",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 40
+    },
+    {
+      "id": 113639,
+      "name": "Dimitar Ivanov Berbatov",
+      "position": "ATT",
+      "nationality": "Bulgaria",
+      "age": 37
+    }
+  ],
+  "Lille": [
+    {
+      "id": 103,
+      "name": "J. Aholou",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 31
+    },
+    {
+      "id": 305,
+      "name": "D. Origi",
+      "position": "ATT",
+      "nationality": "Belgium",
+      "age": 30
+    },
+    {
+      "id": 2990,
+      "name": "I. Gueye",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 36
+    },
+    {
+      "id": 8931,
+      "name": "T. Peyre",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 13897,
+      "name": "John Jairo Ruíz",
+      "position": "ATT",
+      "nationality": "Costa Rica",
+      "age": 31
+    },
+    {
+      "id": 18841,
+      "name": "P. Souaré",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 35
+    },
+    {
+      "id": 20635,
+      "name": "J. Delaplace",
+      "position": "MID",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 21249,
+      "name": "Steeve Elana",
+      "position": "GK",
+      "nationality": "Martinique",
+      "age": 41
+    },
+    {
+      "id": 21507,
+      "name": "R. Rodelin",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 21508,
+      "name": "N. Roux",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 21706,
+      "name": "F. Balmont",
+      "position": "MID",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 22008,
+      "name": "M. Martin",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 22227,
+      "name": "A. Soumaoro",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 30507,
+      "name": "S. Meïté",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 80371,
+      "name": "Túlio Vinícius Froes de Melo",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 87082,
+      "name": "Rio Mavuba",
+      "position": "MID",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 87164,
+      "name": "F. Béria",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 87166,
+      "name": "V. Enyeama",
+      "position": "GK",
+      "nationality": "Nigeria",
+      "age": 39
+    },
+    {
+      "id": 113710,
+      "name": "C. Halucha",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 113776,
+      "name": "Barel Morial Mouko",
+      "position": "GK",
+      "nationality": "Congo",
+      "age": 43
+    },
+    {
+      "id": 102,
+      "name": "D. Sidibé",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 2045,
+      "name": "S. Kjær",
+      "position": "DEF",
+      "nationality": "Denmark",
+      "age": 35
+    },
+    {
+      "id": 3334,
+      "name": "Y. Koné",
+      "position": "DEF",
+      "nationality": "Mali",
+      "age": 30
+    },
+    {
+      "id": 19347,
+      "name": "J. Jeanvier",
+      "position": "DEF",
+      "nationality": "Guinea",
+      "age": 33
+    },
+    {
+      "id": 25352,
+      "name": "Salomon Armand Magloire Kalou",
+      "position": "ATT",
+      "nationality": "Côte d'Ivoire",
+      "age": 38
+    },
+    {
+      "id": 50270,
+      "name": "Ryan Mendes",
+      "position": "UNK",
+      "nationality": "Cape Verde",
+      "age": 36
+    },
+    {
+      "id": 79086,
+      "name": "D. Rozehnal",
+      "position": "DEF",
+      "nationality": "Czech Republic",
+      "age": 41
+    }
+  ],
+  "St Etienne": [
+    {
+      "id": 75108,
+      "name": "Guillermo Ariel Bodnarsky",
+      "position": "UNK",
+      "nationality": "Argentina",
+      "age": 35
+    },
+    {
+      "id": 75150,
+      "name": "Jorge Ezequiel Gadea",
+      "position": "UNK",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 168177,
+      "name": "Kevan Henry",
+      "position": "UNK",
+      "nationality": "St. Vincent and the Grenadines",
+      "age": 18
+    },
+    {
+      "id": 168216,
+      "name": "Dennis Prescott",
+      "position": "UNK",
+      "nationality": "St. Vincent and the Grenadines",
+      "age": 18
+    },
+    {
+      "id": 202128,
+      "name": "C. Murillo",
+      "position": "UNK",
+      "nationality": "USA",
+      "age": 27
+    },
+    {
+      "id": 300356,
+      "name": "Geryon Ferdinand Alberto",
+      "position": "UNK",
+      "nationality": "CuraÃ§ao",
+      "age": 20
+    },
+    {
+      "id": 300439,
+      "name": "Myron Justino Martin Clarinda",
+      "position": "UNK",
+      "nationality": "CuraÃ§ao",
+      "age": 20
+    },
+    {
+      "id": 421387,
+      "name": "P. Greiwe",
+      "position": "UNK",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 464890,
+      "name": "M. Hawksworth",
+      "position": "UNK",
+      "nationality": "Scotland",
+      "age": 32
+    },
+    {
+      "id": 467519,
+      "name": "L. McGregor",
+      "position": "UNK",
+      "nationality": "Scotland",
+      "age": 32
+    }
+  ],
+  "Lyon": [
+    {
+      "id": 646,
+      "name": "M. Gorgelin",
+      "position": "GK",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 647,
+      "name": "Anthony Lopes",
+      "position": "GK",
+      "nationality": "Portugal",
+      "age": 35
+    },
+    {
+      "id": 668,
+      "name": "N. Fekir",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 1657,
+      "name": "Milan Biševac",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 40
+    },
+    {
+      "id": 2203,
+      "name": "M. Zeffane",
+      "position": "DEF",
+      "nationality": "Algeria",
+      "age": 33
+    },
+    {
+      "id": 8858,
+      "name": "T. Defourny",
+      "position": "GK",
+      "nationality": "Belgium",
+      "age": 33
+    },
+    {
+      "id": 21439,
+      "name": "J. Ferri",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 21632,
+      "name": "M. Dabo",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 24153,
+      "name": "Gaël Danic",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 40
+    },
+    {
+      "id": 48595,
+      "name": "J. Frick",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 32
+    },
+    {
+      "id": 49600,
+      "name": "Z. Labidi",
+      "position": "MID",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 50797,
+      "name": "Harry Novillo",
+      "position": "MID",
+      "nationality": "Martinique",
+      "age": 30
+    },
+    {
+      "id": 85072,
+      "name": "F. Bahlouli",
+      "position": "MID",
+      "nationality": "France",
+      "age": 28
+    },
+    {
+      "id": 85676,
+      "name": "R. Vercoutre",
+      "position": "GK",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 85695,
+      "name": "Henri Bedimo",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 34
+    },
+    {
+      "id": 87057,
+      "name": "Yoann  Gourcuff",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 100694,
+      "name": "K. Tsimba",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 30
+    },
+    {
+      "id": 113634,
+      "name": "Gueïda Fofana",
+      "position": "MID",
+      "nationality": "France",
+      "age": 26
+    },
+    {
+      "id": 113778,
+      "name": "S. Koné",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": 29
+    },
+    {
+      "id": 175176,
+      "name": "Romaric N'Gouma",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 26
+    },
+    {
+      "id": 139,
+      "name": "S. Umtiti",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 519,
+      "name": "C. Tolisso",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 1273,
+      "name": "Jimmy Briand",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 1371,
+      "name": "Y. Benzia",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 31
+    },
+    {
+      "id": 1467,
+      "name": "A. Lacazette",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 1919,
+      "name": "C. N&apos;Jie",
+      "position": "ATT",
+      "nationality": "Cameroon",
+      "age": 32
+    },
+    {
+      "id": 2051,
+      "name": "M. Gonalons",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 2128,
+      "name": "Miguel Lopes",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 39
+    },
+    {
+      "id": 2208,
+      "name": "C. Grenier",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 5927,
+      "name": "L. López",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 42
+    },
+    {
+      "id": 18780,
+      "name": "R. Ghezzal",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 33
+    },
+    {
+      "id": 19820,
+      "name": "N. Sarr",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 32
+    },
+    {
+      "id": 25646,
+      "name": "A. Pléa",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 42346,
+      "name": "Arnold Mvuemba",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 44355,
+      "name": "B. Gomis",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 53495,
+      "name": "B. Koné",
+      "position": "DEF",
+      "nationality": "Burkina Faso",
+      "age": 33
+    },
+    {
+      "id": 87295,
+      "name": "S. Malbranque",
+      "position": "MID",
+      "nationality": "France",
+      "age": 43
+    }
+  ],
+  "Marseille": [
+    {
+      "id": 623,
+      "name": "B. Mendy",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 654,
+      "name": "J. Morel",
+      "position": "DEF",
+      "nationality": "Madagascar",
+      "age": 41
+    },
+    {
+      "id": 12967,
+      "name": "Qian Jiegei",
+      "position": "MID",
+      "nationality": "China PR",
+      "age": 33
+    },
+    {
+      "id": 20876,
+      "name": "B. Aloé",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 20917,
+      "name": "L. Abergel",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 21628,
+      "name": "B. Samba",
+      "position": "GK",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 22012,
+      "name": "A. Romao",
+      "position": "MID",
+      "nationality": "Togo",
+      "age": 41
+    },
+    {
+      "id": 35530,
+      "name": "A. Gignac",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 40
+    },
+    {
+      "id": 42288,
+      "name": "Lucas Mendes",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 35
+    },
+    {
+      "id": 50648,
+      "name": "S. Khalifa",
+      "position": "ATT",
+      "nationality": "Tunisia",
+      "age": 37
+    },
+    {
+      "id": 51236,
+      "name": "B. Tuiloma",
+      "position": "DEF",
+      "nationality": "New Zealand",
+      "age": 30
+    },
+    {
+      "id": 78224,
+      "name": "Kevin Osei",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 31
+    },
+    {
+      "id": 78406,
+      "name": "Rafidine Abdullah",
+      "position": "MID",
+      "nationality": "Comoros",
+      "age": 28
+    },
+    {
+      "id": 87078,
+      "name": "R. Fanni",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 40
+    },
+    {
+      "id": 87117,
+      "name": "K. Abdallah",
+      "position": "DEF",
+      "nationality": "Comoros",
+      "age": 38
+    },
+    {
+      "id": 87269,
+      "name": "Gennaro Bracigliano",
+      "position": "GK",
+      "nationality": "France",
+      "age": 45
+    },
+    {
+      "id": 104131,
+      "name": "F. Kadir",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 42
+    },
+    {
+      "id": 105389,
+      "name": "B. Cheyrou",
+      "position": "MID",
+      "nationality": "France",
+      "age": 40
+    },
+    {
+      "id": 113643,
+      "name": "S. Diawara",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 43
+    },
+    {
+      "id": 113656,
+      "name": "M. Bangoura",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 27
+    },
+    {
+      "id": 1367,
+      "name": "M. Valbuena",
+      "position": "MID",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 1370,
+      "name": "A. Ayew",
+      "position": "UNK",
+      "nationality": "Ghana",
+      "age": 36
+    },
+    {
+      "id": 1897,
+      "name": "S. Mandanda",
+      "position": "GK",
+      "nationality": "France",
+      "age": 40
+    },
+    {
+      "id": 1912,
+      "name": "D. Payet",
+      "position": "MID",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 1922,
+      "name": "F. Thauvin",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 3428,
+      "name": "J. Ayew",
+      "position": "ATT",
+      "nationality": "Ghana",
+      "age": 34
+    },
+    {
+      "id": 4589,
+      "name": "A. Yousfi",
+      "position": "ATT",
+      "nationality": "Algeria",
+      "age": 30
+    },
+    {
+      "id": 18947,
+      "name": "M. Lemina",
+      "position": "MID",
+      "nationality": "Gabon",
+      "age": 32
+    },
+    {
+      "id": 30503,
+      "name": "N. Nkoulou",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 35
+    },
+    {
+      "id": 47544,
+      "name": "G. Imbula",
+      "position": "MID",
+      "nationality": "Congo DR",
+      "age": 32
+    },
+    {
+      "id": 50139,
+      "name": "B. Dja Djédjé",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 34
+    },
+    {
+      "id": 85757,
+      "name": "M. Amalfitano",
+      "position": "MID",
+      "nationality": "France",
+      "age": 36
+    }
+  ],
+  "Bordeaux": [
+    {
+      "id": 960,
+      "name": "G. Hoarau",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 1013,
+      "name": "G. Sertic",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 1263,
+      "name": "Maxime Poundjé",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 1269,
+      "name": "Jaroslav Plašil",
+      "position": "MID",
+      "nationality": "Czech Republic",
+      "age": 39
+    },
+    {
+      "id": 5907,
+      "name": "L. Orbán",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 34
+    },
+    {
+      "id": 20616,
+      "name": "Thomas Mady Chris Touré",
+      "position": "ATT",
+      "nationality": "Côte d'Ivoire",
+      "age": 32
+    },
+    {
+      "id": 21007,
+      "name": "Y. Kaabouni",
+      "position": "MID",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 21143,
+      "name": "T. Pellenard",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 21523,
+      "name": "C. Badin",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 21529,
+      "name": "Nicolas Maurice-Belay",
+      "position": "MID",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 36994,
+      "name": "A. Jug",
+      "position": "GK",
+      "nationality": "Slovenia",
+      "age": 33
+    },
+    {
+      "id": 47373,
+      "name": "D. Rolán",
+      "position": "ATT",
+      "nationality": "Uruguay",
+      "age": 30
+    },
+    {
+      "id": 77135,
+      "name": "Fahid Ben Khalfallah",
+      "position": "MID",
+      "nationality": "Tunisia",
+      "age": 36
+    },
+    {
+      "id": 85704,
+      "name": "J. Prior",
+      "position": "GK",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 86051,
+      "name": "Jeremie Brechet",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 87224,
+      "name": "Abdou Traoré",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": 33
+    },
+    {
+      "id": 113608,
+      "name": "Jussiê",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 38
+    },
+    {
+      "id": 113647,
+      "name": "M. Planus",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 113688,
+      "name": "M. Chalmé",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 113689,
+      "name": "Kévin Jacques Olimpa",
+      "position": "GK",
+      "nationality": "Martinique",
+      "age": 32
+    },
+    {
+      "id": 346,
+      "name": "Vujadin Savić",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 32
+    },
+    {
+      "id": 434,
+      "name": "Mariano",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 39
+    },
+    {
+      "id": 3346,
+      "name": "H. Sacko",
+      "position": "ATT",
+      "nationality": "Mali",
+      "age": 29
+    },
+    {
+      "id": 3383,
+      "name": "S. D&apos;Almeida",
+      "position": "MID",
+      "nationality": "Benin",
+      "age": 30
+    },
+    {
+      "id": 19344,
+      "name": "Y. Barbet",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 21649,
+      "name": "E. Crivelli",
+      "position": "UNK",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 50177,
+      "name": "A. Biyogo Poko",
+      "position": "MID",
+      "nationality": "Gabon",
+      "age": 32
+    },
+    {
+      "id": 50237,
+      "name": "H. Saivet",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 35
+    },
+    {
+      "id": 50646,
+      "name": "C. Diabaté",
+      "position": "ATT",
+      "nationality": "Mali",
+      "age": 35
+    },
+    {
+      "id": 50927,
+      "name": "L. Sané",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 33
+    },
+    {
+      "id": 57328,
+      "name": "L. N&apos;Guémo",
+      "position": "MID",
+      "nationality": "Cameroon",
+      "age": 36
+    },
+    {
+      "id": 80621,
+      "name": "Carlos Henrique dos Santos Souza",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 85006,
+      "name": "Ludovic Obraniak",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 34
+    },
+    {
+      "id": 87290,
+      "name": "Cédric Carrasso",
+      "position": "GK",
+      "nationality": "France",
+      "age": 40
+    },
+    {
+      "id": 90565,
+      "name": "J. Faubert",
+      "position": "MID",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 113701,
+      "name": "D. Bellion",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 39
+    }
+  ],
+  "Nantes": [
+    {
+      "id": 1428,
+      "name": "A. Trébel",
+      "position": "MID",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 2455,
+      "name": "F. Aristeguieta",
+      "position": "ATT",
+      "nationality": "Venezuela",
+      "age": 31
+    },
+    {
+      "id": 8551,
+      "name": "R. Riou",
+      "position": "GK",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 11112,
+      "name": "A. N&apos;Dongala",
+      "position": "MID",
+      "nationality": "Congo DR",
+      "age": 30
+    },
+    {
+      "id": 15403,
+      "name": "V. Bessat",
+      "position": "MID",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 20578,
+      "name": "O. Vizcarrondo",
+      "position": "DEF",
+      "nationality": "Venezuela",
+      "age": 37
+    },
+    {
+      "id": 20822,
+      "name": "C. Alhadhur",
+      "position": "DEF",
+      "nationality": "Comoros",
+      "age": 32
+    },
+    {
+      "id": 20866,
+      "name": "B. Touré",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": 33
+    },
+    {
+      "id": 21079,
+      "name": "M. Dupé",
+      "position": "GK",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 21103,
+      "name": "A. Touré",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 21499,
+      "name": "L. Deaux",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 21629,
+      "name": "E. Zelazny",
+      "position": "GK",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 24239,
+      "name": "S. Trabelsi",
+      "position": "MID",
+      "nationality": "Tunisia",
+      "age": 33
+    },
+    {
+      "id": 41760,
+      "name": "A. Oudrhiri",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 44733,
+      "name": "Ismaël Bangoura",
+      "position": "ATT",
+      "nationality": "Guinea",
+      "age": 36
+    },
+    {
+      "id": 50740,
+      "name": "A. Bedoya",
+      "position": "MID",
+      "nationality": "USA",
+      "age": 38
+    },
+    {
+      "id": 100657,
+      "name": "R. Gomis",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 37
+    },
+    {
+      "id": 104536,
+      "name": "B. Nicoliţă",
+      "position": "MID",
+      "nationality": "Romania",
+      "age": 38
+    },
+    {
+      "id": 113669,
+      "name": "Yohann Eudeline",
+      "position": "MID",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 113692,
+      "name": "F. Pancrate",
+      "position": "MID",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 113,
+      "name": "G. Nkoudou",
+      "position": "UNK",
+      "nationality": "Cameroon",
+      "age": 30
+    },
+    {
+      "id": 650,
+      "name": "L. Dubois",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 8685,
+      "name": "S. Gakpé",
+      "position": "ATT",
+      "nationality": "Togo",
+      "age": 36
+    },
+    {
+      "id": 21487,
+      "name": "P. Djilobodji",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 37
+    },
+    {
+      "id": 30409,
+      "name": "J. Veretout",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 30499,
+      "name": "K. Djidji",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 32
+    },
+    {
+      "id": 30762,
+      "name": "Filip Đorđević",
+      "position": "ATT",
+      "nationality": "Serbia",
+      "age": 36
+    },
+    {
+      "id": 50062,
+      "name": "Olivier Veigneau",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 85706,
+      "name": "Issa Cissokho",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 36
+    },
+    {
+      "id": 103865,
+      "name": "G. Cichero",
+      "position": "DEF",
+      "nationality": "Venezuela",
+      "age": 36
+    },
+    {
+      "id": 105805,
+      "name": "I. Shechter",
+      "position": "ATT",
+      "nationality": "Israel",
+      "age": 37
+    },
+    {
+      "id": 111423,
+      "name": "J. Audel",
+      "position": "MID",
+      "nationality": "Martinique",
+      "age": 38
+    }
+  ],
+  "Lorient": [
+    {
+      "id": 2948,
+      "name": "L. Azouni",
+      "position": "MID",
+      "nationality": "Tunisia",
+      "age": 31
+    },
+    {
+      "id": 8649,
+      "name": "R. Mulumba",
+      "position": "MID",
+      "nationality": "Congo DR",
+      "age": 33
+    },
+    {
+      "id": 20585,
+      "name": "B. Pelé",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 20824,
+      "name": "Grégory Bourillon",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 20830,
+      "name": "M. Barthelmé",
+      "position": "MID",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 20951,
+      "name": "M. Coutadeur",
+      "position": "MID",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 21055,
+      "name": "M. Derrien",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 21700,
+      "name": "W. Lautoa",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 22103,
+      "name": "K. Monnet-Paquet",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 22132,
+      "name": "B. Reynet",
+      "position": "GK",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 26940,
+      "name": "D. Epassy",
+      "position": "GK",
+      "nationality": "Cameroon",
+      "age": 32
+    },
+    {
+      "id": 41745,
+      "name": "Pedrinho",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 36
+    },
+    {
+      "id": 47462,
+      "name": "C. Doukouré",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 33
+    },
+    {
+      "id": 78406,
+      "name": "Rafidine Abdullah",
+      "position": "MID",
+      "nationality": "Comoros",
+      "age": 28
+    },
+    {
+      "id": 85074,
+      "name": "Y. Jouffre",
+      "position": "MID",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 113615,
+      "name": "Maxime Baca",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 113620,
+      "name": "F. Chaigneau",
+      "position": "GK",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 113655,
+      "name": "F. Audard",
+      "position": "GK",
+      "nationality": "France",
+      "age": 45
+    },
+    {
+      "id": 113745,
+      "name": "J. Quercia",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 242743,
+      "name": "Antonin  Koutouan Nantcho",
+      "position": "ATT",
+      "nationality": "CÃ´te d'Ivoire",
+      "age": 30
+    },
+    {
+      "id": 8,
+      "name": "Raphaël Guerreiro",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 32
+    },
+    {
+      "id": 386,
+      "name": "V. Aboubakar",
+      "position": "UNK",
+      "nationality": "Cameroon",
+      "age": 34
+    },
+    {
+      "id": 1804,
+      "name": "S. Falette",
+      "position": "DEF",
+      "nationality": "Guinea",
+      "age": 33
+    },
+    {
+      "id": 2989,
+      "name": "L. Gassama",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 35
+    },
+    {
+      "id": 18947,
+      "name": "M. Lemina",
+      "position": "MID",
+      "nationality": "Gabon",
+      "age": 32
+    },
+    {
+      "id": 18991,
+      "name": "B. Ecuele Manga",
+      "position": "DEF",
+      "nationality": "Gabon",
+      "age": 37
+    },
+    {
+      "id": 21566,
+      "name": "B. Lecomte",
+      "position": "GK",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 22246,
+      "name": "L. Koné",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 34
+    },
+    {
+      "id": 22699,
+      "name": "P. Lavenant",
+      "position": "MID",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 22966,
+      "name": "Y. Wachter",
+      "position": "DEF",
+      "nationality": "Gabon",
+      "age": 33
+    },
+    {
+      "id": 24232,
+      "name": "E. Réale",
+      "position": "MID",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 36675,
+      "name": "Sibiri Alain Traoré",
+      "position": "MID",
+      "nationality": "Burkina Faso",
+      "age": 35
+    },
+    {
+      "id": 50215,
+      "name": "G. Sunu",
+      "position": "ATT",
+      "nationality": "Togo",
+      "age": 32
+    },
+    {
+      "id": 61876,
+      "name": "Abdoulaye Sadio Diallo",
+      "position": "MID",
+      "nationality": "Guinea",
+      "age": 32
+    },
+    {
+      "id": 82530,
+      "name": "Fabien Robert",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 87053,
+      "name": "Jérémie Aliadière",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 34
+    }
+  ],
+  "Toulouse": [
+    {
+      "id": 2059,
+      "name": "W. Ben Yedder",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 11119,
+      "name": "M. Fennouche",
+      "position": "ATT",
+      "nationality": "Algeria",
+      "age": 30
+    },
+    {
+      "id": 12868,
+      "name": "Cheikh M'Bengue",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 33
+    },
+    {
+      "id": 21065,
+      "name": "C. Chantôme",
+      "position": "MID",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 21500,
+      "name": "É. Didot",
+      "position": "MID",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 22133,
+      "name": "M. Vidal",
+      "position": "GK",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 22915,
+      "name": "C. Bangre",
+      "position": "MID",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 24021,
+      "name": "F. David",
+      "position": "ATT",
+      "nationality": "Guadeloupe",
+      "age": 33
+    },
+    {
+      "id": 42444,
+      "name": "I. Hassani",
+      "position": "DEF",
+      "nationality": "Algeria",
+      "age": 28
+    },
+    {
+      "id": 43029,
+      "name": "Mihai Roman I",
+      "position": "ATT",
+      "nationality": "Romania",
+      "age": 39
+    },
+    {
+      "id": 45883,
+      "name": "Dušan Veškovac",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 35
+    },
+    {
+      "id": 85260,
+      "name": "M. Firmin",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 85660,
+      "name": "K. Léoni",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 87363,
+      "name": "P. Sirieix",
+      "position": "MID",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 87365,
+      "name": "Pavle Ninkov",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 34
+    },
+    {
+      "id": 105490,
+      "name": "Eden Ben Basat",
+      "position": "ATT",
+      "nationality": "Israel",
+      "age": 35
+    },
+    {
+      "id": 110575,
+      "name": "A. Soukouna",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 113682,
+      "name": "Dany Maury",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 27
+    },
+    {
+      "id": 113693,
+      "name": "Olivier Blondel",
+      "position": "GK",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 113705,
+      "name": "G. Vena",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 163,
+      "name": "S. Aurier",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 33
+    },
+    {
+      "id": 1899,
+      "name": "A. Abdennour",
+      "position": "DEF",
+      "nationality": "Tunisia",
+      "age": 34
+    },
+    {
+      "id": 2078,
+      "name": "U. Spajić",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 32
+    },
+    {
+      "id": 2147,
+      "name": "A. Regattin",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 34
+    },
+    {
+      "id": 2737,
+      "name": "M. Braithwaite",
+      "position": "ATT",
+      "nationality": "Denmark",
+      "age": 34
+    },
+    {
+      "id": 13807,
+      "name": "Abel Aguilar",
+      "position": "MID",
+      "nationality": "Colombia",
+      "age": 34
+    },
+    {
+      "id": 18802,
+      "name": "É. Capoue",
+      "position": "MID",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 20691,
+      "name": "S. Yago",
+      "position": "DEF",
+      "nationality": "Burkina Faso",
+      "age": 33
+    },
+    {
+      "id": 21135,
+      "name": "Z. Boucher",
+      "position": "GK",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 22140,
+      "name": "F. Moubandje",
+      "position": "DEF",
+      "nationality": "Switzerland",
+      "age": 34
+    },
+    {
+      "id": 22141,
+      "name": "I. Sylla",
+      "position": "DEF",
+      "nationality": "Guinea",
+      "age": 31
+    },
+    {
+      "id": 23302,
+      "name": "M. Delgado",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 31678,
+      "name": "J. Akpa Akpro",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 33
+    },
+    {
+      "id": 40285,
+      "name": "D. Furman",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 31
+    },
+    {
+      "id": 47304,
+      "name": "Kévin Rodrigues",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 31
+    },
+    {
+      "id": 47557,
+      "name": "Ó. Trejo",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 57306,
+      "name": "A. Ahamada",
+      "position": "GK",
+      "nationality": "Comoros",
+      "age": 33
+    },
+    {
+      "id": 85732,
+      "name": "D. Trichard",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 113700,
+      "name": "J. Zebina",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 43
+    }
+  ],
+  "Reims": [
+    {
+      "id": 1275,
+      "name": "N. de Préville",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 20550,
+      "name": "Anthony Weber",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 20563,
+      "name": "G. Charbonnier",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 20645,
+      "name": "G. Courtet",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 20856,
+      "name": "M. Tacalfred",
+      "position": "DEF",
+      "nationality": "Guadeloupe",
+      "age": 42
+    },
+    {
+      "id": 21070,
+      "name": "O. Mfulu",
+      "position": "MID",
+      "nationality": "Congo DR",
+      "age": 31
+    },
+    {
+      "id": 21256,
+      "name": "Christopher Glombard",
+      "position": "DEF",
+      "nationality": "Martinique",
+      "age": 36
+    },
+    {
+      "id": 26671,
+      "name": "J. Malherbe",
+      "position": "GK",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 85775,
+      "name": "Antoine Devaux",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 87226,
+      "name": "Mohamed Fofana",
+      "position": "DEF",
+      "nationality": "Mali",
+      "age": 40
+    },
+    {
+      "id": 87227,
+      "name": "F. Signorino",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 40
+    },
+    {
+      "id": 87354,
+      "name": "Odaïr Junior Lopes Fortes",
+      "position": "ATT",
+      "nationality": "Cape Verde",
+      "age": 36
+    },
+    {
+      "id": 87355,
+      "name": "A. Conté",
+      "position": "DEF",
+      "nationality": "Guinea",
+      "age": 31
+    },
+    {
+      "id": 87650,
+      "name": "A. Peuget",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 104066,
+      "name": "Bocundji Cá",
+      "position": "MID",
+      "nationality": "Guinea-Bissau",
+      "age": 35
+    },
+    {
+      "id": 104074,
+      "name": "Kossi Agassa",
+      "position": "GK",
+      "nationality": "Togo",
+      "age": 38
+    },
+    {
+      "id": 105804,
+      "name": "E. Atar",
+      "position": "ATT",
+      "nationality": "Israel",
+      "age": 38
+    },
+    {
+      "id": 113660,
+      "name": "F. Ghisolfi",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 113696,
+      "name": "B. Ouali",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 28
+    },
+    {
+      "id": 113712,
+      "name": "Ibrahima Gassama",
+      "position": "GK",
+      "nationality": "France",
+      "age": 27
+    },
+    {
+      "id": 481,
+      "name": "G. Krychowiak",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 35
+    },
+    {
+      "id": 1567,
+      "name": "A. Mandi",
+      "position": "DEF",
+      "nationality": "Algeria",
+      "age": 34
+    },
+    {
+      "id": 19033,
+      "name": "F. Ayité",
+      "position": "ATT",
+      "nationality": "Togo",
+      "age": 37
+    },
+    {
+      "id": 21644,
+      "name": "P. Oniangué",
+      "position": "MID",
+      "nationality": "Congo",
+      "age": 34
+    },
+    {
+      "id": 25821,
+      "name": "M. Albæk",
+      "position": "MID",
+      "nationality": "Denmark",
+      "age": 35
+    },
+    {
+      "id": 50118,
+      "name": "A. Turan",
+      "position": "DEF",
+      "nationality": "Türkiye",
+      "age": 33
+    },
+    {
+      "id": 50571,
+      "name": "Diego Rigonato",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 87789,
+      "name": "J. Placide",
+      "position": "GK",
+      "nationality": "Haiti",
+      "age": 37
+    },
+    {
+      "id": 87908,
+      "name": "Q. Leite Pereira",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 113644,
+      "name": "Sacha Charles Julian Guy Bastien",
+      "position": "GK",
+      "nationality": "France",
+      "age": 27
+    },
+    {
+      "id": 113699,
+      "name": "K. Ghilas",
+      "position": "ATT",
+      "nationality": "Algeria",
+      "age": 37
+    }
+  ],
+  "Rennes": [
+    {
+      "id": 1181,
+      "name": "A. Konradsen",
+      "position": "MID",
+      "nationality": "Norway",
+      "age": 33
+    },
+    {
+      "id": 1253,
+      "name": "B. Costil",
+      "position": "GK",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 2197,
+      "name": "R. Danzé",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 2210,
+      "name": "A. Hunou",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 3379,
+      "name": "C. Hountondji",
+      "position": "DEF",
+      "nationality": "Benin",
+      "age": 31
+    },
+    {
+      "id": 12868,
+      "name": "Cheikh M'Bengue",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 33
+    },
+    {
+      "id": 20842,
+      "name": "F. Diarra",
+      "position": "ATT",
+      "nationality": "Mali",
+      "age": 32
+    },
+    {
+      "id": 20860,
+      "name": "J. Féret",
+      "position": "MID",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 21021,
+      "name": "A. Sané",
+      "position": "ATT",
+      "nationality": "Senegal",
+      "age": 33
+    },
+    {
+      "id": 21150,
+      "name": "V. Pajot",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 21715,
+      "name": "W. Saïd",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 22139,
+      "name": "S. Moreira",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 51059,
+      "name": "R. Alessandrini",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 59718,
+      "name": "Víctor Hugo Montaño Caicedo",
+      "position": "ATT",
+      "nationality": "Colombia",
+      "age": 36
+    },
+    {
+      "id": 85058,
+      "name": "Z. Allée",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 85747,
+      "name": "C. N&apos;Diaye",
+      "position": "GK",
+      "nationality": "Senegal",
+      "age": 39
+    },
+    {
+      "id": 87362,
+      "name": "S. Armand",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 104131,
+      "name": "F. Kadir",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 42
+    },
+    {
+      "id": 113610,
+      "name": "Yassine Jebbour",
+      "position": "DEF",
+      "nationality": "Morocco",
+      "age": 30
+    },
+    {
+      "id": 113722,
+      "name": "O. Apam",
+      "position": "DEF",
+      "nationality": "Nigeria",
+      "age": 35
+    },
+    {
+      "id": 1316,
+      "name": "K. Théophile-Catherine",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 1635,
+      "name": "T. Bakayoko",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 2190,
+      "name": "A. Diallo",
+      "position": "GK",
+      "nationality": "Senegal",
+      "age": 31
+    },
+    {
+      "id": 3012,
+      "name": "K. Grosicki",
+      "position": "UNK",
+      "nationality": "Poland",
+      "age": 37
+    },
+    {
+      "id": 3400,
+      "name": "J. Kana-Biyik",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 33
+    },
+    {
+      "id": 3416,
+      "name": "John Boye",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 35
+    },
+    {
+      "id": 6099,
+      "name": "S. Romero",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 6868,
+      "name": "O. Toivonen",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 37
+    },
+    {
+      "id": 18805,
+      "name": "A. Doucouré",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": 32
+    },
+    {
+      "id": 19624,
+      "name": "Nélson Oliveira",
+      "position": "UNK",
+      "nationality": "Portugal",
+      "age": 34
+    },
+    {
+      "id": 20613,
+      "name": "J. Pitroipa",
+      "position": "MID",
+      "nationality": "Burkina Faso",
+      "age": 35
+    },
+    {
+      "id": 47251,
+      "name": "D. Foulquier",
+      "position": "DEF",
+      "nationality": "Guadeloupe",
+      "age": 32
+    },
+    {
+      "id": 49985,
+      "name": "M. Erdinç",
+      "position": "ATT",
+      "nationality": "Türkiye",
+      "age": 36
+    },
+    {
+      "id": 50183,
+      "name": "A. Ngando",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 61876,
+      "name": "Abdoulaye Sadio Diallo",
+      "position": "MID",
+      "nationality": "Guinea",
+      "age": 32
+    },
+    {
+      "id": 71567,
+      "name": "P. Ntep",
+      "position": "MID",
+      "nationality": "Cameroon",
+      "age": 32
+    },
+    {
+      "id": 80606,
+      "name": "Emerson da Conceição",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 105282,
+      "name": "J. Makoun",
+      "position": "MID",
+      "nationality": "Cameroon",
+      "age": 38
+    }
+  ],
+  "Bastia": [
+    {
+      "id": 1,
+      "name": "Mickaël Landreau",
+      "position": "GK",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Jean-Louis Leca",
+      "position": "GK",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Thomas Vincensini",
+      "position": "GK",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Sébastien Squillaci",
+      "position": "DEF",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Julian Palmieri",
+      "position": "DEF",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "François Modesto",
+      "position": "DEF",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Féthi Harek",
+      "position": "DEF",
+      "nationality": "Algeria",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Drissa Diakité",
+      "position": "DEF",
+      "nationality": "Mali",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Gilles Cioni",
+      "position": "DEF",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Romain Achilli",
+      "position": "DEF",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Alexander Djiku",
+      "position": "DEF",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Romaric",
+      "position": "MID",
+      "nationality": "Ivory Coast",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Miloš Krasić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Wahbi Khazri",
+      "position": "MID",
+      "nationality": "Tunisia",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Ryad Boudebouz",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Yannick Cahuzac",
+      "position": "MID",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Sambou Yatabaré",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Julien Sablé",
+      "position": "MID",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Abdoulaye Keita",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Toifilou Maoulida",
+      "position": "ATT",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Gianni Bruno",
+      "position": "ATT",
+      "nationality": "Belgium",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Djibril Cissé",
+      "position": "ATT",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Florian Raspentino",
+      "position": "ATT",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Adama Ba",
+      "position": "ATT",
+      "nationality": "Mauritania",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Ilan",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Joseph Barbato",
+      "position": "ATT",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Joris Correa",
+      "position": "ATT",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Claudiu Keserü",
+      "position": "ATT",
+      "nationality": "Romania",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "Ludovic Genest",
+      "position": "ATT",
+      "nationality": "France",
+      "age": "N/A"
+    }
+  ],
+  "Evian Thonon Gaillard": [
+    {
+      "id": 22603,
+      "name": "Cédric Barbosa",
+      "position": "MID",
+      "nationality": "France",
+      "age": 43
+    },
+    {
+      "id": 87340,
+      "name": "Eric Tié Bi",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 33
+    },
+    {
+      "id": 86273,
+      "name": "O. Sorlin",
+      "position": "MID",
+      "nationality": "France",
+      "age": 42
+    },
+    {
+      "id": 72355,
+      "name": "Kévin Bérigaud",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 113690,
+      "name": "Bertrand Laquait",
+      "position": "GK",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 50648,
+      "name": "S. Khalifa",
+      "position": "ATT",
+      "nationality": "Tunisia",
+      "age": 37
+    },
+    {
+      "id": 53686,
+      "name": "M. Rabiu",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 32
+    },
+    {
+      "id": 113659,
+      "name": "Johann Durand",
+      "position": "GK",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 87205,
+      "name": "Jordan Boy",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 24
+    },
+    {
+      "id": 20823,
+      "name": "Aldo Angoula",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 20710,
+      "name": "Cédric Cambon",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 3417,
+      "name": "J. Mensah",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 35
+    },
+    {
+      "id": 24167,
+      "name": "D. Fofana",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 107468,
+      "name": "Zakariya Abarouai",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 43192,
+      "name": "D. Nistor",
+      "position": "MID",
+      "nationality": "Romania",
+      "age": 37
+    },
+    {
+      "id": 1264,
+      "name": "Y. Sabaly",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 32
+    },
+    {
+      "id": 932,
+      "name": "D. Wass",
+      "position": "MID",
+      "nationality": "Denmark",
+      "age": 36
+    },
+    {
+      "id": 15786,
+      "name": "J. Hansen",
+      "position": "GK",
+      "nationality": "Denmark",
+      "age": 40
+    },
+    {
+      "id": 24223,
+      "name": "N. Baouia",
+      "position": "ATT",
+      "nationality": "Algeria",
+      "age": 33
+    },
+    {
+      "id": 26667,
+      "name": "Clarck N'Sikulu",
+      "position": "ATT",
+      "nationality": "Congo DR",
+      "age": 33
+    },
+    {
+      "id": 87117,
+      "name": "K. Abdallah",
+      "position": "DEF",
+      "nationality": "Comoros",
+      "age": 38
+    },
+    {
+      "id": 21496,
+      "name": "N. Benezet",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 21766,
+      "name": "M. Blanc",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 21541,
+      "name": "M. Salamone",
+      "position": "GK",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 22261,
+      "name": "A. Thomasson",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 80371,
+      "name": "Túlio Vinícius Froes de Melo",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 10150,
+      "name": "M. Ruben",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 39
+    },
+    {
+      "id": 26715,
+      "name": "F. Bertoglio",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 35
+    },
+    {
+      "id": 10472,
+      "name": "Andrés Ramiro Escobar Díaz",
+      "position": "ATT",
+      "nationality": "Colombia",
+      "age": 34
+    },
+    {
+      "id": 59986,
+      "name": "M. Sougou",
+      "position": "ATT",
+      "nationality": "Senegal",
+      "age": 37
+    },
+    {
+      "id": 113667,
+      "name": "F. Ehret",
+      "position": "MID",
+      "nationality": "France",
+      "age": 42
+    },
+    {
+      "id": 104091,
+      "name": "Djakaridja Koné",
+      "position": "MID",
+      "nationality": "Burkina Faso",
+      "age": 30
+    },
+    {
+      "id": 87351,
+      "name": "C. Mongongu",
+      "position": "DEF",
+      "nationality": "Congo DR",
+      "age": 32
+    },
+    {
+      "id": 50139,
+      "name": "B. Dja Djédjé",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 34
+    }
+  ],
+  "Montpellier": [
+    {
+      "id": 20587,
+      "name": "J. Tinhan",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 20981,
+      "name": "Joris Marveaux",
+      "position": "MID",
+      "nationality": "Martinique",
+      "age": 37
+    },
+    {
+      "id": 21363,
+      "name": "G. Bocaly",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 21567,
+      "name": "Jonathan Ligali",
+      "position": "GK",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 21569,
+      "name": "D. Congré",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 21571,
+      "name": "Hilton",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 44
+    },
+    {
+      "id": 21590,
+      "name": "S. Camara",
+      "position": "ATT",
+      "nationality": "Senegal",
+      "age": 39
+    },
+    {
+      "id": 22258,
+      "name": "J. Martin",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 39831,
+      "name": "J. Deza",
+      "position": "ATT",
+      "nationality": "Peru",
+      "age": 32
+    },
+    {
+      "id": 50975,
+      "name": "Mathieu Deplagne",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 59718,
+      "name": "Víctor Hugo Montaño Caicedo",
+      "position": "ATT",
+      "nationality": "Colombia",
+      "age": 36
+    },
+    {
+      "id": 79102,
+      "name": "T. Mézague",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 79131,
+      "name": "Djamel Bakar",
+      "position": "ATT",
+      "nationality": "Comoros",
+      "age": 29
+    },
+    {
+      "id": 85546,
+      "name": "Karim Aït-Fana",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 30
+    },
+    {
+      "id": 85593,
+      "name": "Laurent Pionnier",
+      "position": "GK",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 85692,
+      "name": "Geoffrey Jourdren",
+      "position": "GK",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 87230,
+      "name": "Jamel Saihi",
+      "position": "MID",
+      "nationality": "Tunisia",
+      "age": 30
+    },
+    {
+      "id": 87709,
+      "name": "V. Di Stefano",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 104086,
+      "name": "S. Tiéné",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 39
+    },
+    {
+      "id": 113610,
+      "name": "Yassine Jebbour",
+      "position": "DEF",
+      "nationality": "Morocco",
+      "age": 30
+    },
+    {
+      "id": 407,
+      "name": "B. Stambouli",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 1914,
+      "name": "M. Sanson",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 2216,
+      "name": "M. Niang",
+      "position": "UNK",
+      "nationality": "Senegal",
+      "age": 31
+    },
+    {
+      "id": 3395,
+      "name": "S. Mounié",
+      "position": "UNK",
+      "nationality": "Benin",
+      "age": 31
+    },
+    {
+      "id": 20909,
+      "name": "A. El Kaoutari",
+      "position": "DEF",
+      "nationality": "Morocco",
+      "age": 33
+    },
+    {
+      "id": 20914,
+      "name": "N. Saint-Ruf",
+      "position": "DEF",
+      "nationality": "Guadeloupe",
+      "age": 33
+    },
+    {
+      "id": 21223,
+      "name": "J. Assoumin",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 22093,
+      "name": "R. Cabella",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 26752,
+      "name": "A. Mounier",
+      "position": "MID",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 30404,
+      "name": "B. Dabo",
+      "position": "MID",
+      "nationality": "Burkina Faso",
+      "age": 33
+    },
+    {
+      "id": 39805,
+      "name": "E. Herrera",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 50074,
+      "name": "F. Koita",
+      "position": "UNK",
+      "nationality": "Guinea",
+      "age": 35
+    }
+  ],
+  "Guingamp": [
+    {
+      "id": 5069,
+      "name": "Cédric Fauré",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 40
+    },
+    {
+      "id": 20626,
+      "name": "J. Martins-Pereira",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 20845,
+      "name": "Christophe Mandanne",
+      "position": "ATT",
+      "nationality": "Réunion",
+      "age": 34
+    },
+    {
+      "id": 20888,
+      "name": "L. dos Santos",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 20905,
+      "name": "Guy-Roland N'Dy Assembé",
+      "position": "GK",
+      "nationality": "Cameroon",
+      "age": 36
+    },
+    {
+      "id": 21290,
+      "name": "T. Keita",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": 31
+    },
+    {
+      "id": 21493,
+      "name": "J. Sorbon",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 21757,
+      "name": "Paul Babiloni",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 22331,
+      "name": "T. Argelier",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 23286,
+      "name": "Dorian Lévêque",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 24093,
+      "name": "A. Delalande",
+      "position": "MID",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 43120,
+      "name": "J. Bègue",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 85039,
+      "name": "Moustapha Diallo",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 35
+    },
+    {
+      "id": 85046,
+      "name": "L. Douniama",
+      "position": "ATT",
+      "nationality": "Congo",
+      "age": 35
+    },
+    {
+      "id": 85685,
+      "name": "Thibault Giresse",
+      "position": "MID",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 87079,
+      "name": "L. Mathis",
+      "position": "MID",
+      "nationality": "France",
+      "age": 40
+    },
+    {
+      "id": 113609,
+      "name": "R. Lemaître",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 113652,
+      "name": "H. Guichard",
+      "position": "GK",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 113703,
+      "name": "Matheus Vivian",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 39
+    },
+    {
+      "id": 113704,
+      "name": "G. Cerdan",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 1270,
+      "name": "Y. Sankharé",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 36
+    },
+    {
+      "id": 2718,
+      "name": "R. Alioui",
+      "position": "ATT",
+      "nationality": "Morocco",
+      "age": 33
+    },
+    {
+      "id": 3331,
+      "name": "M. Samassa",
+      "position": "GK",
+      "nationality": "Mali",
+      "age": 35
+    },
+    {
+      "id": 20702,
+      "name": "Mana Dembélé",
+      "position": "ATT",
+      "nationality": "Mali",
+      "age": 37
+    },
+    {
+      "id": 21490,
+      "name": "C. Kerbrat",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 21646,
+      "name": "B. Sankoh",
+      "position": "MID",
+      "nationality": "Guinea",
+      "age": 33
+    },
+    {
+      "id": 21648,
+      "name": "C. Beauvue",
+      "position": "ATT",
+      "nationality": "Guadeloupe",
+      "age": 37
+    },
+    {
+      "id": 49261,
+      "name": "S. Langil",
+      "position": "ATT",
+      "nationality": "Martinique",
+      "age": 37
+    },
+    {
+      "id": 50019,
+      "name": "M. Yatabaré",
+      "position": "ATT",
+      "nationality": "Mali",
+      "age": 39
+    },
+    {
+      "id": 85684,
+      "name": "K. Achahbar",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 29
+    },
+    {
+      "id": 101302,
+      "name": "Fatih Atik",
+      "position": "MID",
+      "nationality": "Turkey",
+      "age": 37
+    }
+  ],
+  "Nice": [
+    {
+      "id": 5926,
+      "name": "Darío Cvitanich",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 7011,
+      "name": "É. Bauthéac",
+      "position": "MID",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 8531,
+      "name": "Lucas Rougeaux",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 28
+    },
+    {
+      "id": 8668,
+      "name": "L. Palun",
+      "position": "DEF",
+      "nationality": "Gabon",
+      "age": 35
+    },
+    {
+      "id": 21379,
+      "name": "M. Bodmer",
+      "position": "MID",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 21634,
+      "name": "Romain Genevois",
+      "position": "DEF",
+      "nationality": "Haiti",
+      "age": 32
+    },
+    {
+      "id": 22158,
+      "name": "Y. Cardinale",
+      "position": "GK",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 22926,
+      "name": "Bryan Constant",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 23983,
+      "name": "P. Puel",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 27
+    },
+    {
+      "id": 37138,
+      "name": "Joris Delle",
+      "position": "GK",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 37881,
+      "name": "Luigi Maud Bruins",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 34
+    },
+    {
+      "id": 87374,
+      "name": "S. Raheriharimanana",
+      "position": "MID",
+      "nationality": "Madagascar",
+      "age": 30
+    },
+    {
+      "id": 90609,
+      "name": "A. Rafetraniaina",
+      "position": "MID",
+      "nationality": "Madagascar",
+      "age": 25
+    },
+    {
+      "id": 104765,
+      "name": "K. Gomis",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 105635,
+      "name": "Mahamane El-Hadj Traoré",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": 30
+    },
+    {
+      "id": 113698,
+      "name": "L. Véronèse",
+      "position": "GK",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 113727,
+      "name": "Kévin Anin",
+      "position": "MID",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 113747,
+      "name": "X. Pentecote",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 113763,
+      "name": "Diacko Fofana",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 113783,
+      "name": "Jordan Astier",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 313,
+      "name": "D. Ospina",
+      "position": "GK",
+      "nationality": "Colombia",
+      "age": 37
+    },
+    {
+      "id": 1901,
+      "name": "J. Amavi",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 2941,
+      "name": "M. Hassen",
+      "position": "GK",
+      "nationality": "Tunisia",
+      "age": 30
+    },
+    {
+      "id": 8986,
+      "name": "C. Brüls",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 37
+    },
+    {
+      "id": 18785,
+      "name": "N. Mendy",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 33
+    },
+    {
+      "id": 19361,
+      "name": "S. Benrahma",
+      "position": "ATT",
+      "nationality": "Algeria",
+      "age": 30
+    },
+    {
+      "id": 19364,
+      "name": "N. Maupay",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 20784,
+      "name": "F. Honorat",
+      "position": "MID",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 20976,
+      "name": "Grégoire Puel",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 21096,
+      "name": "V. Eysseric",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 21137,
+      "name": "A. Mandréa",
+      "position": "GK",
+      "nationality": "Algeria",
+      "age": 29
+    },
+    {
+      "id": 22086,
+      "name": "T. Kolodziejczak",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 22226,
+      "name": "Jérémy Pied",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 23594,
+      "name": "Fabien Dao Castellana",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 43262,
+      "name": "E. Digbeu",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 64255,
+      "name": "G. Lloris",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 71211,
+      "name": "A. Bosetti",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 80888,
+      "name": "N. Pejčinović",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 35
+    },
+    {
+      "id": 104861,
+      "name": "D. Digard",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 113679,
+      "name": "F. Abriel",
+      "position": "MID",
+      "nationality": "France",
+      "age": 45
+    },
+    {
+      "id": 3407,
+      "name": "S. Bahoken",
+      "position": "ATT",
+      "nationality": "Cameroon",
+      "age": 33
+    }
+  ],
+  "Sochaux": [
+    {
+      "id": 560,
+      "name": "S. Corchia",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 1898,
+      "name": "Y. Pelé",
+      "position": "GK",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 3401,
+      "name": "Banana Yaya",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 31
+    },
+    {
+      "id": 20562,
+      "name": "Édouard Butin",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 20735,
+      "name": "P. Camara",
+      "position": "GK",
+      "nationality": "Senegal",
+      "age": 32
+    },
+    {
+      "id": 20895,
+      "name": "Sébastien Roudet",
+      "position": "MID",
+      "nationality": "France",
+      "age": 42
+    },
+    {
+      "id": 22727,
+      "name": "M. Diallo",
+      "position": "ATT",
+      "nationality": "Guinea",
+      "age": 31
+    },
+    {
+      "id": 23296,
+      "name": "Vincent Nogueira",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 24018,
+      "name": "L. Poujol",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 24250,
+      "name": "L. Zouma",
+      "position": "DEF",
+      "nationality": "Central African Republic",
+      "age": 31
+    },
+    {
+      "id": 49701,
+      "name": "H. Chikhaoui",
+      "position": "MID",
+      "nationality": "Tunisia",
+      "age": 29
+    },
+    {
+      "id": 61922,
+      "name": "Sloan Privat",
+      "position": "ATT",
+      "nationality": "French Guiana",
+      "age": 32
+    },
+    {
+      "id": 87350,
+      "name": "Thomas Guerbert",
+      "position": "MID",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 87373,
+      "name": "Pierrick Cros",
+      "position": "GK",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 104094,
+      "name": "Nathan Sinkala",
+      "position": "MID",
+      "nationality": "Zambia",
+      "age": 32
+    },
+    {
+      "id": 113668,
+      "name": "Roy Contout",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 113680,
+      "name": "P. Frau",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 113685,
+      "name": "C. Kanté",
+      "position": "DEF",
+      "nationality": "Mali",
+      "age": 42
+    },
+    {
+      "id": 113691,
+      "name": "D. Sauget",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 42
+    },
+    {
+      "id": 113739,
+      "name": "Mohamed Kalilou Traoré",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": 27
+    },
+    {
+      "id": 1083,
+      "name": "J. Onguéné",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 28
+    },
+    {
+      "id": 3428,
+      "name": "J. Ayew",
+      "position": "ATT",
+      "nationality": "Ghana",
+      "age": 34
+    },
+    {
+      "id": 8567,
+      "name": "M. Ilaimaharitra",
+      "position": "MID",
+      "nationality": "Madagascar",
+      "age": 30
+    },
+    {
+      "id": 15278,
+      "name": "Carlão",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": 20524,
+      "name": "S. Sunzu",
+      "position": "DEF",
+      "nationality": "Zambia",
+      "age": 36
+    },
+    {
+      "id": 20547,
+      "name": "J. Faussurier",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 20725,
+      "name": "J. Lopy",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 33
+    },
+    {
+      "id": 20831,
+      "name": "R. Boukari",
+      "position": "ATT",
+      "nationality": "Togo",
+      "age": 38
+    },
+    {
+      "id": 22259,
+      "name": "S. Prcić",
+      "position": "MID",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 31
+    },
+    {
+      "id": 24175,
+      "name": "J. Eickmayer",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 25404,
+      "name": "J. Roussillon",
+      "position": "DEF",
+      "nationality": "Guadeloupe",
+      "age": 32
+    },
+    {
+      "id": 46714,
+      "name": "M. Malsa",
+      "position": "MID",
+      "nationality": "Martinique",
+      "age": 30
+    },
+    {
+      "id": 46882,
+      "name": "M. Peybernes",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 53634,
+      "name": "P. Boumal",
+      "position": "MID",
+      "nationality": "Cameroon",
+      "age": 32
+    },
+    {
+      "id": 83060,
+      "name": "Abdoul Razzagui Camara",
+      "position": "ATT",
+      "nationality": "Guinea",
+      "age": 28
+    },
+    {
+      "id": 87210,
+      "name": "F. Marange",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 87221,
+      "name": "Simon Pouplin",
+      "position": "GK",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 87345,
+      "name": "Rafaël Dias",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 34
+    },
+    {
+      "id": 104092,
+      "name": "Emmanuel Mayuka",
+      "position": "ATT",
+      "nationality": "Zambia",
+      "age": 33
+    },
+    {
+      "id": 113674,
+      "name": "T. Doubaï",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 33
+    },
+    {
+      "id": 3033,
+      "name": "C. Bakambu",
+      "position": "UNK",
+      "nationality": "Congo DR",
+      "age": 34
+    },
+    {
+      "id": 47436,
+      "name": "R. Boudebouz",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 36
+    }
+  ],
+  "Valenciennes": [
+    {
+      "id": 8550,
+      "name": "N. Penneteau",
+      "position": "GK",
+      "nationality": "France",
+      "age": 42
+    },
+    {
+      "id": 20533,
+      "name": "O. Nguette",
+      "position": "ATT",
+      "nationality": "Senegal",
+      "age": 30
+    },
+    {
+      "id": 20912,
+      "name": "L. Néry",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 21022,
+      "name": "Magno Novaes",
+      "position": "GK",
+      "nationality": "Brazil",
+      "age": 40
+    },
+    {
+      "id": 21052,
+      "name": "P. Charruau",
+      "position": "GK",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 22195,
+      "name": "Y. Kerjean",
+      "position": "MID",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 23293,
+      "name": "Eloge Ethisse Enza-Yamissi",
+      "position": "MID",
+      "nationality": "Central African Republic",
+      "age": 39
+    },
+    {
+      "id": 34314,
+      "name": "Aurelian Ionuț Chițu",
+      "position": "ATT",
+      "nationality": "Romania",
+      "age": 34
+    },
+    {
+      "id": 43085,
+      "name": "L. Houri",
+      "position": "MID",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 43179,
+      "name": "D. Dussaut",
+      "position": "DEF",
+      "nationality": "Martinique",
+      "age": 31
+    },
+    {
+      "id": 44065,
+      "name": "T. Doumbia",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": 34
+    },
+    {
+      "id": 65392,
+      "name": "Pape Abdou Camara",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 30
+    },
+    {
+      "id": 85161,
+      "name": "F. Massampu",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 87029,
+      "name": "David Ducourtioux",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 43
+    },
+    {
+      "id": 105488,
+      "name": "Maor Melikson",
+      "position": "MID",
+      "nationality": "Israel",
+      "age": 36
+    },
+    {
+      "id": 108557,
+      "name": "M. da Silva",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 113604,
+      "name": "Gregory Pujol",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 113649,
+      "name": "J. Saez",
+      "position": "MID",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 113677,
+      "name": "Rudy Mater",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 43
+    },
+    {
+      "id": 113695,
+      "name": "Mo. Traoré",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 41
+    },
+    {
+      "id": 3170,
+      "name": "Carl Medjani",
+      "position": "DEF",
+      "nationality": "Algeria",
+      "age": 36
+    },
+    {
+      "id": 3398,
+      "name": "G. Bong",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 34
+    },
+    {
+      "id": 3432,
+      "name": "A. Waris",
+      "position": "ATT",
+      "nationality": "Ghana",
+      "age": 33
+    },
+    {
+      "id": 8528,
+      "name": "G. Kagelmacher",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 37
+    },
+    {
+      "id": 18816,
+      "name": "A. Masuaku",
+      "position": "DEF",
+      "nationality": "Congo DR",
+      "age": 32
+    },
+    {
+      "id": 20731,
+      "name": "Anthony Le Tallec",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 20878,
+      "name": "Saliou Ciss",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 36
+    },
+    {
+      "id": 22144,
+      "name": "M. Dossevi",
+      "position": "MID",
+      "nationality": "Togo",
+      "age": 35
+    },
+    {
+      "id": 22247,
+      "name": "K. Lala",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 26944,
+      "name": "B. Angoua",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 39
+    },
+    {
+      "id": 37184,
+      "name": "Jean-Christophe Bahebeck",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 47968,
+      "name": "D. Đurić",
+      "position": "MID",
+      "nationality": "Sweden",
+      "age": 38
+    },
+    {
+      "id": 68187,
+      "name": "L. Rose",
+      "position": "DEF",
+      "nationality": "Mauritius",
+      "age": 33
+    },
+    {
+      "id": 85760,
+      "name": "A. Kaboré",
+      "position": "MID",
+      "nationality": "Burkina Faso",
+      "age": 31
+    }
+  ],
+  "Ajaccio": [
+    {
+      "id": 20983,
+      "name": "Jean-Baptiste Pierazzi",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 21041,
+      "name": "M. Mostefa",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 42
+    },
+    {
+      "id": 21580,
+      "name": "P. Lasne",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 31644,
+      "name": "D. Tonucci",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 34103,
+      "name": "D. Oliech",
+      "position": "ATT",
+      "nationality": "Kenya",
+      "age": 36
+    },
+    {
+      "id": 52539,
+      "name": "G. Perozo",
+      "position": "DEF",
+      "nationality": "Venezuela",
+      "age": 38
+    },
+    {
+      "id": 80170,
+      "name": "Eduardo Ribeiro dos Santos",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 43
+    },
+    {
+      "id": 85098,
+      "name": "Sigamary Diarra",
+      "position": "ATT",
+      "nationality": "Mali",
+      "age": 34
+    },
+    {
+      "id": 85114,
+      "name": "C. Orengo",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 24
+    },
+    {
+      "id": 85690,
+      "name": "Benoît Pedretti",
+      "position": "MID",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 90625,
+      "name": "Issa Baradji",
+      "position": "ATT",
+      "nationality": "Mali",
+      "age": 26
+    },
+    {
+      "id": 91211,
+      "name": "Chahir Belghazouani",
+      "position": "ATT",
+      "nationality": "Morocco",
+      "age": 37
+    },
+    {
+      "id": 105717,
+      "name": "A. Scribe",
+      "position": "GK",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 113676,
+      "name": "S. Arrache",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 39
+    },
+    {
+      "id": 113683,
+      "name": "C. Hengbart",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 41
+    },
+    {
+      "id": 113684,
+      "name": "L. Bonnart",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 42
+    },
+    {
+      "id": 113686,
+      "name": "M. Leca",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 27
+    },
+    {
+      "id": 113694,
+      "name": "B. Deville",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 32
+    },
+    {
+      "id": 113708,
+      "name": "J. Remiti",
+      "position": "MID",
+      "nationality": "France",
+      "age": 27
+    },
+    {
+      "id": 113759,
+      "name": "Fabrice Pierre Begeorgi Cabezas",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 458,
+      "name": "M. Diagne",
+      "position": "UNK",
+      "nationality": "Senegal",
+      "age": 34
+    },
+    {
+      "id": 2098,
+      "name": "G. Ochoa",
+      "position": "GK",
+      "nationality": "Mexico",
+      "age": 40
+    },
+    {
+      "id": 2204,
+      "name": "B. André",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 15841,
+      "name": "Y. Yakovenko",
+      "position": "ATT",
+      "nationality": "Ukraine",
+      "age": 30
+    },
+    {
+      "id": 20581,
+      "name": "Claude Gonçalves",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 31
+    },
+    {
+      "id": 20682,
+      "name": "O. Sissoko",
+      "position": "GK",
+      "nationality": "Mali",
+      "age": 38
+    },
+    {
+      "id": 20938,
+      "name": "F. Sollacaro",
+      "position": "GK",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 20950,
+      "name": "J. Cavalli",
+      "position": "MID",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 21073,
+      "name": "D. Camara",
+      "position": "ATT",
+      "nationality": "Guinea",
+      "age": 29
+    },
+    {
+      "id": 30920,
+      "name": "A. Crescenzi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 41167,
+      "name": "J. Tallo",
+      "position": "ATT",
+      "nationality": "Côte d'Ivoire",
+      "age": 33
+    },
+    {
+      "id": 51225,
+      "name": "Claude Dielna",
+      "position": "DEF",
+      "nationality": "Guadeloupe",
+      "age": 35
+    },
+    {
+      "id": 86559,
+      "name": "N. Ait Yahya",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 87948,
+      "name": "Joshua Nadeau",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 91486,
+      "name": "Ș. Popescu",
+      "position": "DEF",
+      "nationality": "Romania",
+      "age": 28
+    },
+    {
+      "id": 105432,
+      "name": "Ronald Zubar",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 113670,
+      "name": "Adrian Mutu",
+      "position": "ATT",
+      "nationality": "Romania",
+      "age": 37
+    },
+    {
+      "id": 113706,
+      "name": "P. Moracchini",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 113709,
+      "name": "V. Leca",
+      "position": "MID",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 113714,
+      "name": "P. Mela",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 105240,
+      "name": "R. Faty",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 38
+    }
+  ]
+}

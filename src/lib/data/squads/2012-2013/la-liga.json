@@ -1,0 +1,4718 @@
+{
+  "Barcelona": [
+    {
+      "id": 128,
+      "name": "Jordi Alba",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 137,
+      "name": "Sergi Roberto",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 142,
+      "name": "Rafinha",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 31
+    },
+    {
+      "id": 144,
+      "name": "Sergio Busquets",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 154,
+      "name": "L. Messi",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 256,
+      "name": "Dani Alves",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 42
+    },
+    {
+      "id": 1586,
+      "name": "Cristian Tello",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 2042,
+      "name": "Sergi Gómez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 2880,
+      "name": "J. dos Santos",
+      "position": "MID",
+      "nationality": "Mexico",
+      "age": 35
+    },
+    {
+      "id": 33243,
+      "name": "Andrés Iniesta",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 41
+    },
+    {
+      "id": 33257,
+      "name": "David Villa",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 42041,
+      "name": "Xavier Hernández Creus",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 47449,
+      "name": "Oier",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 47474,
+      "name": "Jordi Masip",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47509,
+      "name": "Carles Planas Antolínez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 51251,
+      "name": "Andreu Fontàs",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 113678,
+      "name": "E. Abidal",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 116880,
+      "name": "Carles Puyol i Saforcada",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116886,
+      "name": "José Manuel Pinto Colorado",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 252826,
+      "name": "Carlos Antonio Morán Jalón",
+      "position": "GK",
+      "nationality": "Ecuador",
+      "age": 38
+    },
+    {
+      "id": 108,
+      "name": "Cesc Fàbregas",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 136,
+      "name": "Piqué",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 507,
+      "name": "Thiago Alcântara",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 910,
+      "name": "A. Sánchez",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 37
+    },
+    {
+      "id": 1561,
+      "name": "Marc Bartra",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 1977,
+      "name": "Adriano",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": 2299,
+      "name": "Pedro",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 13073,
+      "name": "J. Mascherano",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 18809,
+      "name": "Deulofeu",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 18965,
+      "name": "Martín Montoya",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 33395,
+      "name": "Isaac Cuenca",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 48528,
+      "name": "Alexandre Dimitri Song-Billong",
+      "position": "MID",
+      "nationality": "Cameroon",
+      "age": 36
+    },
+    {
+      "id": 72157,
+      "name": "I. Afellay",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 35
+    },
+    {
+      "id": 90515,
+      "name": "Víctor Valdés Arribas",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 35
+    }
+  ],
+  "Real Madrid": [
+    {
+      "id": 1,
+      "name": "Iker Casillas",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Álvaro Arbeloa",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Pepe",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Sergio Ramos",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Fábio Coentrão",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Luka Modrić",
+      "position": "MID",
+      "nationality": "Croatia",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Ángel Di María",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Cristiano Ronaldo",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Karim Benzema",
+      "position": "ATT",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Diego López",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Gonzalo Higuaín",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "José Callejón",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Raúl Albiol",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Marcelo",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Raphaël Varane",
+      "position": "DEF",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Ricardo Carvalho",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Nacho",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Álvaro Morata",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Antonio Adán",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Jesús Fernández",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Fabinho",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Diego Llorente",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Denis Cheryshev",
+      "position": "DEF",
+      "nationality": "Russia",
+      "age": "N/A"
+    }
+  ],
+  "Ath Madrid": [
+    {
+      "id": 32,
+      "name": "D. Godín",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 39
+    },
+    {
+      "id": 41,
+      "name": "Juanfran",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 50,
+      "name": "Koke",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 195,
+      "name": "Miranda",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 38
+    },
+    {
+      "id": 385,
+      "name": "Óliver Torres",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 392,
+      "name": "Adrián López",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 1045,
+      "name": "Dani Aquino",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 1682,
+      "name": "Sergio Asenjo",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 41381,
+      "name": "Sílvio",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 38
+    },
+    {
+      "id": 42039,
+      "name": "Gabriel Fernández Arenas",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 44520,
+      "name": "Abdelkader Oueslati Kaabi",
+      "position": "MID",
+      "nationality": "Tunisia",
+      "age": 30
+    },
+    {
+      "id": 46956,
+      "name": "Borja Galán",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 47282,
+      "name": "Raúl García",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 47569,
+      "name": "Jorge Pulido",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 51612,
+      "name": "Cristian Gabriel Rodríguez Barrotti",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 38
+    },
+    {
+      "id": 93988,
+      "name": "Iván Calero",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 104990,
+      "name": "Pedro Martín",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 105080,
+      "name": "Cisma",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 113952,
+      "name": "Daniel Alberto Díaz",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 42
+    },
+    {
+      "id": 210438,
+      "name": "Momar Ndoye",
+      "position": "ATT",
+      "nationality": "Senegal",
+      "age": 29
+    },
+    {
+      "id": 34,
+      "name": "Filipe Luís",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 38
+    },
+    {
+      "id": 48,
+      "name": "Saúl",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 49,
+      "name": "T. Partey",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 32
+    },
+    {
+      "id": 54,
+      "name": "Diego Costa",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 119,
+      "name": "R. Falcao",
+      "position": "UNK",
+      "nationality": "Colombia",
+      "age": 39
+    },
+    {
+      "id": 730,
+      "name": "T. Courtois",
+      "position": "GK",
+      "nationality": "Belgium",
+      "age": 33
+    },
+    {
+      "id": 1558,
+      "name": "Joel Robles",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 18896,
+      "name": "Javier Manquillo",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 26299,
+      "name": "E. Insúa",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 35
+    },
+    {
+      "id": 47550,
+      "name": "Mario Suárez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 49849,
+      "name": "E. Belözoğlu",
+      "position": "MID",
+      "nationality": "Turkey",
+      "age": 40
+    },
+    {
+      "id": 49859,
+      "name": "A. Turan",
+      "position": "MID",
+      "nationality": "Turkey",
+      "age": 35
+    },
+    {
+      "id": 104839,
+      "name": "Tiago Cardoso Mendes",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 36
+    }
+  ],
+  "Sociedad": [
+    {
+      "id": 1028,
+      "name": "Mikel González",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 22517,
+      "name": "V. Fuchs",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 24129,
+      "name": "J. Nanizayamo",
+      "position": "ATT",
+      "nationality": "Burundi",
+      "age": 33
+    },
+    {
+      "id": 38828,
+      "name": "Eñaut Zubikarai Goñi",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 43322,
+      "name": "L. Cadamuro",
+      "position": "DEF",
+      "nationality": "Algeria",
+      "age": 36
+    },
+    {
+      "id": 46852,
+      "name": "Carlos Martínez Díez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 46994,
+      "name": "De la Bella",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 47062,
+      "name": "Javi Ros",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47259,
+      "name": "Bergara",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47310,
+      "name": "Illarramendi",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47316,
+      "name": "Zurutuza",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47490,
+      "name": "Pablo Hervías",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 47542,
+      "name": "Gorka Elustondo Urkola",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 51576,
+      "name": "G. Castro",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 39
+    },
+    {
+      "id": 95646,
+      "name": "Diego Ifrán Sala",
+      "position": "ATT",
+      "nationality": "Uruguay",
+      "age": 33
+    },
+    {
+      "id": 104794,
+      "name": "Xabier Prieto Argarate",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 104814,
+      "name": "Imanol Agirretxe Arruti",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 105035,
+      "name": "Jon Ansotegi Gorostola",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116856,
+      "name": "Daniel Estrada Agirrezablaga",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116896,
+      "name": "Kike Royo",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 56,
+      "name": "A. Griezmann",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 614,
+      "name": "C. Bravo",
+      "position": "GK",
+      "nationality": "Chile",
+      "age": 42
+    },
+    {
+      "id": 2670,
+      "name": "Íñigo Martínez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47312,
+      "name": "Rubén Pardo",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 47384,
+      "name": "Cote",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 51046,
+      "name": "C. Vela",
+      "position": "ATT",
+      "nationality": "Mexico",
+      "age": 36
+    }
+  ],
+  "Valencia": [
+    {
+      "id": 1,
+      "name": "Diego Alves",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Aly Cissokho",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Adil Rami",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "David Albelda",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Jonas",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Sofiane Feghouli",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Roberto Soldado",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Éver Banega",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Pablo Piatti",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "João Pereira",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Vicente Guaita",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Antonio Barragán",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Jonathan Viera",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Nelson Valdez",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Andrés Guardado",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Víctor Ruiz",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Ricardo Costa",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Dani Parejo",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Jérémy Mathieu",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Sergio Canales",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Tino Costa",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Juan Bernat",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Felipe Ramos",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Álex Quintanilla",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Carlos Delgado",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Albert Dalmau",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Portu",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Salva Ruiz",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "José Luis Gayà",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 30,
+      "name": "Mario Arqués",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 31,
+      "name": "Fernando Gago",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 32,
+      "name": "Carles Gil",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 33,
+      "name": "Paco Alcácer",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    }
+  ],
+  "Malaga": [
+    {
+      "id": 745,
+      "name": "Isco",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 1579,
+      "name": "Joaquín",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 42
+    },
+    {
+      "id": 3409,
+      "name": "F. Olinga",
+      "position": "ATT",
+      "nationality": "Cameroon",
+      "age": 28
+    },
+    {
+      "id": 11360,
+      "name": "D. Buonanotte",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 12088,
+      "name": "Pedro Andrés Morales Flores",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 35
+    },
+    {
+      "id": 47239,
+      "name": "Pol Freixanet",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47255,
+      "name": "Antunes",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 38
+    },
+    {
+      "id": 47262,
+      "name": "Portillo",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47413,
+      "name": "Recio",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 51586,
+      "name": "S. Fernández",
+      "position": "ATT",
+      "nationality": "Uruguay",
+      "age": 40
+    },
+    {
+      "id": 51852,
+      "name": "D. Rodríguez",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 30
+    },
+    {
+      "id": 85698,
+      "name": "Jérémy Toulalan",
+      "position": "MID",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 91390,
+      "name": "Enzo Maresca",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 95590,
+      "name": "M. Iturra",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 37
+    },
+    {
+      "id": 104405,
+      "name": "Eliseu Pereira dos Santos",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 35
+    },
+    {
+      "id": 104838,
+      "name": "Sérgio Paulo Barbosa Valente",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 37
+    },
+    {
+      "id": 104863,
+      "name": "Weligton",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 42
+    },
+    {
+      "id": 105160,
+      "name": "Álex Portillo",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 113977,
+      "name": "J. Saviola",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 40
+    },
+    {
+      "id": 116967,
+      "name": "Jurado",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 1335,
+      "name": "C. Kameni",
+      "position": "GK",
+      "nationality": "Cameroon",
+      "age": 40
+    },
+    {
+      "id": 1447,
+      "name": "Nacho Monreal",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 2275,
+      "name": "W. Caballero",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 42
+    },
+    {
+      "id": 25409,
+      "name": "Ignacio Camacho",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 30756,
+      "name": "Lucas Piazón",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 31
+    },
+    {
+      "id": 43003,
+      "name": "Júlio César Clement Baptista",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 38
+    },
+    {
+      "id": 47320,
+      "name": "Juanmi",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 70775,
+      "name": "R. Santa Cruz",
+      "position": "ATT",
+      "nationality": "Paraguay",
+      "age": 44
+    },
+    {
+      "id": 80379,
+      "name": "Diego Alfredo Lugano Morena",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 37
+    },
+    {
+      "id": 83132,
+      "name": "Jesús Gámez Duarte",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 104837,
+      "name": "M. Demichelis",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 41
+    },
+    {
+      "id": 105412,
+      "name": "Oguchi Chijioke Onyewu",
+      "position": "DEF",
+      "nationality": "USA",
+      "age": 36
+    }
+  ],
+  "Betis": [
+    {
+      "id": 1963,
+      "name": "G. Molins",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 35
+    },
+    {
+      "id": 36033,
+      "name": "Mario Abrante",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 46692,
+      "name": "Álvaro Vadillo",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 46743,
+      "name": "Salva Sevilla",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 40
+    },
+    {
+      "id": 46958,
+      "name": "Jonathan Pereira",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47012,
+      "name": "Rubén Castro",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 42
+    },
+    {
+      "id": 47015,
+      "name": "Casto Espinosa Barriga",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 40
+    },
+    {
+      "id": 47049,
+      "name": "Chechu Dorado",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 41
+    },
+    {
+      "id": 47265,
+      "name": "Jorge Molina",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 41
+    },
+    {
+      "id": 47280,
+      "name": "Beñat",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 61151,
+      "name": "Nono",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 96609,
+      "name": "Paulão",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 39
+    },
+    {
+      "id": 116836,
+      "name": "Ángel Domingo López Ruano",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116874,
+      "name": "Ignacio Pérez Santamaría",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116876,
+      "name": "Francisco Javier Chica Torres",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116970,
+      "name": "Manu Palancar",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 116976,
+      "name": "Eder Vilarchao",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 116980,
+      "name": "Borja Navarro",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 116985,
+      "name": "Sergio Rodríguez Hurtado",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 29
+    },
+    {
+      "id": 116991,
+      "name": "Juan Manuel Gómez Sánchez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 2369,
+      "name": "Cañas",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 2845,
+      "name": "J. Campbell",
+      "position": "ATT",
+      "nationality": "Costa Rica",
+      "age": 33
+    },
+    {
+      "id": 15407,
+      "name": "Emmanuel Nosakhare Igiebor",
+      "position": "MID",
+      "nationality": "Nigeria",
+      "age": 29
+    },
+    {
+      "id": 18812,
+      "name": "Adrián",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 19011,
+      "name": "Fabri",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 20975,
+      "name": "Damien Perquis",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 37
+    },
+    {
+      "id": 35555,
+      "name": "D. Pabón",
+      "position": "ATT",
+      "nationality": "Colombia",
+      "age": 37
+    },
+    {
+      "id": 40407,
+      "name": "Salvador Agra",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 34
+    },
+    {
+      "id": 46681,
+      "name": "Álex Martínez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 46702,
+      "name": "José Caro",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 46819,
+      "name": "Juankar",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47036,
+      "name": "Fausto Tienza",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47104,
+      "name": "Fran Varela",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 47415,
+      "name": "Rubén Pérez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 50818,
+      "name": "Pozuelo",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 104904,
+      "name": "Antonio Amaya Carazo",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 105003,
+      "name": "Nélson Augusto Tomar Marcos",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 35
+    },
+    {
+      "id": 116977,
+      "name": "Eneko Eizmendi",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116981,
+      "name": "Carlos García",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    }
+  ],
+  "Vallecano": [
+    {
+      "id": 1698,
+      "name": "Javi Fuego",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 26728,
+      "name": "Francisco Medina Luna",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 40
+    },
+    {
+      "id": 29224,
+      "name": "Juan Quero Barraso",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 39114,
+      "name": "M. Abu",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 33
+    },
+    {
+      "id": 46647,
+      "name": "Rubén Iván Martínez Andrade",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 46784,
+      "name": "Dani Giménez",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 46827,
+      "name": "Adrián  González Morales",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47136,
+      "name": "P. Diamanka",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 34
+    },
+    {
+      "id": 47537,
+      "name": "Tito",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 77140,
+      "name": "Manuel Jesús Arana Rodríguez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 104980,
+      "name": "Roberto Trashorras Gayoso",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 104993,
+      "name": "Casado",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 105025,
+      "name": "José Carlos Fernández Vázquez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116826,
+      "name": "David Cobeño Iglesias",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116890,
+      "name": "Adrián Saballs Jiménez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 27
+    },
+    {
+      "id": 116904,
+      "name": "Rubén Ramiro Pastor",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 116906,
+      "name": "Sergio Rodríguez García",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116933,
+      "name": "Andrija Delibasic",
+      "position": "ATT",
+      "nationality": "Montenegro",
+      "age": 34
+    },
+    {
+      "id": 116939,
+      "name": "Mikel Labaka Zurriarain",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 116951,
+      "name": "Raúl Tamudo Montero",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 2057,
+      "name": "F. Vázquez",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 9419,
+      "name": "Sueliton Pereira de Aguiar",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 36
+    },
+    {
+      "id": 13062,
+      "name": "Léo Baptistão",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 46757,
+      "name": "Rober Correa",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 46949,
+      "name": "Nono",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47041,
+      "name": "Alberto Perea",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47377,
+      "name": "Anaitz Arbilla",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 47481,
+      "name": "Nacho Martínez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 47531,
+      "name": "Jordi Amat",
+      "position": "DEF",
+      "nationality": "Indonesia",
+      "age": 33
+    },
+    {
+      "id": 47534,
+      "name": "Alejandro Gálvez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 51294,
+      "name": "A. Bangoura",
+      "position": "MID",
+      "nationality": "Guinea",
+      "age": 33
+    },
+    {
+      "id": 81058,
+      "name": "N. Bille",
+      "position": "ATT",
+      "nationality": "Denmark",
+      "age": 33
+    },
+    {
+      "id": 90710,
+      "name": "Jordi Figueras",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 105012,
+      "name": "Juli",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 43
+    },
+    {
+      "id": 105090,
+      "name": "Rafa García",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 116891,
+      "name": "Ismael Gil",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116987,
+      "name": "Isi Gómez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 30
+    }
+  ],
+  "Sevilla": [
+    {
+      "id": 1,
+      "name": "Andrés Palop",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Federico Fazio",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Fernando Navarro",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Emir Spahić",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Cala",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "José Campaña",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Jesús Navas",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Gary Medel",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Álvaro Negredo",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Diego Perotti",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Ivan Rakitić",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Hedwiges Maduro",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Beto",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Manu",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Piotr Trochowski",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Javi Hervás",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Miroslav Stevanović",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "José Antonio Reyes",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Baba Diawara",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Cicinho",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Geoffrey Kondogbia",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Coke",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Alberto Botía",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Álex Rubio",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Julián Cuesta",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Bryan Rabello",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Francisco Javier Atienza",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Jozabed",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 29,
+      "name": "Joaquín García",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 30,
+      "name": "Jonathan Diego Menéndez",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 31,
+      "name": "Antonio Jesús Cotán",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 32,
+      "name": "Israel Puerto",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 33,
+      "name": "Alberto Moreno",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 34,
+      "name": "Néstor Díaz",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 35,
+      "name": "Sergio Rico",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 36,
+      "name": "Samu",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 37,
+      "name": "Alban Bunjaku",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 38,
+      "name": "Martí Tapia",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 39,
+      "name": "Gonzalo",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 40,
+      "name": "Salva Rivas",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 41,
+      "name": "Modesto Acosta",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 42,
+      "name": "Daniel Pérez",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 43,
+      "name": "Jesús Alfaro",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    }
+  ],
+  "Getafe": [
+    {
+      "id": 6807,
+      "name": "Diego Castro",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 46701,
+      "name": "Álvaro Arroyo",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 46823,
+      "name": "Miguel Torres Gómez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 46829,
+      "name": "Mehdi Lacen",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 35
+    },
+    {
+      "id": 46948,
+      "name": "Jaime Gavilán Martínez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 46981,
+      "name": "Xavi Torres",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 47295,
+      "name": "Moyà",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 47392,
+      "name": "Pedro León",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 47486,
+      "name": "Borja Fernández Fernández",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 59937,
+      "name": "N. Fedor",
+      "position": "ATT",
+      "nationality": "Venezuela",
+      "age": 40
+    },
+    {
+      "id": 105032,
+      "name": "Juan Antonio Rodríguez Villamuela",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 105055,
+      "name": "Codina",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 105108,
+      "name": "Alberto Lopo García",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 116818,
+      "name": "Ángel Lafita Castillo",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 116820,
+      "name": "Hugo Fraile Martín",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116842,
+      "name": "Juan Valera Espín",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 116847,
+      "name": "Mané",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 40
+    },
+    {
+      "id": 116978,
+      "name": "José Ruiz",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116979,
+      "name": "Diego Benito",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 116982,
+      "name": "Alberto",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 21,
+      "name": "Paco Alcácer",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 1546,
+      "name": "Miguel Marcos Madera",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 1802,
+      "name": "D. Abraham",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 35
+    },
+    {
+      "id": 2040,
+      "name": "Sergio Escudero",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 2056,
+      "name": "Pablo Sarabia",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 18893,
+      "name": "F. Fernández",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 44423,
+      "name": "Alexis Ruano Delgado",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47066,
+      "name": "Álvaro Vázquez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47102,
+      "name": "Rafa",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 47224,
+      "name": "Abdelaziz Barrada",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 32
+    },
+    {
+      "id": 47263,
+      "name": "Samu Sáiz",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47458,
+      "name": "Postigo",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 105066,
+      "name": "Dani Güiza",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 43
+    },
+    {
+      "id": 105120,
+      "name": "Adrián Colunga Pérez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    }
+  ],
+  "Levante": [
+    {
+      "id": 15376,
+      "name": "Loukas Vyntra",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 41
+    },
+    {
+      "id": 33361,
+      "name": "Simão Mate",
+      "position": "DEF",
+      "nationality": "Mozambique",
+      "age": 33
+    },
+    {
+      "id": 46944,
+      "name": "Héctor Rodas",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47219,
+      "name": "Iván López",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 28
+    },
+    {
+      "id": 47387,
+      "name": "P. Diop",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 37
+    },
+    {
+      "id": 47454,
+      "name": "Pedro López",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 47489,
+      "name": "Míchel Herrero",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 88774,
+      "name": "N. Karabelas",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 37
+    },
+    {
+      "id": 91829,
+      "name": "Pallardó",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 104975,
+      "name": "David Navarro Pedrós",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 105013,
+      "name": "Pedro Ríos Maestre",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 108627,
+      "name": "Higón",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 113805,
+      "name": "Dariusz Dudka",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 34
+    },
+    {
+      "id": 116819,
+      "name": "Juan Francisco García García",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 40
+    },
+    {
+      "id": 116927,
+      "name": "Juan Luis Gómez López",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116930,
+      "name": "José Javier Barkero Saludes",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116949,
+      "name": "Sergio Martinez Ballesteros",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 116950,
+      "name": "Valmiro Lópes Rocha",
+      "position": "MID",
+      "nationality": "Cape Verde Islands",
+      "age": 39
+    },
+    {
+      "id": 116960,
+      "name": "Óscar Serrano Rodriguez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 116983,
+      "name": "Sergio Garabato",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 731,
+      "name": "K. Navas",
+      "position": "GK",
+      "nationality": "Costa Rica",
+      "age": 39
+    },
+    {
+      "id": 1699,
+      "name": "Iborra",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 30623,
+      "name": "Massimo Volta",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 46658,
+      "name": "Rubén García",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 47266,
+      "name": "Ángel Rodríguez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 47411,
+      "name": "N. El Zhar",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 37
+    },
+    {
+      "id": 47471,
+      "name": "Roger",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47473,
+      "name": "Jason",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 48531,
+      "name": "R. Acquafresca",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 105229,
+      "name": "Theofanis Gekas",
+      "position": "ATT",
+      "nationality": "Greece",
+      "age": 37
+    },
+    {
+      "id": 115032,
+      "name": "C. Lell",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 37
+    },
+    {
+      "id": 115237,
+      "name": "Gustavo Adolfo Munúa Vera",
+      "position": "GK",
+      "nationality": "Uruguay",
+      "age": 37
+    }
+  ],
+  "Ath Bilbao": [
+    {
+      "id": 15510,
+      "name": "Borja Ekiza Imaz",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 46665,
+      "name": "Iñigo Pérez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 46717,
+      "name": "Álvaro Peña",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 46830,
+      "name": "Erik Morán",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47076,
+      "name": "Isma López",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 47283,
+      "name": "Ibai Gómez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47284,
+      "name": "Iturraspe",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 47289,
+      "name": "Susaeta",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47290,
+      "name": "Aduriz",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 47501,
+      "name": "Gorka Iraizoz Moreno",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 47510,
+      "name": "Jonás Ramalho",
+      "position": "DEF",
+      "nationality": "Angola",
+      "age": 31
+    },
+    {
+      "id": 70132,
+      "name": "Gaizka Toquero Pinedo",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 104751,
+      "name": "Jon Aurtenetxe",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 105005,
+      "name": "Igor Martínez Caseras",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 105427,
+      "name": "Andoni Iraola Sagarna",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116511,
+      "name": "Ustaritz Aldekoaotalora Astarloa",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 116823,
+      "name": "Carlos Gurpegi Nausia",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116936,
+      "name": "Xabier Castillo Aranburu",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 29
+    },
+    {
+      "id": 123119,
+      "name": "Jonxa Vidal",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 195855,
+      "name": "Aitor Seguín",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 185,
+      "name": "Llorente",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 622,
+      "name": "Aymeric Laporte",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 898,
+      "name": "Ander Herrera",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 2273,
+      "name": "Kepa",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 2672,
+      "name": "Muniain",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 46768,
+      "name": "Ager Aketxe",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 46987,
+      "name": "Raúl Fernández",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 47007,
+      "name": "Ruíz de Galarreta",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 47090,
+      "name": "Iker Undabarrena",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 47125,
+      "name": "Markel Etxeberría",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 47144,
+      "name": "Guillermo Fernández",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 47275,
+      "name": "De Marcos",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 47288,
+      "name": "Mikel San José Domínguez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 70546,
+      "name": "Fernando Gabriel Amorebieta Mardaras",
+      "position": "DEF",
+      "nationality": "Venezuela",
+      "age": 35
+    },
+    {
+      "id": 104808,
+      "name": "Enric Saborit",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 105030,
+      "name": "David López",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 41
+    }
+  ],
+  "Espanol": [
+    {
+      "id": 5379,
+      "name": "Matías Enrique Abelairas",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 11438,
+      "name": "Cristian Edward Guerra Torres",
+      "position": "GK",
+      "nationality": "Chile",
+      "age": 30
+    },
+    {
+      "id": 11586,
+      "name": "S. Jaime",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 11704,
+      "name": "Braulio Antonio Leal Salvo",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 41
+    },
+    {
+      "id": 11769,
+      "name": "Óscar Ignacio Hernández Polanco",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 29
+    },
+    {
+      "id": 11815,
+      "name": "Fabián Andrés Saavedra Muñóz",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 30
+    },
+    {
+      "id": 11847,
+      "name": "Jorge Enrique Ampuero Cabello",
+      "position": "DEF",
+      "nationality": "Chile",
+      "age": 35
+    },
+    {
+      "id": 11861,
+      "name": "Francisco Fernando Castro Gamboa",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 33
+    },
+    {
+      "id": 11971,
+      "name": "G. Villagra",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 41
+    },
+    {
+      "id": 12142,
+      "name": "Dagoberto Alexis Currimilla Gómez",
+      "position": "DEF",
+      "nationality": "Chile",
+      "age": 35
+    },
+    {
+      "id": 12255,
+      "name": "P. Feres",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 28
+    },
+    {
+      "id": 51344,
+      "name": "D. Scotti",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 44
+    },
+    {
+      "id": 78657,
+      "name": "E. Hernández",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 37
+    },
+    {
+      "id": 78707,
+      "name": "D. Martínez",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 27
+    },
+    {
+      "id": 80799,
+      "name": "G. Barriga",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 37
+    },
+    {
+      "id": 80818,
+      "name": "E. Lobos",
+      "position": "GK",
+      "nationality": "Chile",
+      "age": 38
+    },
+    {
+      "id": 100940,
+      "name": "Ramsés Maximiliano Bustos Guerrero",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 27
+    },
+    {
+      "id": 106652,
+      "name": "P. Reinoso",
+      "position": "GK",
+      "nationality": "Chile",
+      "age": 36
+    },
+    {
+      "id": 142902,
+      "name": "M. Hidalgo",
+      "position": "DEF",
+      "nationality": "Chile",
+      "age": 33
+    },
+    {
+      "id": 316504,
+      "name": "R. Madrid",
+      "position": "DEF",
+      "nationality": "Chile",
+      "age": 41
+    },
+    {
+      "id": 2428,
+      "name": "C. Cueva",
+      "position": "MID",
+      "nationality": "Peru",
+      "age": 34
+    },
+    {
+      "id": 11385,
+      "name": "M. Navarrete",
+      "position": "DEF",
+      "nationality": "Chile",
+      "age": 33
+    },
+    {
+      "id": 11440,
+      "name": "D. Sánchez",
+      "position": "GK",
+      "nationality": "Chile",
+      "age": 38
+    },
+    {
+      "id": 11443,
+      "name": "M. Larenas",
+      "position": "DEF",
+      "nationality": "Chile",
+      "age": 32
+    },
+    {
+      "id": 11528,
+      "name": "N. Berardo",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 35
+    },
+    {
+      "id": 11555,
+      "name": "J. Pineda",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 35
+    },
+    {
+      "id": 11736,
+      "name": "F. Cordero",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 38
+    },
+    {
+      "id": 11750,
+      "name": "P. Rubio",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 36
+    },
+    {
+      "id": 11805,
+      "name": "R. Ureña",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 32
+    },
+    {
+      "id": 11845,
+      "name": "F. Alarcón",
+      "position": "DEF",
+      "nationality": "Chile",
+      "age": 35
+    },
+    {
+      "id": 12109,
+      "name": "F. Cornejo",
+      "position": "DEF",
+      "nationality": "Chile",
+      "age": 31
+    },
+    {
+      "id": 39805,
+      "name": "E. Herrera",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 50307,
+      "name": "M. Díaz",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 34
+    },
+    {
+      "id": 50313,
+      "name": "E. Vecchio",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 68075,
+      "name": "N. Mancilla",
+      "position": "DEF",
+      "nationality": "Chile",
+      "age": 32
+    },
+    {
+      "id": 78436,
+      "name": "R. Gattas",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 34
+    },
+    {
+      "id": 78649,
+      "name": "N. Donadell",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 34
+    },
+    {
+      "id": 80609,
+      "name": "G. Canales",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 39
+    },
+    {
+      "id": 112494,
+      "name": "E. Ruiz",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 36
+    }
+  ],
+  "Valladolid": [
+    {
+      "id": 1042,
+      "name": "Lluis Sastre",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 3504,
+      "name": "V. Rama",
+      "position": "MID",
+      "nationality": "Albania",
+      "age": 36
+    },
+    {
+      "id": 15284,
+      "name": "Jesús Rueda",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 41312,
+      "name": "Alberto Bueno Calvo",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 45829,
+      "name": "Marc Valiente",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 46809,
+      "name": "Quique González",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 46861,
+      "name": "Omar Ramos",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47070,
+      "name": "Daniel Hernández Santos",
+      "position": "GK",
+      "nationality": "Venezuela",
+      "age": 38
+    },
+    {
+      "id": 47272,
+      "name": "Balenziaga",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 47391,
+      "name": "Rubén Peña",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 59951,
+      "name": "Peña",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 69913,
+      "name": "Víctor Pérez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 77609,
+      "name": "Jorge Pesca",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 116848,
+      "name": "Jaime Jiménez Merlo",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116869,
+      "name": "Óscar Javier González Marcos",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116877,
+      "name": "Baraja",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 41
+    },
+    {
+      "id": 116879,
+      "name": "Álvaro Rubio",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 42
+    },
+    {
+      "id": 116900,
+      "name": "Javi Navas",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116961,
+      "name": "Lolo Plá",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 116974,
+      "name": "Iván Casado",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 2230,
+      "name": "Antonio Rukavina",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 38
+    },
+    {
+      "id": 25131,
+      "name": "P. Ebert",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 26905,
+      "name": "J. Neira",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 47555,
+      "name": "Javier Guerra Rodríguez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 68196,
+      "name": "Daniel Alexander Larsson",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 36
+    },
+    {
+      "id": 104905,
+      "name": "Manucho Gonçalves",
+      "position": "ATT",
+      "nationality": "Angola",
+      "age": 38
+    },
+    {
+      "id": 105076,
+      "name": "Sereno",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 36
+    }
+  ],
+  "Granada": [
+    {
+      "id": 15322,
+      "name": "Dani Benítez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 27208,
+      "name": "Álex Cruz",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 28978,
+      "name": "Borja Gómez Pérez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 35735,
+      "name": "B. Angulo",
+      "position": "DEF",
+      "nationality": "Colombia",
+      "age": 36
+    },
+    {
+      "id": 46791,
+      "name": "Íñigo López Montaña",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 47287,
+      "name": "Mikel Rico",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 40
+    },
+    {
+      "id": 47390,
+      "name": "Fabián Orellana",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 37
+    },
+    {
+      "id": 47413,
+      "name": "Recio",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 70495,
+      "name": "Francisco Manuel Rico Castro",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 104907,
+      "name": "Roberto Fernández Alvarellos",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 104948,
+      "name": "Migue García",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 105111,
+      "name": "Antonio Rodríguez Martínez",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 113897,
+      "name": "P. Diakhaté",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 37
+    },
+    {
+      "id": 116828,
+      "name": "Diego Mainz García",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116888,
+      "name": "Carlos Reina Aranda",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116928,
+      "name": "Juan Manuel Ortiz Palazón",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 40
+    },
+    {
+      "id": 116937,
+      "name": "Moisés Hurtado Pérez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 116954,
+      "name": "Manuel Lucena Medina",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 116966,
+      "name": "Jorge Sánchez",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 117020,
+      "name": "David Cortés Caballero",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 388,
+      "name": "Y. Brahimi",
+      "position": "ATT",
+      "nationality": "Algeria",
+      "age": 35
+    },
+    {
+      "id": 2058,
+      "name": "Nolito",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 2459,
+      "name": "D. Machís",
+      "position": "ATT",
+      "nationality": "Venezuela",
+      "age": 32
+    },
+    {
+      "id": 11360,
+      "name": "D. Buonanotte",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 12975,
+      "name": "O. Ighalo",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 36
+    },
+    {
+      "id": 31802,
+      "name": "A. Floro Flores",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 42086,
+      "name": "Y. El-Arabi",
+      "position": "ATT",
+      "nationality": "Morocco",
+      "age": 38
+    },
+    {
+      "id": 46689,
+      "name": "Antonio Puertas",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 47203,
+      "name": "Jaime Romero",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 47407,
+      "name": "A. Nyom",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 37
+    },
+    {
+      "id": 50095,
+      "name": "G. Torje",
+      "position": "ATT",
+      "nationality": "Romania",
+      "age": 36
+    },
+    {
+      "id": 104411,
+      "name": "H. Yebda",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 37
+    },
+    {
+      "id": 104851,
+      "name": "Guilherme Siqueira",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 35
+    },
+    {
+      "id": 116926,
+      "name": "Iriney Santos Da Silva",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 116996,
+      "name": "N. Pamarot",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 42
+    }
+  ],
+  "Osasuna": [
+    {
+      "id": 2696,
+      "name": "M. Shojaei",
+      "position": "MID",
+      "nationality": "Iran",
+      "age": 39
+    },
+    {
+      "id": 15385,
+      "name": "R. Loé",
+      "position": "MID",
+      "nationality": "Cameroon",
+      "age": 35
+    },
+    {
+      "id": 33701,
+      "name": "Sisinio",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 46656,
+      "name": "Oier",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 46984,
+      "name": "Nino",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 41
+    },
+    {
+      "id": 47188,
+      "name": "Miguel Flaño Bezunartea",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47201,
+      "name": "De las Cuevas",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 47376,
+      "name": "Asier Riesgo",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 40
+    },
+    {
+      "id": 77168,
+      "name": "Álvaro Cejudo Carmona",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 95467,
+      "name": "Emiliano Daniel Armenteros",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 104825,
+      "name": "Kike Sola",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 105101,
+      "name": "Lolo",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 116870,
+      "name": "Francisco Puñal Martínez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 116872,
+      "name": "Marc Bertrán Vilanova",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116887,
+      "name": "Manuel Onwu Villafranca",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116895,
+      "name": "Ion Echaide Sola",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116923,
+      "name": "Joseba Llorente",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 42
+    },
+    {
+      "id": 116934,
+      "name": "Fernando Macedo Da Silva Rodilla",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116952,
+      "name": "Rubén González Rocha",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116973,
+      "name": "Imanol Elías",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 1684,
+      "name": "Andrés Fernández",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 6091,
+      "name": "F. Silva",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 39
+    },
+    {
+      "id": 35903,
+      "name": "Alejandro Arribas",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 46652,
+      "name": "Unai García",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 46666,
+      "name": "Roberto Torres",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 47005,
+      "name": "Maikel Mesa",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47010,
+      "name": "David Timor",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 50988,
+      "name": "Roland Conde Lamah",
+      "position": "ATT",
+      "nationality": "Belgium",
+      "age": 35
+    },
+    {
+      "id": 83414,
+      "name": "Anthony Gildas Kofi Annan",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 37
+    },
+    {
+      "id": 116882,
+      "name": "Damià Abella Pérez",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116975,
+      "name": "Ricardo Lopez Felipe",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 42
+    }
+  ],
+  "Celta": [
+    {
+      "id": 934,
+      "name": "Santi Mina",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 28
+    },
+    {
+      "id": 13114,
+      "name": "A. Fernández",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 35
+    },
+    {
+      "id": 26719,
+      "name": "Joan Tomás",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 28989,
+      "name": "Toni",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 46801,
+      "name": "M. Krohn-Dehli",
+      "position": "MID",
+      "nationality": "Denmark",
+      "age": 38
+    },
+    {
+      "id": 46939,
+      "name": "Carlos Bellvís Llorens",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 47147,
+      "name": "David Rodríguez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 47390,
+      "name": "Fabián Orellana",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 37
+    },
+    {
+      "id": 47425,
+      "name": "Sergio Álvarez",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47428,
+      "name": "G. Cabral",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 40
+    },
+    {
+      "id": 47560,
+      "name": "Javier Varas Herrera",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 48907,
+      "name": "A. Túñez",
+      "position": "DEF",
+      "nationality": "Venezuela",
+      "age": 36
+    },
+    {
+      "id": 60083,
+      "name": "Jonathan Vila Pereira",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 62032,
+      "name": "L. Madinda",
+      "position": "MID",
+      "nationality": "Gabon",
+      "age": 33
+    },
+    {
+      "id": 104960,
+      "name": "Cristian Bustos Costa",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 105583,
+      "name": "Roberto Lago Soto",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 116883,
+      "name": "Mario Bermejo Castanedo",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116924,
+      "name": "Enrique de Lucas",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 43
+    },
+    {
+      "id": 116963,
+      "name": "Samuel Llorca Ripoll",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116969,
+      "name": "Antón de Vicente",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 7015,
+      "name": "Álex López",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 15412,
+      "name": "Danijel Pranjić",
+      "position": "MID",
+      "nationality": "Croatia",
+      "age": 40
+    },
+    {
+      "id": 18740,
+      "name": "Jonny",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 34522,
+      "name": "Park Chu-Young",
+      "position": "ATT",
+      "nationality": "Korea Republic",
+      "age": 40
+    },
+    {
+      "id": 35150,
+      "name": "Natxo Insa",
+      "position": "MID",
+      "nationality": "Malaysia",
+      "age": 39
+    },
+    {
+      "id": 47426,
+      "name": "Rubén Blanco",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 47432,
+      "name": "Hugo Mallo",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47445,
+      "name": "Iago Aspas",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 116609,
+      "name": "Daniel Ábalo Paulos",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 116878,
+      "name": "Borja Oubiña Meléndez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    }
+  ],
+  "Mallorca": [
+    {
+      "id": 15405,
+      "name": "João Victor",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 36
+    },
+    {
+      "id": 26846,
+      "name": "Marc Fernández",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 43293,
+      "name": "Gabriel Company Vives",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 46955,
+      "name": "Víctor Casadesús",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 47196,
+      "name": "Alejandro Alfaro Ligero",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 47230,
+      "name": "Javier Márquez Moreno",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47365,
+      "name": "Tomás Pina",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 51251,
+      "name": "Andreu Fontàs",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 88617,
+      "name": "Carlos Cristeto",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 104458,
+      "name": "Rubén Miño",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116864,
+      "name": "C. Took Essome",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 31
+    },
+    {
+      "id": 116935,
+      "name": "Ángel Javier Arizmendi de Lucas",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 116938,
+      "name": "Jose Luis Martí Soler",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 40
+    },
+    {
+      "id": 116945,
+      "name": "Kevin",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116948,
+      "name": "Dudú Aouate",
+      "position": "GK",
+      "nationality": "Israel",
+      "age": 37
+    },
+    {
+      "id": 116956,
+      "name": "Antonio López Guerrero",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 116957,
+      "name": "José Carlos Araújo Nunes",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 37
+    },
+    {
+      "id": 116958,
+      "name": "Calatayud",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 42
+    },
+    {
+      "id": 125043,
+      "name": "K. Uchenwa",
+      "position": "MID",
+      "nationality": "Nigeria",
+      "age": 33
+    },
+    {
+      "id": 179079,
+      "name": "Nico Baleani",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 10485,
+      "name": "Geromel",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 39
+    },
+    {
+      "id": 15283,
+      "name": "Emilio Nsue",
+      "position": "ATT",
+      "nationality": "Equatorial Guinea",
+      "age": 36
+    },
+    {
+      "id": 19178,
+      "name": "Alan Hutton",
+      "position": "DEF",
+      "nationality": "Scotland",
+      "age": 35
+    },
+    {
+      "id": 19593,
+      "name": "T. Hemed",
+      "position": "ATT",
+      "nationality": "Israel",
+      "age": 37
+    },
+    {
+      "id": 41475,
+      "name": "Fernando Damián Tissone Rodrigues",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 42325,
+      "name": "Anderson Conceição",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 36
+    },
+    {
+      "id": 46670,
+      "name": "Brandon Thomas",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 46751,
+      "name": "Abdón Prats",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 46792,
+      "name": "Pablo Marí",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 46931,
+      "name": "Álvaro Giménez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47360,
+      "name": "Ximo Navarro",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47378,
+      "name": "Bigas",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47455,
+      "name": "Antonio Luna",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 49916,
+      "name": "M. Pereira",
+      "position": "MID",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 105371,
+      "name": "Giovani dos Santos Ramírez",
+      "position": "ATT",
+      "nationality": "Mexico",
+      "age": 34
+    },
+    {
+      "id": 136836,
+      "name": "Tià Sastre",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    }
+  ],
+  "La Coruna": [
+    {
+      "id": 5986,
+      "name": "G. Lux",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 40
+    },
+    {
+      "id": 7581,
+      "name": "Juan Domínguez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 41240,
+      "name": "André Santos",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 36
+    },
+    {
+      "id": 41642,
+      "name": "José Eduardo Rosa Vale de Castro",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 39
+    },
+    {
+      "id": 41766,
+      "name": "Evaldo",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 39
+    },
+    {
+      "id": 44636,
+      "name": "Diogo Salomão",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 36
+    },
+    {
+      "id": 46796,
+      "name": "Álex Bergantiños",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 46945,
+      "name": "Laure",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 46991,
+      "name": "Aythami Artiles Oliva",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 112997,
+      "name": "Seoane",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116821,
+      "name": "Juan Carlos Valerón Santana",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 41
+    },
+    {
+      "id": 116822,
+      "name": "Manuel Pablo García Díaz",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 42
+    },
+    {
+      "id": 116858,
+      "name": "Iván Sánchez Rico Soto",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 116889,
+      "name": "Daniel Aranzubia Aguado",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116931,
+      "name": "Camuñas",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 41
+    },
+    {
+      "id": 116940,
+      "name": "Rodolfo Bodipo Díaz",
+      "position": "ATT",
+      "nationality": "Equatorial Guinea",
+      "age": 36
+    },
+    {
+      "id": 116941,
+      "name": "Carlos Marchena López",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 116946,
+      "name": "Antonio Jesús Vázquez Muñoz",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 116953,
+      "name": "Ayoze Díaz Díaz",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 116968,
+      "name": "Saúl",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 572,
+      "name": "Pizzi",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 36
+    },
+    {
+      "id": 1594,
+      "name": "Roderick Miranda",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 34
+    },
+    {
+      "id": 13807,
+      "name": "Abel Aguilar",
+      "position": "MID",
+      "nationality": "Colombia",
+      "age": 34
+    },
+    {
+      "id": 19624,
+      "name": "Nélson Oliveira",
+      "position": "UNK",
+      "nationality": "Portugal",
+      "age": 34
+    },
+    {
+      "id": 41381,
+      "name": "Sílvio",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 38
+    },
+    {
+      "id": 50138,
+      "name": "Tiago Miguel Baia Pinto",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 34
+    },
+    {
+      "id": 68202,
+      "name": "Bruno Gama",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 38
+    },
+    {
+      "id": 90646,
+      "name": "Pablo Insua",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 96501,
+      "name": "Kaká",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 40
+    },
+    {
+      "id": 114681,
+      "name": "Paulo Assunção da Silva",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 116909,
+      "name": "Marc Martínez",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 35
+    }
+  ],
+  "Zaragoza": [
+    {
+      "id": 1416,
+      "name": "Ivan Obradović",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 34
+    },
+    {
+      "id": 5556,
+      "name": "Lucas Antonio Wílchez",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 39
+    },
+    {
+      "id": 47027,
+      "name": "Javi Álamo",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 47086,
+      "name": "Francisco Montañés Claverías",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 47187,
+      "name": "José Manuel Fernández Reyes",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 47220,
+      "name": "Abraham  Minero Fernández",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 47357,
+      "name": "Laguardia",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 51112,
+      "name": "Víctor Rodríguez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 105048,
+      "name": "Edu Oriol",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 113635,
+      "name": "C. Romaric",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 38
+    },
+    {
+      "id": 113988,
+      "name": "L. Franco",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 44
+    },
+    {
+      "id": 116888,
+      "name": "Carlos Reina Aranda",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116925,
+      "name": "Antonio Galdeano Benítez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 116932,
+      "name": "Stefan Babović",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 29
+    },
+    {
+      "id": 116943,
+      "name": "Jose María Movilla Cubero",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 116944,
+      "name": "Raúl Goni",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 116947,
+      "name": "Javier Paredes Arango",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 116955,
+      "name": "Jorge Ortí",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 28
+    },
+    {
+      "id": 116984,
+      "name": "Alcolea",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 116986,
+      "name": "Kilian Falcón",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 29
+    },
+    {
+      "id": 1689,
+      "name": "Álvaro González",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 6656,
+      "name": "F. Zuculini",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 33
+    },
+    {
+      "id": 19891,
+      "name": "G. Loovens",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 38
+    },
+    {
+      "id": 28564,
+      "name": "Ádám Pintér",
+      "position": "DEF",
+      "nationality": "Hungary",
+      "age": 34
+    },
+    {
+      "id": 46696,
+      "name": "Rodri",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 46772,
+      "name": "José Mari",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 47074,
+      "name": "Héctor Hernández",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 47326,
+      "name": "Roberto Jiménez",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 47468,
+      "name": "Rochina",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 50117,
+      "name": "C. Săpunaru",
+      "position": "DEF",
+      "nationality": "Romania",
+      "age": 41
+    },
+    {
+      "id": 60102,
+      "name": "Adrià Carmona Pérez",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 29
+    },
+    {
+      "id": 73315,
+      "name": "Fran González",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 107141,
+      "name": "Tarsi",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 113606,
+      "name": "H. Ntsama",
+      "position": "ATT",
+      "nationality": "Cameroon",
+      "age": 35
+    },
+    {
+      "id": 115228,
+      "name": "Hélder Manuel Marques Postiga",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 35
+    },
+    {
+      "id": 115251,
+      "name": "Antonio Baltasar Doblas Santana",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 39
+    },
+    {
+      "id": 116962,
+      "name": "Maurizio Lanzaro",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 34
+    }
+  ]
+}

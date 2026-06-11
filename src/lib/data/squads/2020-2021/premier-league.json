@@ -1,0 +1,5628 @@
+{
+  "Man City": [
+    {
+      "id": 44,
+      "name": "Rodri",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 29
+    },
+    {
+      "id": 567,
+      "name": "Rúben Dias",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 28
+    },
+    {
+      "id": 622,
+      "name": "Aymeric Laporte",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 623,
+      "name": "B. Mendy",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 626,
+      "name": "J. Stones",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 627,
+      "name": "K. Walker",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 35
+    },
+    {
+      "id": 631,
+      "name": "P. Foden",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 636,
+      "name": "Bernardo Silva",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 31
+    },
+    {
+      "id": 641,
+      "name": "O. Zinchenko",
+      "position": "DEF",
+      "nationality": "Ukraine",
+      "age": 29
+    },
+    {
+      "id": 642,
+      "name": "S. Agüero",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 33
+    },
+    {
+      "id": 643,
+      "name": "Gabriel Jesus",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 28
+    },
+    {
+      "id": 645,
+      "name": "R. Sterling",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 931,
+      "name": "Ferran Torres",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 25
+    },
+    {
+      "id": 18861,
+      "name": "N. Aké",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 30
+    },
+    {
+      "id": 144729,
+      "name": "T. Harwood-Bellis",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 144732,
+      "name": "T. Doyle",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 152982,
+      "name": "C. Palmer",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 161948,
+      "name": "L. Delap",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 162489,
+      "name": "J. Trafford",
+      "position": "GK",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 278129,
+      "name": "L. Mbete",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 617,
+      "name": "Ederson",
+      "position": "GK",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 619,
+      "name": "Eric García",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 24
+    },
+    {
+      "id": 624,
+      "name": "N. Otamendi",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 628,
+      "name": "Adrián Bernabé",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 24
+    },
+    {
+      "id": 629,
+      "name": "K. De Bruyne",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 34
+    },
+    {
+      "id": 632,
+      "name": "C. Gomes",
+      "position": "MID",
+      "nationality": "France",
+      "age": 25
+    },
+    {
+      "id": 633,
+      "name": "İ. Gündoğan",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 635,
+      "name": "R. Mahrez",
+      "position": "ATT",
+      "nationality": "Algeria",
+      "age": 34
+    },
+    {
+      "id": 637,
+      "name": "F. Nmecha",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 25
+    },
+    {
+      "id": 640,
+      "name": "Fernandinho",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 39
+    },
+    {
+      "id": 855,
+      "name": "João Cancelo",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 31
+    },
+    {
+      "id": 19197,
+      "name": "S. Carson",
+      "position": "GK",
+      "nationality": "England",
+      "age": 40
+    },
+    {
+      "id": 50828,
+      "name": "Z. Steffen",
+      "position": "GK",
+      "nationality": "USA",
+      "age": 30
+    }
+  ],
+  "Man United": [
+    {
+      "id": 882,
+      "name": "David de Gea",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 883,
+      "name": "Lee Grant",
+      "position": "GK",
+      "nationality": "England",
+      "age": 39
+    },
+    {
+      "id": 886,
+      "name": "Diogo Dalot",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 26
+    },
+    {
+      "id": 888,
+      "name": "P. Jones",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 889,
+      "name": "V. Lindelöf",
+      "position": "DEF",
+      "nationality": "Sweden",
+      "age": 31
+    },
+    {
+      "id": 891,
+      "name": "L. Shaw",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 895,
+      "name": "J. Garner",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 899,
+      "name": "Andreas Pereira",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 29
+    },
+    {
+      "id": 900,
+      "name": "J. Lingard",
+      "position": "MID",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 1485,
+      "name": "Bruno Fernandes",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 31
+    },
+    {
+      "id": 2935,
+      "name": "H. Maguire",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 18846,
+      "name": "A. Wan-Bissaka",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 19088,
+      "name": "D. Henderson",
+      "position": "GK",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 19182,
+      "name": "A. Tuanzebe",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 19329,
+      "name": "D. James",
+      "position": "MID",
+      "nationality": "Wales",
+      "age": 28
+    },
+    {
+      "id": 138814,
+      "name": "E. Galbraith",
+      "position": "MID",
+      "nationality": "Northern Ireland",
+      "age": 24
+    },
+    {
+      "id": 153430,
+      "name": "A. Elanga",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 23
+    },
+    {
+      "id": 153434,
+      "name": "W. Fish",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 157997,
+      "name": "A. Diallo",
+      "position": "ATT",
+      "nationality": "Côte d'Ivoire",
+      "age": 23
+    },
+    {
+      "id": 180560,
+      "name": "H. Mejbri",
+      "position": "MID",
+      "nationality": "Tunisia",
+      "age": 22
+    },
+    {
+      "id": 274,
+      "name": "E. Cavani",
+      "position": "ATT",
+      "nationality": "Uruguay",
+      "age": 38
+    },
+    {
+      "id": 547,
+      "name": "D. van de Beek",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 28
+    },
+    {
+      "id": 884,
+      "name": "S. Romero",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 885,
+      "name": "E. Bailly",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 31
+    },
+    {
+      "id": 890,
+      "name": "M. Rojo",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 35
+    },
+    {
+      "id": 892,
+      "name": "C. Smalling",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 897,
+      "name": "M. Greenwood",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 902,
+      "name": "N. Matić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 37
+    },
+    {
+      "id": 903,
+      "name": "S. McTominay",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 29
+    },
+    {
+      "id": 904,
+      "name": "P. Pogba",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 905,
+      "name": "Fred",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 908,
+      "name": "A. Martial",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 30
+    },
+    {
+      "id": 909,
+      "name": "M. Rashford",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 12975,
+      "name": "O. Ighalo",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 36
+    },
+    {
+      "id": 19018,
+      "name": "T. Fosu-Mensah",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 26
+    },
+    {
+      "id": 20319,
+      "name": "N. Bishop",
+      "position": "GK",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 70078,
+      "name": "F. Pellistri",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 24
+    },
+    {
+      "id": 138806,
+      "name": "B. Williams",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 153429,
+      "name": "T. Mengi",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 163054,
+      "name": "S. Shoretire",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 21
+    },
+    {
+      "id": 378,
+      "name": "Alex Telles",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 901,
+      "name": "Mata",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 37
+    }
+  ],
+  "Liverpool": [
+    {
+      "id": 280,
+      "name": "Alisson Becker",
+      "position": "GK",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 281,
+      "name": "C. Kelleher",
+      "position": "GK",
+      "nationality": "Republic of Ireland",
+      "age": 27
+    },
+    {
+      "id": 284,
+      "name": "J. Gomez",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 285,
+      "name": "K. Hoever",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 23
+    },
+    {
+      "id": 289,
+      "name": "A. Robertson",
+      "position": "DEF",
+      "nationality": "Scotland",
+      "age": 31
+    },
+    {
+      "id": 290,
+      "name": "V. van Dijk",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 34
+    },
+    {
+      "id": 292,
+      "name": "J. Henderson",
+      "position": "MID",
+      "nationality": "England",
+      "age": 35
+    },
+    {
+      "id": 293,
+      "name": "C. Jones",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 296,
+      "name": "J. Milner",
+      "position": "MID",
+      "nationality": "England",
+      "age": 39
+    },
+    {
+      "id": 305,
+      "name": "D. Origi",
+      "position": "ATT",
+      "nationality": "Belgium",
+      "age": 30
+    },
+    {
+      "id": 306,
+      "name": "Mohamed Salah",
+      "position": "ATT",
+      "nationality": "Egypt",
+      "age": 33
+    },
+    {
+      "id": 1600,
+      "name": "K. Tsimikas",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 29
+    },
+    {
+      "id": 1972,
+      "name": "L. Karius",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 19035,
+      "name": "H. Elliott",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 19221,
+      "name": "H. Wilson",
+      "position": "ATT",
+      "nationality": "Wales",
+      "age": 28
+    },
+    {
+      "id": 36922,
+      "name": "S. van den Berg",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 24
+    },
+    {
+      "id": 138780,
+      "name": "N. Williams",
+      "position": "DEF",
+      "nationality": "Wales",
+      "age": 24
+    },
+    {
+      "id": 152974,
+      "name": "Billy Dawson Koumetio",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 23
+    },
+    {
+      "id": 162687,
+      "name": "V. Jaroš",
+      "position": "GK",
+      "nationality": "Czechia",
+      "age": 24
+    },
+    {
+      "id": 162904,
+      "name": "R. Williams",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 283,
+      "name": "T. Alexander-Arnold",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 286,
+      "name": "J. Matip",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 33
+    },
+    {
+      "id": 294,
+      "name": "N. Keïta",
+      "position": "MID",
+      "nationality": "Guinea",
+      "age": 30
+    },
+    {
+      "id": 300,
+      "name": "G. Wijnaldum",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 35
+    },
+    {
+      "id": 301,
+      "name": "B. Woodburn",
+      "position": "MID",
+      "nationality": "Wales",
+      "age": 26
+    },
+    {
+      "id": 302,
+      "name": "Roberto Firmino",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 304,
+      "name": "S. Mané",
+      "position": "ATT",
+      "nationality": "Senegal",
+      "age": 33
+    },
+    {
+      "id": 307,
+      "name": "X. Shaqiri",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 34
+    },
+    {
+      "id": 507,
+      "name": "Thiago Alcântara",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 1101,
+      "name": "T. Minamino",
+      "position": "MID",
+      "nationality": "Japan",
+      "age": 30
+    },
+    {
+      "id": 2678,
+      "name": "Diogo Jota",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 29
+    },
+    {
+      "id": 18812,
+      "name": "Adrián",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 19437,
+      "name": "B. Davies",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 25350,
+      "name": "M. Grujić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 29
+    },
+    {
+      "id": 127472,
+      "name": "N. Phillips",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 138411,
+      "name": "Liam John Hughes",
+      "position": "GK",
+      "nationality": "Northern Ireland",
+      "age": 24
+    },
+    {
+      "id": 151754,
+      "name": "L. Clarkson",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 152975,
+      "name": "J. Cain",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 162441,
+      "name": "J. Ojrzyński",
+      "position": "GK",
+      "nationality": "Poland",
+      "age": 22
+    },
+    {
+      "id": 180316,
+      "name": "H. Davies",
+      "position": "GK",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 297,
+      "name": "A. Oxlade-Chamberlain",
+      "position": "MID",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 299,
+      "name": "Fabinho",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 303,
+      "name": "R. Brewster",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 26300,
+      "name": "O. Kabak",
+      "position": "DEF",
+      "nationality": "Türkiye",
+      "age": 25
+    }
+  ],
+  "Chelsea": [
+    {
+      "id": 978,
+      "name": "K. Havertz",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 2273,
+      "name": "Kepa",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 2276,
+      "name": "J. Cumming",
+      "position": "GK",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 2279,
+      "name": "E. Ampadu",
+      "position": "DEF",
+      "nationality": "Wales",
+      "age": 25
+    },
+    {
+      "id": 2284,
+      "name": "Emerson",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 2287,
+      "name": "R. Barkley",
+      "position": "MID",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 2291,
+      "name": "M. Kovačić",
+      "position": "MID",
+      "nationality": "Croatia",
+      "age": 31
+    },
+    {
+      "id": 2298,
+      "name": "C. Hudson-Odoi",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 2933,
+      "name": "B. Chilwell",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 29
+    },
+    {
+      "id": 19220,
+      "name": "M. Mount",
+      "position": "MID",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 19545,
+      "name": "R. James",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 127199,
+      "name": "L. McCormick",
+      "position": "MID",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 138777,
+      "name": "F. Anjorin",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 138815,
+      "name": "T. Lamptey",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 25
+    },
+    {
+      "id": 138816,
+      "name": "I. Maatsen",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 23
+    },
+    {
+      "id": 138817,
+      "name": "Juan Carlos Familia-Castillo",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 25
+    },
+    {
+      "id": 138822,
+      "name": "A. Broja",
+      "position": "ATT",
+      "nationality": "Albania",
+      "age": 24
+    },
+    {
+      "id": 138823,
+      "name": "H. Lawrence",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 158694,
+      "name": "T. Livramento",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 180308,
+      "name": "M. Peart-Harris",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 17,
+      "name": "C. Pulišić",
+      "position": "MID",
+      "nationality": "USA",
+      "age": 27
+    },
+    {
+      "id": 259,
+      "name": "Thiago Silva",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 41
+    },
+    {
+      "id": 548,
+      "name": "H. Ziyech",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 32
+    },
+    {
+      "id": 1166,
+      "name": "T. Werner",
+      "position": "ATT",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 2275,
+      "name": "W. Caballero",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 42
+    },
+    {
+      "id": 2280,
+      "name": "César Azpilicueta",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 2282,
+      "name": "A. Christensen",
+      "position": "DEF",
+      "nationality": "Denmark",
+      "age": 29
+    },
+    {
+      "id": 2290,
+      "name": "N. Kanté",
+      "position": "MID",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 2726,
+      "name": "K. Zouma",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 2927,
+      "name": "M. Batshuayi",
+      "position": "UNK",
+      "nationality": "Belgium",
+      "age": 32
+    },
+    {
+      "id": 2986,
+      "name": "É. Mendy",
+      "position": "GK",
+      "nationality": "Senegal",
+      "age": 33
+    },
+    {
+      "id": 18033,
+      "name": "N. Baxter",
+      "position": "GK",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 19135,
+      "name": "I. Brown",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 19209,
+      "name": "F. Tomori",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 19611,
+      "name": "L. Baker",
+      "position": "MID",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 37116,
+      "name": "J. Clarke-Salter",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 106721,
+      "name": "K. Žiger",
+      "position": "GK",
+      "nationality": "Croatia",
+      "age": 24
+    },
+    {
+      "id": 130423,
+      "name": "B. Gilmour",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 24
+    },
+    {
+      "id": 162446,
+      "name": "L. Bate",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 274550,
+      "name": "H. Vale",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 1347,
+      "name": "V. Moses",
+      "position": "MID",
+      "nationality": "Nigeria",
+      "age": 35
+    },
+    {
+      "id": 2278,
+      "name": "Marcos Alonso",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 2285,
+      "name": "A. Rüdiger",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 32
+    },
+    {
+      "id": 2286,
+      "name": "D. Zappacosta",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 2289,
+      "name": "Jorginho",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 2292,
+      "name": "R. Loftus-Cheek",
+      "position": "MID",
+      "nationality": "England",
+      "age": 29
+    },
+    {
+      "id": 2294,
+      "name": "Willian",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": 2295,
+      "name": "O. Giroud",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 2299,
+      "name": "Pedro",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 18902,
+      "name": "Kenedy",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 29
+    },
+    {
+      "id": 19194,
+      "name": "T. Abraham",
+      "position": "UNK",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 67971,
+      "name": "M. Guéhi",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 67972,
+      "name": "C. Gallagher",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 152949,
+      "name": "D. Simeu",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 23
+    }
+  ],
+  "Leicester": [
+    {
+      "id": 2778,
+      "name": "K. Ịheanachọ",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 29
+    },
+    {
+      "id": 2920,
+      "name": "T. Castagne",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 30
+    },
+    {
+      "id": 2925,
+      "name": "D. Praet",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 31
+    },
+    {
+      "id": 2926,
+      "name": "Y. Tielemans",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 28
+    },
+    {
+      "id": 18146,
+      "name": "D. Ward",
+      "position": "GK",
+      "nationality": "Wales",
+      "age": 32
+    },
+    {
+      "id": 18778,
+      "name": "H. Barnes",
+      "position": "MID",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 18782,
+      "name": "M. James",
+      "position": "MID",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 18784,
+      "name": "J. Maddison",
+      "position": "MID",
+      "nationality": "England",
+      "age": 29
+    },
+    {
+      "id": 18785,
+      "name": "N. Mendy",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 33
+    },
+    {
+      "id": 19760,
+      "name": "J. Justin",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 19955,
+      "name": "J. Knight",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 22094,
+      "name": "W. Fofana",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 25
+    },
+    {
+      "id": 148099,
+      "name": "K. Dewsbury-Hall",
+      "position": "MID",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 152970,
+      "name": "J. Stolarczyk",
+      "position": "GK",
+      "nationality": "Poland",
+      "age": 25
+    },
+    {
+      "id": 152971,
+      "name": "V. Campbell",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 231081,
+      "name": "Sidnei Tavares",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 24
+    },
+    {
+      "id": 276086,
+      "name": "T. Suengchitthawon",
+      "position": "MID",
+      "nationality": "Thailand",
+      "age": 25
+    },
+    {
+      "id": 278111,
+      "name": "Shane Aidan Conor Flynn",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 24
+    },
+    {
+      "id": 278116,
+      "name": "Tawanda Jethro Maswanhise",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 284509,
+      "name": "Ethan Michael Fitzhugh",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 114,
+      "name": "Adrien Silva",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 35
+    },
+    {
+      "id": 1107,
+      "name": "F. Benković",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 28
+    },
+    {
+      "id": 2728,
+      "name": "K. Schmeichel",
+      "position": "GK",
+      "nationality": "Denmark",
+      "age": 39
+    },
+    {
+      "id": 18770,
+      "name": "E. Jakupović",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 41
+    },
+    {
+      "id": 18771,
+      "name": "Ricardo Pereira",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 32
+    },
+    {
+      "id": 18772,
+      "name": "J. Evans",
+      "position": "DEF",
+      "nationality": "Northern Ireland",
+      "age": 37
+    },
+    {
+      "id": 18773,
+      "name": "C. Fuchs",
+      "position": "DEF",
+      "nationality": "Austria",
+      "age": 37
+    },
+    {
+      "id": 18774,
+      "name": "W. Morgan",
+      "position": "DEF",
+      "nationality": "Jamaica",
+      "age": 37
+    },
+    {
+      "id": 18776,
+      "name": "Ç. Söyüncü",
+      "position": "DEF",
+      "nationality": "Türkiye",
+      "age": 29
+    },
+    {
+      "id": 18777,
+      "name": "M. Albrighton",
+      "position": "MID",
+      "nationality": "England",
+      "age": 35
+    },
+    {
+      "id": 18779,
+      "name": "H. Choudhury",
+      "position": "MID",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 18780,
+      "name": "R. Ghezzal",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 33
+    },
+    {
+      "id": 18781,
+      "name": "D. Gray",
+      "position": "ATT",
+      "nationality": "Jamaica",
+      "age": 29
+    },
+    {
+      "id": 18783,
+      "name": "Thakgalo Khanya Leshabela",
+      "position": "MID",
+      "nationality": "South Africa",
+      "age": 26
+    },
+    {
+      "id": 18786,
+      "name": "W. Ndidi",
+      "position": "MID",
+      "nationality": "Nigeria",
+      "age": 29
+    },
+    {
+      "id": 18788,
+      "name": "J. Vardy",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 38
+    },
+    {
+      "id": 18906,
+      "name": "Ayoze Pérez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 50101,
+      "name": "F. Diabaté",
+      "position": "UNK",
+      "nationality": "Mali",
+      "age": 30
+    },
+    {
+      "id": 152969,
+      "name": "L. Thomas",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 278118,
+      "name": "B. Nelson",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 21
+    },
+    {
+      "id": 785,
+      "name": "C. Ünder",
+      "position": "UNK",
+      "nationality": "Türkiye",
+      "age": 28
+    },
+    {
+      "id": 1374,
+      "name": "I. Slimani",
+      "position": "UNK",
+      "nationality": "Algeria",
+      "age": 37
+    },
+    {
+      "id": 3421,
+      "name": "D. Amartey",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 31
+    }
+  ],
+  "West Ham": [
+    {
+      "id": 1,
+      "name": "Łukasz Fabiański",
+      "position": "GK",
+      "nationality": "Poland",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Alphonse Areola",
+      "position": "GK",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Ben Johnson",
+      "position": "DEF",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Aaron Cresswell",
+      "position": "DEF",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Kurt Zouma",
+      "position": "DEF",
+      "nationality": "France",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Vladimír Coufal",
+      "position": "DEF",
+      "nationality": "Czech Republic",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Konstantinos Mavropanos",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Angelo Ogbonna",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Nayef Aguerd",
+      "position": "DEF",
+      "nationality": "Morocco",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Emerson",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Kaelan Casey",
+      "position": "DEF",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "James Ward-Prowse",
+      "position": "MID",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Lucas Paquetá",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Kalvin Phillips",
+      "position": "MID",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "Mohammed Kudus",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "Maxwel Cornet",
+      "position": "MID",
+      "nationality": "Ivory Coast",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Edson Álvarez",
+      "position": "MID",
+      "nationality": "Mexico",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Tomáš Souček",
+      "position": "MID",
+      "nationality": "Czech Republic",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "George Earthy",
+      "position": "MID",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Michail Antonio",
+      "position": "ATT",
+      "nationality": "Jamaica",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "Danny Ings",
+      "position": "ATT",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Jarrod Bowen",
+      "position": "ATT",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Divin Mubama",
+      "position": "ATT",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Pablo Fornals",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Saïd Benrahma",
+      "position": "ATT",
+      "nationality": "Algeria",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Thilo Kehrer",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Callum Marshall",
+      "position": "ATT",
+      "nationality": "Northern Ireland",
+      "age": "N/A"
+    }
+  ],
+  "Tottenham": [
+    {
+      "id": 164,
+      "name": "B. Davies",
+      "position": "DEF",
+      "nationality": "Wales",
+      "age": 32
+    },
+    {
+      "id": 178,
+      "name": "Lucas Moura",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 179,
+      "name": "M. Sissoko",
+      "position": "MID",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 182,
+      "name": "H. Winks",
+      "position": "MID",
+      "nationality": "England",
+      "age": 29
+    },
+    {
+      "id": 739,
+      "name": "Reguilón",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 29
+    },
+    {
+      "id": 18742,
+      "name": "M. Doherty",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 33
+    },
+    {
+      "id": 19032,
+      "name": "R. Sessegnon",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 19136,
+      "name": "J. Clarke",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 19321,
+      "name": "J. Rodon",
+      "position": "DEF",
+      "nationality": "Wales",
+      "age": 28
+    },
+    {
+      "id": 138793,
+      "name": "H. White",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 138819,
+      "name": "M. Lavinier",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 138891,
+      "name": "J. Okedina",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 138893,
+      "name": "D. Markanday",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 149550,
+      "name": "J. Tanganga",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 154793,
+      "name": "Jamie Patrick Bowden",
+      "position": "MID",
+      "nationality": "Republic of Ireland",
+      "age": 22
+    },
+    {
+      "id": 156428,
+      "name": "B. Austin",
+      "position": "GK",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 162076,
+      "name": "D. Cirkin",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 162150,
+      "name": "N. John",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 162552,
+      "name": "D. Scarlett",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 21
+    },
+    {
+      "id": 273757,
+      "name": "A. Devine",
+      "position": "MID",
+      "nationality": "England",
+      "age": 21
+    },
+    {
+      "id": 159,
+      "name": "H. Lloris",
+      "position": "GK",
+      "nationality": "France",
+      "age": 39
+    },
+    {
+      "id": 161,
+      "name": "A. Whiteman",
+      "position": "GK",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 162,
+      "name": "T. Alderweireld",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 36
+    },
+    {
+      "id": 163,
+      "name": "S. Aurier",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 33
+    },
+    {
+      "id": 166,
+      "name": "J. Foyth",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 27
+    },
+    {
+      "id": 167,
+      "name": "D. Rose",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 168,
+      "name": "D. Sánchez",
+      "position": "DEF",
+      "nationality": "Colombia",
+      "age": 29
+    },
+    {
+      "id": 175,
+      "name": "E. Dier",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 176,
+      "name": "E. Lamela",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 33
+    },
+    {
+      "id": 177,
+      "name": "G. Marsh",
+      "position": "MID",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 184,
+      "name": "H. Kane",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 186,
+      "name": "Son Heung-Min",
+      "position": "ATT",
+      "nationality": "Korea Republic",
+      "age": 33
+    },
+    {
+      "id": 244,
+      "name": "S. Bergwijn",
+      "position": "ATT",
+      "nationality": "Netherlands",
+      "age": 28
+    },
+    {
+      "id": 569,
+      "name": "Gedson Fernandes",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 27
+    },
+    {
+      "id": 662,
+      "name": "T. Ndombélé",
+      "position": "MID",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 758,
+      "name": "G. Bale",
+      "position": "ATT",
+      "nationality": "Wales",
+      "age": 34
+    },
+    {
+      "id": 1578,
+      "name": "G. Lo Celso",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 29
+    },
+    {
+      "id": 2735,
+      "name": "P. Højbjerg",
+      "position": "MID",
+      "nationality": "Denmark",
+      "age": 30
+    },
+    {
+      "id": 18908,
+      "name": "J. Hart",
+      "position": "GK",
+      "nationality": "England",
+      "age": 37
+    },
+    {
+      "id": 19314,
+      "name": "C. Carter-Vickers",
+      "position": "DEF",
+      "nationality": "USA",
+      "age": 28
+    },
+    {
+      "id": 104,
+      "name": "Carlos Vinícius",
+      "position": "UNK",
+      "nationality": "Brazil",
+      "age": 30
+    },
+    {
+      "id": 158,
+      "name": "P. Gazzaniga",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 33
+    },
+    {
+      "id": 172,
+      "name": "D. Alli",
+      "position": "MID",
+      "nationality": "England",
+      "age": 29
+    }
+  ],
+  "Arsenal": [
+    {
+      "id": 727,
+      "name": "R. Nelson",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 1437,
+      "name": "D. Iliev",
+      "position": "GK",
+      "nationality": "North Macedonia",
+      "age": 30
+    },
+    {
+      "id": 1438,
+      "name": "B. Leno",
+      "position": "GK",
+      "nationality": "Germany",
+      "age": 33
+    },
+    {
+      "id": 1460,
+      "name": "B. Saka",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 1463,
+      "name": "J. Willock",
+      "position": "MID",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 1464,
+      "name": "G. Xhaka",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 33
+    },
+    {
+      "id": 1468,
+      "name": "E. Nketiah",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 19599,
+      "name": "E. Martínez",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 33
+    },
+    {
+      "id": 22090,
+      "name": "W. Saliba",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 24
+    },
+    {
+      "id": 22224,
+      "name": "Gabriel Magalhães",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 28
+    },
+    {
+      "id": 37127,
+      "name": "M. Ødegaard",
+      "position": "MID",
+      "nationality": "Norway",
+      "age": 27
+    },
+    {
+      "id": 55904,
+      "name": "D. Ballard",
+      "position": "DEF",
+      "nationality": "Northern Ireland",
+      "age": 26
+    },
+    {
+      "id": 127769,
+      "name": "Gabriel Martinelli",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 24
+    },
+    {
+      "id": 138781,
+      "name": "T. Bola",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 138784,
+      "name": "J. Olayinka",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 151128,
+      "name": "G. Lewis",
+      "position": "ATT",
+      "nationality": "Norway",
+      "age": 24
+    },
+    {
+      "id": 153399,
+      "name": "Ben Arron Cottrell",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 167655,
+      "name": "M. McGuinness",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 24
+    },
+    {
+      "id": 169295,
+      "name": "K. Hein",
+      "position": "GK",
+      "nationality": "Estonia",
+      "age": 23
+    },
+    {
+      "id": 284057,
+      "name": "Joel López",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 23
+    },
+    {
+      "id": 49,
+      "name": "T. Partey",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 32
+    },
+    {
+      "id": 190,
+      "name": "Cédric Soares",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 34
+    },
+    {
+      "id": 748,
+      "name": "Dani Ceballos",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 29
+    },
+    {
+      "id": 1161,
+      "name": "E. Smith Rowe",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 1439,
+      "name": "Héctor Bellerín",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 1440,
+      "name": "R. Holding",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 1445,
+      "name": "K. Mavropanos",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 28
+    },
+    {
+      "id": 1446,
+      "name": "Z. Medley",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 1448,
+      "name": "S. Mustafi",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 1452,
+      "name": "Mohamed Elneny",
+      "position": "MID",
+      "nationality": "Egypt",
+      "age": 33
+    },
+    {
+      "id": 1456,
+      "name": "A. Maitland-Niles",
+      "position": "MID",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 2784,
+      "name": "R. Rúnarsson",
+      "position": "GK",
+      "nationality": "Iceland",
+      "age": 30
+    },
+    {
+      "id": 3246,
+      "name": "N. Pépé",
+      "position": "UNK",
+      "nationality": "Côte d'Ivoire",
+      "age": 30
+    },
+    {
+      "id": 19016,
+      "name": "C. Chambers",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 20386,
+      "name": "M. Macey",
+      "position": "GK",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 138835,
+      "name": "F. Balogun",
+      "position": "ATT",
+      "nationality": "USA",
+      "age": 24
+    },
+    {
+      "id": 138842,
+      "name": "M. Azeez",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 138843,
+      "name": "J. Hillson",
+      "position": "GK",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 167658,
+      "name": "M. Smith",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 231062,
+      "name": "A. Okonkwo",
+      "position": "GK",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 1117,
+      "name": "K. Tierney",
+      "position": "DEF",
+      "nationality": "Scotland",
+      "age": 28
+    },
+    {
+      "id": 1442,
+      "name": "S. Kolašinac",
+      "position": "DEF",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 32
+    },
+    {
+      "id": 1450,
+      "name": "S. Papastathopoulos",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 36
+    },
+    {
+      "id": 1454,
+      "name": "M. Guendouzi",
+      "position": "MID",
+      "nationality": "France",
+      "age": 26
+    },
+    {
+      "id": 1458,
+      "name": "M. Özil",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 1462,
+      "name": "L. Torreira",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 29
+    },
+    {
+      "id": 1465,
+      "name": "P. Aubameyang",
+      "position": "ATT",
+      "nationality": "Gabon",
+      "age": 36
+    },
+    {
+      "id": 1466,
+      "name": "T. John-Jules",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 1467,
+      "name": "A. Lacazette",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 2283,
+      "name": "David Luiz",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 38
+    },
+    {
+      "id": 2294,
+      "name": "Willian",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": 2741,
+      "name": "M. Ryan",
+      "position": "GK",
+      "nationality": "Australia",
+      "age": 33
+    },
+    {
+      "id": 46792,
+      "name": "Pablo Marí",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 153408,
+      "name": "D. Oyegoke",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 22
+    }
+  ],
+  "Leeds": [
+    {
+      "id": 638,
+      "name": "I. Poveda",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 19112,
+      "name": "Kiko Casilla",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 19116,
+      "name": "L. Ayling",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 19117,
+      "name": "G. Berardi",
+      "position": "DEF",
+      "nationality": "Switzerland",
+      "age": 35
+    },
+    {
+      "id": 19127,
+      "name": "A. Forshaw",
+      "position": "MID",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 19128,
+      "name": "J. Harrison",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 29
+    },
+    {
+      "id": 19129,
+      "name": "Pablo Hernández",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 19130,
+      "name": "K. Phillips",
+      "position": "MID",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 19139,
+      "name": "T. Roberts",
+      "position": "ATT",
+      "nationality": "Wales",
+      "age": 26
+    },
+    {
+      "id": 19569,
+      "name": "J. Gelhardt",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 20619,
+      "name": "I. Meslier",
+      "position": "GK",
+      "nationality": "France",
+      "age": 25
+    },
+    {
+      "id": 30731,
+      "name": "E. Caprile",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 37724,
+      "name": "C. Summerville",
+      "position": "ATT",
+      "nationality": "Netherlands",
+      "age": 24
+    },
+    {
+      "id": 64003,
+      "name": "P. Struijk",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 26
+    },
+    {
+      "id": 129700,
+      "name": "A. McCalmont",
+      "position": "MID",
+      "nationality": "Northern Ireland",
+      "age": 25
+    },
+    {
+      "id": 153400,
+      "name": "S. Greenwood",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 153411,
+      "name": "C. Drameh",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 169282,
+      "name": "N. Huggins",
+      "position": "DEF",
+      "nationality": "Wales",
+      "age": 25
+    },
+    {
+      "id": 180934,
+      "name": "O. Casey",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 282901,
+      "name": "J. Jenkins",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 935,
+      "name": "Rodrigo",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 1496,
+      "name": "Raphinha",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 29
+    },
+    {
+      "id": 3008,
+      "name": "M. Klich",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 35
+    },
+    {
+      "id": 18752,
+      "name": "Hélder Costa",
+      "position": "ATT",
+      "nationality": "Angola",
+      "age": 31
+    },
+    {
+      "id": 19118,
+      "name": "L. Cooper",
+      "position": "DEF",
+      "nationality": "Scotland",
+      "age": 34
+    },
+    {
+      "id": 19119,
+      "name": "L. Davis",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 19121,
+      "name": "B. Douglas",
+      "position": "DEF",
+      "nationality": "Scotland",
+      "age": 36
+    },
+    {
+      "id": 19122,
+      "name": "R. Gotts",
+      "position": "MID",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 19125,
+      "name": "M. Bogusz",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 24
+    },
+    {
+      "id": 19126,
+      "name": "S. Dallas",
+      "position": "DEF",
+      "nationality": "Northern Ireland",
+      "age": 33
+    },
+    {
+      "id": 19131,
+      "name": "J. Shackleton",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 19132,
+      "name": "J. Stevens",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 19133,
+      "name": "E. Alioski",
+      "position": "DEF",
+      "nationality": "North Macedonia",
+      "age": 33
+    },
+    {
+      "id": 19134,
+      "name": "P. Bamford",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 26238,
+      "name": "R. Koch",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 47302,
+      "name": "Diego Llorente",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 278392,
+      "name": "C. Cresswell",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 23
+    }
+  ],
+  "Everton": [
+    {
+      "id": 1,
+      "name": "Jordan Pickford",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 2,
+      "name": "Mason Holgate",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 3,
+      "name": "Michael Keane",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 4,
+      "name": "Allan",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 5,
+      "name": "Richarlison",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 6,
+      "name": "Fabian Delph",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 7,
+      "name": "Dominic Calvert-Lewin",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 8,
+      "name": "Gylfi Sigurðsson",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 9,
+      "name": "Joshua King",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 10,
+      "name": "Lucas Digne",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 11,
+      "name": "Yerry Mina",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 12,
+      "name": "Abdoulaye Doucouré",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 13,
+      "name": "Alex Iwobi",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 14,
+      "name": "Niels Nkounkou",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 15,
+      "name": "James Rodríguez",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 16,
+      "name": "André Gomes",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 17,
+      "name": "Ben Godfrey",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 18,
+      "name": "Séamus Coleman",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 19,
+      "name": "Jean-Philippe Gbamin",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 20,
+      "name": "Tom Davies",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 21,
+      "name": "João Virgínia",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 22,
+      "name": "Robin Olsen",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 23,
+      "name": "Moise Kean",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 24,
+      "name": "Theo Walcott",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 25,
+      "name": "Jarrad Branthwaite",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 26,
+      "name": "Jonjoe Kenny",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 27,
+      "name": "Anthony Gordon",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 28,
+      "name": "Cenk Tosun",
+      "position": "ATT",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 46,
+      "name": "Thierry Small",
+      "position": "MID",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 47,
+      "name": "Tyler Onyango",
+      "position": "MID",
+      "nationality": "England",
+      "age": "N/A"
+    },
+    {
+      "id": 53,
+      "name": "Bernard",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": "N/A"
+    },
+    {
+      "id": 54,
+      "name": "Nathan Broadhead",
+      "position": "ATT",
+      "nationality": "Wales",
+      "age": "N/A"
+    },
+    {
+      "id": 61,
+      "name": "Jonas Lössl",
+      "position": "GK",
+      "nationality": "Denmark",
+      "age": "N/A"
+    }
+  ],
+  "Aston Villa": [
+    {
+      "id": 671,
+      "name": "B. Traoré",
+      "position": "UNK",
+      "nationality": "Burkina Faso",
+      "age": 30
+    },
+    {
+      "id": 2931,
+      "name": "T. Heaton",
+      "position": "GK",
+      "nationality": "England",
+      "age": 39
+    },
+    {
+      "id": 18941,
+      "name": "M. Targett",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 19179,
+      "name": "T. Mings",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 19180,
+      "name": "D. Revan",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 19187,
+      "name": "J. Grealish",
+      "position": "MID",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 19192,
+      "name": "J. Ramsey",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 19354,
+      "name": "E. Konsa",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 19599,
+      "name": "E. Martínez",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 33
+    },
+    {
+      "id": 89253,
+      "name": "Á. Ónodi",
+      "position": "GK",
+      "nationality": "Hungary",
+      "age": 24
+    },
+    {
+      "id": 138802,
+      "name": "Michael Tait Moran",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 138928,
+      "name": "C. Rowe",
+      "position": "MID",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 138933,
+      "name": "Mungo Olayipo Oladapo Bridge",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 138935,
+      "name": "C. Chukwuemeka",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 154817,
+      "name": "H. Sohna",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 283288,
+      "name": "Bradley Jamie Ethan Young",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 284395,
+      "name": "T. Jay-Hart",
+      "position": "MID",
+      "nationality": "England",
+      "age": 21
+    },
+    {
+      "id": 284398,
+      "name": "Mamadou Sylla",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 22
+    },
+    {
+      "id": 284499,
+      "name": "Edward James Rowe",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 284524,
+      "name": "Frankie Ealing",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 21
+    },
+    {
+      "id": 76,
+      "name": "M. Nakamba",
+      "position": "MID",
+      "nationality": "Zimbabwe",
+      "age": 31
+    },
+    {
+      "id": 84,
+      "name": "Wesley Moraes",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 29
+    },
+    {
+      "id": 1914,
+      "name": "M. Sanson",
+      "position": "MID",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 2287,
+      "name": "R. Barkley",
+      "position": "MID",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 19174,
+      "name": "J. Steer",
+      "position": "GK",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 19181,
+      "name": "N. Taylor",
+      "position": "DEF",
+      "nationality": "Wales",
+      "age": 33
+    },
+    {
+      "id": 19190,
+      "name": "H. Lansbury",
+      "position": "MID",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 19191,
+      "name": "J.  McGinn",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 31
+    },
+    {
+      "id": 19298,
+      "name": "M. Cash",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 28
+    },
+    {
+      "id": 19366,
+      "name": "O. Watkins",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 19533,
+      "name": "Jota Peleteiro",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 47522,
+      "name": "Douglas Luiz",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 27
+    },
+    {
+      "id": 134428,
+      "name": "B. Chrisene",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 21
+    },
+    {
+      "id": 138931,
+      "name": "J. Philogene",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 138936,
+      "name": "K. Hayden",
+      "position": "MID",
+      "nationality": "England",
+      "age": 18
+    },
+    {
+      "id": 162168,
+      "name": "L. Barry",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 283289,
+      "name": "A. Raikhy",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 284457,
+      "name": "L. Bogarde",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 21
+    },
+    {
+      "id": 284523,
+      "name": "S. Swinkels",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 21
+    },
+    {
+      "id": 298128,
+      "name": "K. Kesler-Hayden",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 1945,
+      "name": "M. Samatta",
+      "position": "UNK",
+      "nationality": "Tanzania",
+      "age": 33
+    },
+    {
+      "id": 2664,
+      "name": "Trézéguet",
+      "position": "MID",
+      "nationality": "Egypt",
+      "age": 31
+    },
+    {
+      "id": 2758,
+      "name": "L. Kalinić",
+      "position": "GK",
+      "nationality": "Croatia",
+      "age": 35
+    },
+    {
+      "id": 19172,
+      "name": "Ø. Nyland",
+      "position": "GK",
+      "nationality": "Norway",
+      "age": 35
+    },
+    {
+      "id": 19177,
+      "name": "K. Hause",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 19185,
+      "name": "K. Davis",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 19186,
+      "name": "Ahmed El Mohamady",
+      "position": "DEF",
+      "nationality": "Egypt",
+      "age": 34
+    },
+    {
+      "id": 19188,
+      "name": "C. Hourihane",
+      "position": "MID",
+      "nationality": "Republic of Ireland",
+      "age": 34
+    },
+    {
+      "id": 19195,
+      "name": "A. El Ghazi",
+      "position": "ATT",
+      "nationality": "Netherlands",
+      "age": 30
+    },
+    {
+      "id": 21636,
+      "name": "F. Guilbert",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 31
+    },
+    {
+      "id": 21999,
+      "name": "B. Engels",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 31
+    },
+    {
+      "id": 148270,
+      "name": "O. Zych",
+      "position": "GK",
+      "nationality": "Poland",
+      "age": 21
+    },
+    {
+      "id": 153506,
+      "name": "I. Vassilev",
+      "position": "MID",
+      "nationality": "USA",
+      "age": 24
+    },
+    {
+      "id": 284498,
+      "name": "Hayden Taylor Lindley",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    }
+  ],
+  "Newcastle": [
+    {
+      "id": 723,
+      "name": "Joelinton",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 29
+    },
+    {
+      "id": 1463,
+      "name": "J. Willock",
+      "position": "MID",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 2806,
+      "name": "F. Schär",
+      "position": "DEF",
+      "nationality": "Switzerland",
+      "age": 34
+    },
+    {
+      "id": 2855,
+      "name": "E. Krafth",
+      "position": "DEF",
+      "nationality": "Sweden",
+      "age": 31
+    },
+    {
+      "id": 2939,
+      "name": "C. Wilson",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 18873,
+      "name": "R. Fraser",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 31
+    },
+    {
+      "id": 18885,
+      "name": "K. Darlow",
+      "position": "GK",
+      "nationality": "England",
+      "age": 35
+    },
+    {
+      "id": 18886,
+      "name": "M. Dúbravka",
+      "position": "GK",
+      "nationality": "Slovakia",
+      "age": 36
+    },
+    {
+      "id": 18891,
+      "name": "C. Clark",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 35
+    },
+    {
+      "id": 18892,
+      "name": "P. Dummett",
+      "position": "DEF",
+      "nationality": "Wales",
+      "age": 34
+    },
+    {
+      "id": 18894,
+      "name": "J. Lascelles",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 18899,
+      "name": "I. Hayden",
+      "position": "MID",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 18901,
+      "name": "S. Longstaff",
+      "position": "MID",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 18903,
+      "name": "M. Ritchie",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 36
+    },
+    {
+      "id": 19163,
+      "name": "J. Murphy",
+      "position": "MID",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 20179,
+      "name": "D. Barlaser",
+      "position": "MID",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 44912,
+      "name": "M. Gillespie",
+      "position": "GK",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 130419,
+      "name": "M. Longstaff",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 138908,
+      "name": "E. Anderson",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 23
+    },
+    {
+      "id": 138909,
+      "name": "D. Langley",
+      "position": "GK",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 2507,
+      "name": "M. Almirón",
+      "position": "MID",
+      "nationality": "Paraguay",
+      "age": 31
+    },
+    {
+      "id": 3423,
+      "name": "C. Atsu",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 31
+    },
+    {
+      "id": 18831,
+      "name": "A. Carroll",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 18893,
+      "name": "F. Fernández",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 18895,
+      "name": "F. Lejeune",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 18896,
+      "name": "Javier Manquillo",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 18897,
+      "name": "D. Yedlin",
+      "position": "DEF",
+      "nationality": "USA",
+      "age": 32
+    },
+    {
+      "id": 18904,
+      "name": "J. Shelvey",
+      "position": "MID",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 18905,
+      "name": "Y. Muto",
+      "position": "MID",
+      "nationality": "Japan",
+      "age": 33
+    },
+    {
+      "id": 18924,
+      "name": "J. Hendrick",
+      "position": "MID",
+      "nationality": "Republic of Ireland",
+      "age": 33
+    },
+    {
+      "id": 19076,
+      "name": "J. Lewis",
+      "position": "DEF",
+      "nationality": "Northern Ireland",
+      "age": 27
+    },
+    {
+      "id": 19166,
+      "name": "D. Gayle",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 22173,
+      "name": "A. Saint-Maximin",
+      "position": "UNK",
+      "nationality": "France",
+      "age": 28
+    },
+    {
+      "id": 50237,
+      "name": "H. Saivet",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 35
+    }
+  ],
+  "Wolves": [
+    {
+      "id": 285,
+      "name": "K. Hoever",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 23
+    },
+    {
+      "id": 1864,
+      "name": "Pedro Neto",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 25
+    },
+    {
+      "id": 2677,
+      "name": "João Moutinho",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 39
+    },
+    {
+      "id": 2887,
+      "name": "R. Jiménez",
+      "position": "ATT",
+      "nationality": "Mexico",
+      "age": 34
+    },
+    {
+      "id": 2922,
+      "name": "L. Dendoncker",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 30
+    },
+    {
+      "id": 18737,
+      "name": "J. Ruddy",
+      "position": "GK",
+      "nationality": "England",
+      "age": 39
+    },
+    {
+      "id": 18739,
+      "name": "W. Boly",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 34
+    },
+    {
+      "id": 18741,
+      "name": "C. Coady",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 18744,
+      "name": "M. Kilman",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 18746,
+      "name": "M. Gibbs-White",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 18753,
+      "name": "Adama Traoré",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 29
+    },
+    {
+      "id": 21138,
+      "name": "R. Aït-Nouri",
+      "position": "DEF",
+      "nationality": "Algeria",
+      "age": 24
+    },
+    {
+      "id": 47319,
+      "name": "Willian José",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 125705,
+      "name": "T. Perry",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 129791,
+      "name": "Fábio Silva",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 23
+    },
+    {
+      "id": 149564,
+      "name": "L. Cundle",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 152963,
+      "name": "O. Otasowie",
+      "position": "MID",
+      "nationality": "USA",
+      "age": 22
+    },
+    {
+      "id": 280685,
+      "name": "N. Lonwijk",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 23
+    },
+    {
+      "id": 280687,
+      "name": "Hugo Bueno",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 23
+    },
+    {
+      "id": 280688,
+      "name": "T. Corbeanu",
+      "position": "ATT",
+      "nationality": "Canada",
+      "age": 23
+    },
+    {
+      "id": 130,
+      "name": "Nélson Semedo",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 32
+    },
+    {
+      "id": 518,
+      "name": "M. Shabani",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 26
+    },
+    {
+      "id": 652,
+      "name": "Marçal",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 36
+    },
+    {
+      "id": 1605,
+      "name": "Daniel Podence",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 30
+    },
+    {
+      "id": 1649,
+      "name": "P. Cutrone",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 2584,
+      "name": "L. Campana",
+      "position": "ATT",
+      "nationality": "Ecuador",
+      "age": 25
+    },
+    {
+      "id": 2674,
+      "name": "Rui Patrício",
+      "position": "GK",
+      "nationality": "Portugal",
+      "age": 37
+    },
+    {
+      "id": 2676,
+      "name": "Rúben Neves",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 28
+    },
+    {
+      "id": 2678,
+      "name": "Diogo Jota",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 29
+    },
+    {
+      "id": 2716,
+      "name": "R. Saïss",
+      "position": "DEF",
+      "nationality": "Morocco",
+      "age": 35
+    },
+    {
+      "id": 18740,
+      "name": "Jonny",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 18745,
+      "name": "Rúben Vinagre",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 26
+    },
+    {
+      "id": 82022,
+      "name": "O. Buur",
+      "position": "DEF",
+      "nationality": "Denmark",
+      "age": 27
+    },
+    {
+      "id": 128384,
+      "name": "Vitinha",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 25
+    },
+    {
+      "id": 130418,
+      "name": "A. Søndergaard",
+      "position": "GK",
+      "nationality": "Denmark",
+      "age": 24
+    },
+    {
+      "id": 152957,
+      "name": "L. Richards",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 24
+    },
+    {
+      "id": 152964,
+      "name": "Christian Marques",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 22
+    }
+  ],
+  "Crystal Palace": [
+    {
+      "id": 2281,
+      "name": "Gary Cahill",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 37
+    },
+    {
+      "id": 2991,
+      "name": "C. Kouyaté",
+      "position": "MID",
+      "nationality": "Senegal",
+      "age": 35
+    },
+    {
+      "id": 3428,
+      "name": "J. Ayew",
+      "position": "ATT",
+      "nationality": "Ghana",
+      "age": 34
+    },
+    {
+      "id": 18839,
+      "name": "S. Dann",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 18840,
+      "name": "M. Kelly",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 18843,
+      "name": "J. Schlupp",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 33
+    },
+    {
+      "id": 18844,
+      "name": "J. Tomkins",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 35
+    },
+    {
+      "id": 18848,
+      "name": "S. Woods",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 18849,
+      "name": "J. McArthur",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 36
+    },
+    {
+      "id": 18852,
+      "name": "L. Milivojević",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 34
+    },
+    {
+      "id": 18853,
+      "name": "J. Riedewald",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 29
+    },
+    {
+      "id": 18857,
+      "name": "C. Wickham",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 18862,
+      "name": "N. Clyne",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 19586,
+      "name": "E. Eze",
+      "position": "MID",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 20055,
+      "name": "N. Kirby",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 25927,
+      "name": "J. Mateta",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 28
+    },
+    {
+      "id": 82227,
+      "name": "Stephen Francis Henderson",
+      "position": "GK",
+      "nationality": "Republic of Ireland",
+      "age": 34
+    },
+    {
+      "id": 127605,
+      "name": "N. Ferguson",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 182201,
+      "name": "T. Mitchell",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 284449,
+      "name": "J. Rak-Sakyi",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 2927,
+      "name": "M. Batshuayi",
+      "position": "UNK",
+      "nationality": "Belgium",
+      "age": 32
+    },
+    {
+      "id": 2928,
+      "name": "C. Benteke",
+      "position": "ATT",
+      "nationality": "Belgium",
+      "age": 35
+    },
+    {
+      "id": 2930,
+      "name": "J. Butland",
+      "position": "GK",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 3247,
+      "name": "W. Zaha",
+      "position": "UNK",
+      "nationality": "Côte d'Ivoire",
+      "age": 33
+    },
+    {
+      "id": 18763,
+      "name": "J. McCarthy",
+      "position": "MID",
+      "nationality": "Republic of Ireland",
+      "age": 34
+    },
+    {
+      "id": 18835,
+      "name": "Guaita",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 18836,
+      "name": "W. Hennessey",
+      "position": "GK",
+      "nationality": "Wales",
+      "age": 38
+    },
+    {
+      "id": 18842,
+      "name": "M. Sakho",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 18845,
+      "name": "P. van Aanholt",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 35
+    },
+    {
+      "id": 18847,
+      "name": "J. Ward",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 18851,
+      "name": "M. Meyer",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 30
+    },
+    {
+      "id": 18854,
+      "name": "A. Townsend",
+      "position": "UNK",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 45027,
+      "name": "R. Inniss",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 105239,
+      "name": "J. Jach",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 31
+    },
+    {
+      "id": 144710,
+      "name": "Reece Phillip Peter Hannam",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 199312,
+      "name": "B. Pierrick",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 24
+    }
+  ],
+  "Southampton": [
+    {
+      "id": 171,
+      "name": "K. Walker-Peters",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 2938,
+      "name": "J. Ward-Prowse",
+      "position": "MID",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 18769,
+      "name": "T. Walcott",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 18935,
+      "name": "A. McCarthy",
+      "position": "GK",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 18936,
+      "name": "R. Bertrand",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 18939,
+      "name": "K. Ramsay",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 18940,
+      "name": "J. Stephens",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 18942,
+      "name": "Y. Valery",
+      "position": "DEF",
+      "nationality": "Tunisia",
+      "age": 26
+    },
+    {
+      "id": 18943,
+      "name": "J. Vestergaard",
+      "position": "DEF",
+      "nationality": "Denmark",
+      "age": 33
+    },
+    {
+      "id": 18945,
+      "name": "S. Armstrong",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 33
+    },
+    {
+      "id": 18955,
+      "name": "D. Ings",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 18956,
+      "name": "S. Long",
+      "position": "ATT",
+      "nationality": "Republic of Ireland",
+      "age": 36
+    },
+    {
+      "id": 18957,
+      "name": "M. Obafemi",
+      "position": "ATT",
+      "nationality": "Republic of Ireland",
+      "age": 25
+    },
+    {
+      "id": 130421,
+      "name": "W. Smallbone",
+      "position": "MID",
+      "nationality": "Republic of Ireland",
+      "age": 25
+    },
+    {
+      "id": 130422,
+      "name": "D. Nlundulu",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 138864,
+      "name": "K. Chauke",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 153403,
+      "name": "A. Jankewitz",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 24
+    },
+    {
+      "id": 231065,
+      "name": "A. Tchaptchet",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 24
+    },
+    {
+      "id": 237124,
+      "name": "C. Watts",
+      "position": "MID",
+      "nationality": "Australia",
+      "age": 23
+    },
+    {
+      "id": 284423,
+      "name": "R. Finnigan",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 1101,
+      "name": "T. Minamino",
+      "position": "MID",
+      "nationality": "Japan",
+      "age": 30
+    },
+    {
+      "id": 2114,
+      "name": "M. Djenepo",
+      "position": "UNK",
+      "nationality": "Mali",
+      "age": 27
+    },
+    {
+      "id": 2999,
+      "name": "J. Bednarek",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 29
+    },
+    {
+      "id": 18932,
+      "name": "F. Forster",
+      "position": "GK",
+      "nationality": "England",
+      "age": 37
+    },
+    {
+      "id": 18934,
+      "name": "H. Lewis",
+      "position": "GK",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 18948,
+      "name": "N. Redmond",
+      "position": "MID",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 18949,
+      "name": "Oriol Romeu",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 19524,
+      "name": "C. Adams",
+      "position": "ATT",
+      "nationality": "Scotland",
+      "age": 29
+    },
+    {
+      "id": 20557,
+      "name": "I. Diallo",
+      "position": "MID",
+      "nationality": "France",
+      "age": 26
+    },
+    {
+      "id": 47480,
+      "name": "M. Salisu",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 26
+    },
+    {
+      "id": 130420,
+      "name": "J. Vokins",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 204042,
+      "name": "W. Ferry",
+      "position": "MID",
+      "nationality": "Republic of Ireland",
+      "age": 25
+    },
+    {
+      "id": 231029,
+      "name": "N. Tella",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 26
+    }
+  ],
+  "Brighton": [
+    {
+      "id": 537,
+      "name": "J. Veltman",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 33
+    },
+    {
+      "id": 1946,
+      "name": "L. Trossard",
+      "position": "ATT",
+      "nationality": "Belgium",
+      "age": 31
+    },
+    {
+      "id": 6716,
+      "name": "A. Mac Allister",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 27
+    },
+    {
+      "id": 18959,
+      "name": "Robert Sánchez",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 28
+    },
+    {
+      "id": 18960,
+      "name": "J. Steele",
+      "position": "GK",
+      "nationality": "England",
+      "age": 35
+    },
+    {
+      "id": 18961,
+      "name": "D. Burn",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 18963,
+      "name": "L. Dunk",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 18968,
+      "name": "Y. Bissouma",
+      "position": "MID",
+      "nationality": "Mali",
+      "age": 29
+    },
+    {
+      "id": 18979,
+      "name": "V. Gyökeres",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 27
+    },
+    {
+      "id": 19265,
+      "name": "A. Webster",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 19959,
+      "name": "B. White",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 91457,
+      "name": "J. Mlakar",
+      "position": "ATT",
+      "nationality": "Slovenia",
+      "age": 27
+    },
+    {
+      "id": 116117,
+      "name": "M. Caicedo",
+      "position": "MID",
+      "nationality": "Ecuador",
+      "age": 24
+    },
+    {
+      "id": 138790,
+      "name": "R. Longman",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 138791,
+      "name": "A. Davies",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 138792,
+      "name": "B. Radulović",
+      "position": "ATT",
+      "nationality": "Serbia",
+      "age": 26
+    },
+    {
+      "id": 138815,
+      "name": "T. Lamptey",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 25
+    },
+    {
+      "id": 138881,
+      "name": "J. Spong",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 151752,
+      "name": "W. O&apos;Hora",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 26
+    },
+    {
+      "id": 167663,
+      "name": "T. McGill",
+      "position": "GK",
+      "nationality": "Canada",
+      "age": 25
+    },
+    {
+      "id": 639,
+      "name": "T. Richards",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 1469,
+      "name": "D. Welbeck",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 35
+    },
+    {
+      "id": 3398,
+      "name": "G. Bong",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 34
+    },
+    {
+      "id": 18958,
+      "name": "D. Button",
+      "position": "GK",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 18962,
+      "name": "S. Duffy",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 33
+    },
+    {
+      "id": 18973,
+      "name": "S. March",
+      "position": "MID",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 18974,
+      "name": "J. Molumby",
+      "position": "MID",
+      "nationality": "Republic of Ireland",
+      "age": 26
+    },
+    {
+      "id": 18975,
+      "name": "D. Pröpper",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 33
+    },
+    {
+      "id": 18976,
+      "name": "M. Sanders",
+      "position": "MID",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 18977,
+      "name": "D. Stephens",
+      "position": "MID",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 18980,
+      "name": "J. Izquierdo",
+      "position": "ATT",
+      "nationality": "Colombia",
+      "age": 30
+    },
+    {
+      "id": 18982,
+      "name": "G. Murray",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 38
+    },
+    {
+      "id": 19364,
+      "name": "N. Maupay",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 19541,
+      "name": "C. Walton",
+      "position": "GK",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 19565,
+      "name": "J. Weir",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 82948,
+      "name": "J. Davies",
+      "position": "MID",
+      "nationality": "Wales",
+      "age": 27
+    },
+    {
+      "id": 137300,
+      "name": "H. Roberts",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 137301,
+      "name": "A. Cochrane",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 138877,
+      "name": "R. Yapi",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 25
+    },
+    {
+      "id": 162517,
+      "name": "L. Dendoncker",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 21
+    },
+    {
+      "id": 295,
+      "name": "A. Lallana",
+      "position": "MID",
+      "nationality": "England",
+      "age": 37
+    },
+    {
+      "id": 2700,
+      "name": "A. Jahanbakhsh",
+      "position": "ATT",
+      "nationality": "Iran",
+      "age": 32
+    },
+    {
+      "id": 2741,
+      "name": "M. Ryan",
+      "position": "GK",
+      "nationality": "Australia",
+      "age": 33
+    },
+    {
+      "id": 2767,
+      "name": "L. Balogun",
+      "position": "DEF",
+      "nationality": "Nigeria",
+      "age": 37
+    },
+    {
+      "id": 3295,
+      "name": "P. Tau",
+      "position": "ATT",
+      "nationality": "South Africa",
+      "age": 31
+    },
+    {
+      "id": 17715,
+      "name": "S. Alzate",
+      "position": "MID",
+      "nationality": "Colombia",
+      "age": 27
+    },
+    {
+      "id": 18964,
+      "name": "Bernardo",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 30
+    },
+    {
+      "id": 18965,
+      "name": "Martín Montoya",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 18967,
+      "name": "L. Østigård",
+      "position": "DEF",
+      "nationality": "Norway",
+      "age": 26
+    },
+    {
+      "id": 18970,
+      "name": "P. Groß",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 18978,
+      "name": "F. Andone",
+      "position": "UNK",
+      "nationality": "Romania",
+      "age": 32
+    },
+    {
+      "id": 19772,
+      "name": "A. Connolly",
+      "position": "ATT",
+      "nationality": "Republic of Ireland",
+      "age": 25
+    },
+    {
+      "id": 30743,
+      "name": "E. Schelotto",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 40911,
+      "name": "J. Moder",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 26
+    },
+    {
+      "id": 43071,
+      "name": "T. Băluță",
+      "position": "MID",
+      "nationality": "Romania",
+      "age": 26
+    },
+    {
+      "id": 48649,
+      "name": "A. Zeqiri",
+      "position": "ATT",
+      "nationality": "Switzerland",
+      "age": 26
+    },
+    {
+      "id": 100079,
+      "name": "P. Gwargis",
+      "position": "MID",
+      "nationality": "Sweden",
+      "age": 25
+    },
+    {
+      "id": 125618,
+      "name": "M. Karbownik",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 24
+    },
+    {
+      "id": 145476,
+      "name": "R. Khadra",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 24
+    },
+    {
+      "id": 151753,
+      "name": "T. Jenks",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    }
+  ],
+  "Burnley": [
+    {
+      "id": 2936,
+      "name": "J. Tarkowski",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 18736,
+      "name": "W. Norris",
+      "position": "GK",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 18911,
+      "name": "N. Pope",
+      "position": "GK",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 18912,
+      "name": "P. Bardsley",
+      "position": "DEF",
+      "nationality": "Scotland",
+      "age": 38
+    },
+    {
+      "id": 18913,
+      "name": "A. Driscoll-Glennon",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 18916,
+      "name": "M. Lowton",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 18917,
+      "name": "B. Mee",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 18918,
+      "name": "C. Taylor",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 18920,
+      "name": "J. Benson",
+      "position": "MID",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 18921,
+      "name": "R. Brady",
+      "position": "MID",
+      "nationality": "Republic of Ireland",
+      "age": 33
+    },
+    {
+      "id": 18927,
+      "name": "A. Barnes",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 18929,
+      "name": "D. McNeil",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 18931,
+      "name": "C. Wood",
+      "position": "ATT",
+      "nationality": "New Zealand",
+      "age": 34
+    },
+    {
+      "id": 18977,
+      "name": "D. Stephens",
+      "position": "MID",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 19115,
+      "name": "B. Peacock-Farrell",
+      "position": "GK",
+      "nationality": "Northern Ireland",
+      "age": 29
+    },
+    {
+      "id": 19169,
+      "name": "J. Rodríguez",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 19886,
+      "name": "J. Dunne",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 28
+    },
+    {
+      "id": 21147,
+      "name": "A. Gomez Mancini",
+      "position": "MID",
+      "nationality": "France",
+      "age": 24
+    },
+    {
+      "id": 264437,
+      "name": "B. Thomas",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 264438,
+      "name": "Max Thompson",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 2790,
+      "name": "J. Guðmunds­son",
+      "position": "ATT",
+      "nationality": "Iceland",
+      "age": 35
+    },
+    {
+      "id": 18915,
+      "name": "K. Long",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 35
+    },
+    {
+      "id": 18922,
+      "name": "J. Cork",
+      "position": "MID",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 18926,
+      "name": "A. Westwood",
+      "position": "MID",
+      "nationality": "England",
+      "age": 35
+    },
+    {
+      "id": 18930,
+      "name": "M. Vydra",
+      "position": "ATT",
+      "nationality": "Czechia",
+      "age": 33
+    },
+    {
+      "id": 19268,
+      "name": "J. Brownhill",
+      "position": "MID",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 21383,
+      "name": "E. Pieters",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 37
+    },
+    {
+      "id": 127202,
+      "name": "R. Nartey",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 137299,
+      "name": "Lewis Mark Richardson",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 180771,
+      "name": "M. Goodridge",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 204178,
+      "name": "J. Mumbongo",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 26
+    }
+  ],
+  "Fulham": [
+    {
+      "id": 253,
+      "name": "A. Areola",
+      "position": "GK",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 657,
+      "name": "K. Tete",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 30
+    },
+    {
+      "id": 1279,
+      "name": "J. Maja",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 27
+    },
+    {
+      "id": 2729,
+      "name": "J. Andersen",
+      "position": "DEF",
+      "nationality": "Denmark",
+      "age": 29
+    },
+    {
+      "id": 2771,
+      "name": "O. Aina",
+      "position": "DEF",
+      "nationality": "Nigeria",
+      "age": 29
+    },
+    {
+      "id": 18751,
+      "name": "Ivan Cavaleiro",
+      "position": "UNK",
+      "nationality": "Portugal",
+      "age": 32
+    },
+    {
+      "id": 18972,
+      "name": "A. Knockaert",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 19004,
+      "name": "B. De Cordova-Reid",
+      "position": "ATT",
+      "nationality": "Jamaica",
+      "age": 32
+    },
+    {
+      "id": 19012,
+      "name": "M. Bettinelli",
+      "position": "GK",
+      "nationality": "England",
+      "age": 33
+    },
+    {
+      "id": 19015,
+      "name": "J. Bryan",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 19019,
+      "name": "M. Le Marchand",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 19024,
+      "name": "S. Sessegnon",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 19025,
+      "name": "T. Cairney",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 34
+    },
+    {
+      "id": 19145,
+      "name": "T. Adarabioyo",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 19393,
+      "name": "J. Onomah",
+      "position": "MID",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 19480,
+      "name": "H. Reed",
+      "position": "MID",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 19549,
+      "name": "A. Robinson",
+      "position": "DEF",
+      "nationality": "USA",
+      "age": 28
+    },
+    {
+      "id": 19657,
+      "name": "M. Rodák",
+      "position": "GK",
+      "nationality": "Slovakia",
+      "age": 29
+    },
+    {
+      "id": 129707,
+      "name": "T. Francois",
+      "position": "MID",
+      "nationality": "Australia",
+      "age": 25
+    },
+    {
+      "id": 153066,
+      "name": "Fábio Carvalho",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 23
+    },
+    {
+      "id": 2292,
+      "name": "R. Loftus-Cheek",
+      "position": "MID",
+      "nationality": "England",
+      "age": 29
+    },
+    {
+      "id": 2825,
+      "name": "A. Mitrović",
+      "position": "ATT",
+      "nationality": "Serbia",
+      "age": 31
+    },
+    {
+      "id": 3243,
+      "name": "J. Seri",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 34
+    },
+    {
+      "id": 3406,
+      "name": "A. Zambo Anguissa",
+      "position": "MID",
+      "nationality": "Cameroon",
+      "age": 30
+    },
+    {
+      "id": 18767,
+      "name": "A. Lookman",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 28
+    },
+    {
+      "id": 18947,
+      "name": "M. Lemina",
+      "position": "MID",
+      "nationality": "Gabon",
+      "age": 32
+    },
+    {
+      "id": 19011,
+      "name": "Fabri",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 37
+    },
+    {
+      "id": 19017,
+      "name": "C. Christie",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 33
+    },
+    {
+      "id": 19020,
+      "name": "Alfie Mawson",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 29
+    },
+    {
+      "id": 19022,
+      "name": "D. Odoi",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 37
+    },
+    {
+      "id": 19023,
+      "name": "T. Ream",
+      "position": "DEF",
+      "nationality": "USA",
+      "age": 38
+    },
+    {
+      "id": 19027,
+      "name": "N. Kebano",
+      "position": "MID",
+      "nationality": "Congo DR",
+      "age": 33
+    },
+    {
+      "id": 19029,
+      "name": "K. McDonald",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 37
+    },
+    {
+      "id": 19043,
+      "name": "T. Kongolo",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 31
+    },
+    {
+      "id": 19159,
+      "name": "S. Johansen",
+      "position": "MID",
+      "nationality": "Norway",
+      "age": 34
+    },
+    {
+      "id": 19373,
+      "name": "M. Hector",
+      "position": "DEF",
+      "nationality": "Jamaica",
+      "age": 33
+    },
+    {
+      "id": 49923,
+      "name": "A. Kamara",
+      "position": "UNK",
+      "nationality": "Mauritania",
+      "age": 30
+    },
+    {
+      "id": 153417,
+      "name": "S. Jasper",
+      "position": "MID",
+      "nationality": "Bulgaria",
+      "age": 24
+    }
+  ],
+  "West Brom": [
+    {
+      "id": 2769,
+      "name": "S. Ajayi",
+      "position": "DEF",
+      "nationality": "Nigeria",
+      "age": 32
+    },
+    {
+      "id": 18828,
+      "name": "R. Snodgrass",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 36
+    },
+    {
+      "id": 18958,
+      "name": "D. Button",
+      "position": "GK",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 18994,
+      "name": "L. Peltier",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 38
+    },
+    {
+      "id": 19055,
+      "name": "K. Ahearne-Grant",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 19143,
+      "name": "S. Johnstone",
+      "position": "GK",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 19155,
+      "name": "K. Edwards",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 19156,
+      "name": "S. Field",
+      "position": "MID",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 19157,
+      "name": "R. Harper",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 19164,
+      "name": "M. Phillips",
+      "position": "MID",
+      "nationality": "Scotland",
+      "age": 34
+    },
+    {
+      "id": 19359,
+      "name": "R. Sawyers",
+      "position": "MID",
+      "nationality": "St. Kitts and Nevis",
+      "age": 34
+    },
+    {
+      "id": 19462,
+      "name": "C. Robinson",
+      "position": "ATT",
+      "nationality": "Republic of Ireland",
+      "age": 30
+    },
+    {
+      "id": 19577,
+      "name": "D. Furlong",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 30
+    },
+    {
+      "id": 20224,
+      "name": "A. Lonergan",
+      "position": "GK",
+      "nationality": "England",
+      "age": 42
+    },
+    {
+      "id": 174926,
+      "name": "C. Diaby",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 23
+    },
+    {
+      "id": 192347,
+      "name": "R. Richards",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 231046,
+      "name": "G. Harmon",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 231078,
+      "name": "T. Gardner-Hickman",
+      "position": "MID",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 283273,
+      "name": "C. Taylor",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 284500,
+      "name": "T. Iroegbunam",
+      "position": "MID",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 574,
+      "name": "F. Krovinović",
+      "position": "MID",
+      "nationality": "Croatia",
+      "age": 30
+    },
+    {
+      "id": 1124,
+      "name": "O. Burke",
+      "position": "ATT",
+      "nationality": "Scotland",
+      "age": 28
+    },
+    {
+      "id": 1200,
+      "name": "B. Ivanović",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 37
+    },
+    {
+      "id": 1456,
+      "name": "A. Maitland-Niles",
+      "position": "MID",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 17597,
+      "name": "D. O&apos;Shea",
+      "position": "DEF",
+      "nationality": "Republic of Ireland",
+      "age": 26
+    },
+    {
+      "id": 18821,
+      "name": "G. Diangana",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 18952,
+      "name": "C. Austin",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 36
+    },
+    {
+      "id": 19005,
+      "name": "K. Zohorè",
+      "position": "ATT",
+      "nationality": "Denmark",
+      "age": 31
+    },
+    {
+      "id": 19142,
+      "name": "J. Bond",
+      "position": "GK",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 19146,
+      "name": "K. Bartley",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 19148,
+      "name": "K. Gibbs",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 34
+    },
+    {
+      "id": 19152,
+      "name": "C. Townsend",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 19153,
+      "name": "G. Barry",
+      "position": "MID",
+      "nationality": "England",
+      "age": 39
+    },
+    {
+      "id": 19154,
+      "name": "C. Brunt",
+      "position": "MID",
+      "nationality": "Northern Ireland",
+      "age": 37
+    },
+    {
+      "id": 19160,
+      "name": "J. Livermore",
+      "position": "MID",
+      "nationality": "England",
+      "age": 35
+    },
+    {
+      "id": 19165,
+      "name": "R. Tulloch",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 19168,
+      "name": "Thomas Henry Alex Robson-Kanu",
+      "position": "ATT",
+      "nationality": "Wales",
+      "age": 34
+    },
+    {
+      "id": 19546,
+      "name": "C. Kipré",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 29
+    },
+    {
+      "id": 67972,
+      "name": "C. Gallagher",
+      "position": "MID",
+      "nationality": "England",
+      "age": 25
+    },
+    {
+      "id": 278069,
+      "name": "T. King",
+      "position": "MID",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 458,
+      "name": "M. Diagne",
+      "position": "UNK",
+      "nationality": "Senegal",
+      "age": 34
+    },
+    {
+      "id": 3012,
+      "name": "K. Grosicki",
+      "position": "UNK",
+      "nationality": "Poland",
+      "age": 37
+    },
+    {
+      "id": 19149,
+      "name": "Ahmed Hegazy",
+      "position": "DEF",
+      "nationality": "Egypt",
+      "age": 34
+    },
+    {
+      "id": 25618,
+      "name": "Matheus Pereira",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 29
+    },
+    {
+      "id": 47443,
+      "name": "O. Yokuşlu",
+      "position": "MID",
+      "nationality": "Türkiye",
+      "age": 31
+    },
+    {
+      "id": 192348,
+      "name": "Jamie Soule",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 25
+    }
+  ],
+  "Sheffield United": [
+    {
+      "id": 81919,
+      "name": "F. Kitching",
+      "position": "GK",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 81949,
+      "name": "B. Flaherty",
+      "position": "GK",
+      "nationality": "Northern Ireland",
+      "age": 26
+    },
+    {
+      "id": 284586,
+      "name": "R. Lord-Mears",
+      "position": "MID",
+      "nationality": "England",
+      "age": 29
+    },
+    {
+      "id": 284625,
+      "name": "N. Hartley",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 23
+    },
+    {
+      "id": 284630,
+      "name": "A. Paul",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 284734,
+      "name": "C. Dixon",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 284752,
+      "name": "C. Docherty",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 291895,
+      "name": "T. Wilcock",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 22
+    },
+    {
+      "id": 284627,
+      "name": "K. Wilkinson",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 31
+    },
+    {
+      "id": 284624,
+      "name": "E. Wilson",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 28
+    },
+    {
+      "id": 68999,
+      "name": "O. Chance",
+      "position": "MID",
+      "nationality": "New Zealand",
+      "age": 32
+    },
+    {
+      "id": 284629,
+      "name": "J. Pennock",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 32
+    },
+    {
+      "id": 284628,
+      "name": "V. Sarri",
+      "position": "ATT",
+      "nationality": "Greece",
+      "age": 27
+    },
+    {
+      "id": 297203,
+      "name": "R. Rayner",
+      "position": "MID",
+      "nationality": "England",
+      "age": 26
+    },
+    {
+      "id": 81990,
+      "name": "H. Coan",
+      "position": "DEF",
+      "nationality": "England",
+      "age": 24
+    },
+    {
+      "id": 284585,
+      "name": "M. Johnson",
+      "position": "ATT",
+      "nationality": "Jamaica",
+      "age": 34
+    },
+    {
+      "id": 284632,
+      "name": "N. Johnson",
+      "position": "DEF",
+      "nationality": "Northern Ireland",
+      "age": 32
+    },
+    {
+      "id": 284742,
+      "name": "E. Batty",
+      "position": "GK",
+      "nationality": "England",
+      "age": 27
+    },
+    {
+      "id": 284743,
+      "name": "L. Watson",
+      "position": "ATT",
+      "nationality": "England",
+      "age": 22
+    }
+  ]
+}

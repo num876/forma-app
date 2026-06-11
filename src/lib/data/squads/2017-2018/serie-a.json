@@ -1,0 +1,6461 @@
+{
+  "Juventus": [
+    {
+      "id": 191,
+      "name": "K. Asamoah",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 33
+    },
+    {
+      "id": 254,
+      "name": "G. Buffon",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 45
+    },
+    {
+      "id": 850,
+      "name": "C. Pinsoglio",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 861,
+      "name": "D. Rugani",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 867,
+      "name": "G. Kastanos",
+      "position": "MID",
+      "nationality": "Cyprus",
+      "age": 27
+    },
+    {
+      "id": 869,
+      "name": "B. Matuidi",
+      "position": "MID",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 870,
+      "name": "S. Muratore",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 873,
+      "name": "F. Bernardeschi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 875,
+      "name": "P. Dybala",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 32
+    },
+    {
+      "id": 1214,
+      "name": "C. Marchisio",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 14652,
+      "name": "R. Tamba M&apos;Pinda",
+      "position": "MID",
+      "nationality": "France",
+      "age": 27
+    },
+    {
+      "id": 30556,
+      "name": "F. Romagna",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30810,
+      "name": "R. Mandragora",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 31081,
+      "name": "F. Cassata",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 31631,
+      "name": "N. Leali",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 56199,
+      "name": "Leonardo Maria Merio",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 22
+    },
+    {
+      "id": 56318,
+      "name": "F. Caligara",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 100517,
+      "name": "P. De Ceglie",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 104982,
+      "name": "Carlos Blanco",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 29
+    },
+    {
+      "id": 115408,
+      "name": "Alberto Gallinetta",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 256,
+      "name": "Dani Alves",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 42
+    },
+    {
+      "id": 848,
+      "name": "M. Del Favero",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 852,
+      "name": "Andrea Barzagli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 856,
+      "name": "G. Chiellini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 857,
+      "name": "L. Coccolo",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 858,
+      "name": "M. De Sciglio",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 860,
+      "name": "Alex Sandro",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 878,
+      "name": "M. Mandžukić",
+      "position": "ATT",
+      "nationality": "Croatia",
+      "age": 35
+    },
+    {
+      "id": 1628,
+      "name": "M. Caldara",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 9959,
+      "name": "Hernanes",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": 26899,
+      "name": "V. Sakor",
+      "position": "MID",
+      "nationality": "Norway",
+      "age": 29
+    },
+    {
+      "id": 30628,
+      "name": "A. Tello",
+      "position": "MID",
+      "nationality": "Colombia",
+      "age": 29
+    },
+    {
+      "id": 30753,
+      "name": "M. Léris",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 27
+    },
+    {
+      "id": 31138,
+      "name": "A. Semprini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 31187,
+      "name": "L. Rosseti",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 31501,
+      "name": "F. Del Sole",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 31605,
+      "name": "D. Del Fabro",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 40397,
+      "name": "C. Pasquato",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 44850,
+      "name": "V. Slivka",
+      "position": "MID",
+      "nationality": "Lithuania",
+      "age": 30
+    },
+    {
+      "id": 56267,
+      "name": "L. Loria",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 851,
+      "name": "W. Szczęsny",
+      "position": "GK",
+      "nationality": "Poland",
+      "age": 35
+    },
+    {
+      "id": 853,
+      "name": "L. Bonucci",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 863,
+      "name": "R. Bentancur",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 28
+    },
+    {
+      "id": 865,
+      "name": "Douglas Costa",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 35
+    },
+    {
+      "id": 866,
+      "name": "J. Cuadrado",
+      "position": "MID",
+      "nationality": "Colombia",
+      "age": 37
+    },
+    {
+      "id": 868,
+      "name": "S. Khedira",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 34
+    },
+    {
+      "id": 872,
+      "name": "M. Pjanić",
+      "position": "MID",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 35
+    },
+    {
+      "id": 877,
+      "name": "M. Kean",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 912,
+      "name": "Neto",
+      "position": "GK",
+      "nationality": "Brazil",
+      "age": 36
+    },
+    {
+      "id": 1444,
+      "name": "S. Lichtsteiner",
+      "position": "DEF",
+      "nationality": "Switzerland",
+      "age": 37
+    },
+    {
+      "id": 2297,
+      "name": "G. Higuaín",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 2452,
+      "name": "T. Rincón",
+      "position": "MID",
+      "nationality": "Venezuela",
+      "age": 37
+    },
+    {
+      "id": 2708,
+      "name": "M. Benatia",
+      "position": "DEF",
+      "nationality": "Morocco",
+      "age": 34
+    },
+    {
+      "id": 18947,
+      "name": "M. Lemina",
+      "position": "MID",
+      "nationality": "Gabon",
+      "age": 32
+    },
+    {
+      "id": 30413,
+      "name": "M. Pjaca",
+      "position": "ATT",
+      "nationality": "Croatia",
+      "age": 30
+    },
+    {
+      "id": 30786,
+      "name": "S. Sturaro",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 87077,
+      "name": "Patrice Evra",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 37
+    }
+  ],
+  "Napoli": [
+    {
+      "id": 314,
+      "name": "Raúl Albiol",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 40
+    },
+    {
+      "id": 317,
+      "name": "E. Hysaj",
+      "position": "DEF",
+      "nationality": "Albania",
+      "age": 31
+    },
+    {
+      "id": 322,
+      "name": "Mário Rui",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 34
+    },
+    {
+      "id": 324,
+      "name": "A. Diawara",
+      "position": "MID",
+      "nationality": "Guinea",
+      "age": 28
+    },
+    {
+      "id": 327,
+      "name": "A. Ounas",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 29
+    },
+    {
+      "id": 329,
+      "name": "P. Zieliński",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 31
+    },
+    {
+      "id": 330,
+      "name": "José Callejón",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 38
+    },
+    {
+      "id": 331,
+      "name": "L. Insigne",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 1633,
+      "name": "I. Strinić",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 32
+    },
+    {
+      "id": 2055,
+      "name": "M. Rog",
+      "position": "MID",
+      "nationality": "Croatia",
+      "age": 30
+    },
+    {
+      "id": 9895,
+      "name": "Leandrinho",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 26
+    },
+    {
+      "id": 30443,
+      "name": "Rafael Cabral",
+      "position": "GK",
+      "nationality": "Brazil",
+      "age": 35
+    },
+    {
+      "id": 30450,
+      "name": "L. Tonelli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30573,
+      "name": "L. Pavoletti",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30621,
+      "name": "Christian Maggio",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 30982,
+      "name": "Hrvoje Milić",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 32
+    },
+    {
+      "id": 30993,
+      "name": "Z. Machach",
+      "position": "MID",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 31008,
+      "name": "L. Sepe",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 31219,
+      "name": "A. Zerbin",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 153319,
+      "name": "Micheal Scarf",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 22
+    },
+    {
+      "id": 315,
+      "name": "V. Chiricheș",
+      "position": "DEF",
+      "nationality": "Romania",
+      "age": 36
+    },
+    {
+      "id": 316,
+      "name": "F. Ghoulam",
+      "position": "DEF",
+      "nationality": "Algeria",
+      "age": 33
+    },
+    {
+      "id": 318,
+      "name": "K. Koulibaly",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 34
+    },
+    {
+      "id": 320,
+      "name": "N. Maksimović",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 34
+    },
+    {
+      "id": 326,
+      "name": "Allan",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 332,
+      "name": "D. Mertens",
+      "position": "ATT",
+      "nationality": "Belgium",
+      "age": 38
+    },
+    {
+      "id": 333,
+      "name": "A. Milik",
+      "position": "ATT",
+      "nationality": "Poland",
+      "age": 31
+    },
+    {
+      "id": 1624,
+      "name": "Pepe Reina",
+      "position": "GK",
+      "nationality": "Spain",
+      "age": 43
+    },
+    {
+      "id": 2289,
+      "name": "Jorginho",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 12994,
+      "name": "M. Hamšík",
+      "position": "MID",
+      "nationality": "Slovakia",
+      "age": 36
+    },
+    {
+      "id": 30749,
+      "name": "Emanuele Giaccherini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 38
+    }
+  ],
+  "Roma": [
+    {
+      "id": 779,
+      "name": "D. De Rossi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 791,
+      "name": "S. El Shaarawy",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 2998,
+      "name": "Ł. Skorupski",
+      "position": "GK",
+      "nationality": "Poland",
+      "age": 34
+    },
+    {
+      "id": 6571,
+      "name": "M. Nani",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 27
+    },
+    {
+      "id": 16066,
+      "name": "R. Çorlu",
+      "position": "MID",
+      "nationality": "Denmark",
+      "age": 28
+    },
+    {
+      "id": 30981,
+      "name": "R. Marchizza",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 31173,
+      "name": "D. Frattesi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31183,
+      "name": "Sidy Keba Coly",
+      "position": "ATT",
+      "nationality": "Senegal",
+      "age": 22
+    },
+    {
+      "id": 31653,
+      "name": "A. Marcucci",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 32056,
+      "name": "Lorenzo Crisanto",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 56373,
+      "name": "Lorenzo Grossi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 56515,
+      "name": "P. Frascatore",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 56618,
+      "name": "N. Tofanari",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 56659,
+      "name": "Riccardo  Cappa",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 22
+    },
+    {
+      "id": 56869,
+      "name": "Stefano Ciavattini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 21
+    },
+    {
+      "id": 91370,
+      "name": "Bogdan Ionuț Lobonț",
+      "position": "GK",
+      "nationality": "Romania",
+      "age": 40
+    },
+    {
+      "id": 91437,
+      "name": "Nura Abdullahi",
+      "position": "DEF",
+      "nationality": "Nigeria",
+      "age": 21
+    },
+    {
+      "id": 106167,
+      "name": "A. Ciofi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 163363,
+      "name": "Dario Vittorio Meadows",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 209006,
+      "name": "Filippo Franchi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 205,
+      "name": "R. Nainggolan",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 37
+    },
+    {
+      "id": 322,
+      "name": "Mário Rui",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 34
+    },
+    {
+      "id": 764,
+      "name": "S. Greco",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 767,
+      "name": "R. Cargnelutti",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 769,
+      "name": "A. Florenzi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 770,
+      "name": "R. Karsdorp",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 30
+    },
+    {
+      "id": 772,
+      "name": "K. Manolas",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 33
+    },
+    {
+      "id": 783,
+      "name": "S. Pezzella",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 784,
+      "name": "A. Riccardi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 1916,
+      "name": "K. Strootman",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 34
+    },
+    {
+      "id": 1920,
+      "name": "N. Radonjić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 29
+    },
+    {
+      "id": 2051,
+      "name": "M. Gonalons",
+      "position": "MID",
+      "nationality": "France",
+      "age": 35
+    },
+    {
+      "id": 2208,
+      "name": "C. Grenier",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 30824,
+      "name": "E. Capradossi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 30894,
+      "name": "Lorenzo Valeau",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 31448,
+      "name": "E. De Santis",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 31746,
+      "name": "M. Tumminello",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 32030,
+      "name": "A. Romagnoli",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 37673,
+      "name": "M. Seck",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 29
+    },
+    {
+      "id": 47408,
+      "name": "J. Silva",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 31
+    },
+    {
+      "id": 271,
+      "name": "L. Paredes",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 31
+    },
+    {
+      "id": 280,
+      "name": "Alisson Becker",
+      "position": "GK",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 306,
+      "name": "Mohamed Salah",
+      "position": "ATT",
+      "nationality": "Egypt",
+      "age": 33
+    },
+    {
+      "id": 774,
+      "name": "Juan Jesus",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 782,
+      "name": "L. Pellegrini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 785,
+      "name": "C. Ünder",
+      "position": "UNK",
+      "nationality": "Türkiye",
+      "age": 28
+    },
+    {
+      "id": 794,
+      "name": "P. Schick",
+      "position": "ATT",
+      "nationality": "Czechia",
+      "age": 29
+    },
+    {
+      "id": 2284,
+      "name": "Emerson",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 2874,
+      "name": "H. Moreno",
+      "position": "DEF",
+      "nationality": "Mexico",
+      "age": 37
+    },
+    {
+      "id": 9948,
+      "name": "Bruno Peres",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 35
+    },
+    {
+      "id": 10553,
+      "name": "Leandro Castán da Silva",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 36
+    },
+    {
+      "id": 30408,
+      "name": "Gerson",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 28
+    },
+    {
+      "id": 30461,
+      "name": "G. Defrel",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 34
+    },
+    {
+      "id": 30554,
+      "name": "L. Pellegrini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 30838,
+      "name": "M. Ricci",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 31389,
+      "name": "N. Gyömbér",
+      "position": "DEF",
+      "nationality": "Slovakia",
+      "age": 33
+    },
+    {
+      "id": 31406,
+      "name": "U. Sadiq",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 28
+    },
+    {
+      "id": 31497,
+      "name": "M. Antonucci",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 35928,
+      "name": "J. Iturbe",
+      "position": "ATT",
+      "nationality": "Paraguay",
+      "age": 32
+    },
+    {
+      "id": 91436,
+      "name": "D. Bouah",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 140,
+      "name": "Thomas Vermaelen",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 37
+    },
+    {
+      "id": 768,
+      "name": "F. Fazio",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 771,
+      "name": "A. Kolarov",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 37
+    },
+    {
+      "id": 790,
+      "name": "E. Džeko",
+      "position": "UNK",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 39
+    },
+    {
+      "id": 793,
+      "name": "Diego Perotti",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 34
+    },
+    {
+      "id": 851,
+      "name": "W. Szczęsny",
+      "position": "GK",
+      "nationality": "Poland",
+      "age": 35
+    },
+    {
+      "id": 2285,
+      "name": "A. Rüdiger",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 32
+    }
+  ],
+  "Lazio": [
+    {
+      "id": 194,
+      "name": "S. de Vrij",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 33
+    },
+    {
+      "id": 1833,
+      "name": "Guido Guerrieri",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 1837,
+      "name": "N. Armini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 1838,
+      "name": "Dušan Basta",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 35
+    },
+    {
+      "id": 1841,
+      "name": "Patric",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 1843,
+      "name": "J. Lukaku",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 30
+    },
+    {
+      "id": 1844,
+      "name": "A. Marušić",
+      "position": "DEF",
+      "nationality": "Montenegro",
+      "age": 33
+    },
+    {
+      "id": 1846,
+      "name": "Ş. Radu",
+      "position": "DEF",
+      "nationality": "Romania",
+      "age": 37
+    },
+    {
+      "id": 1855,
+      "name": "S. Lulić",
+      "position": "MID",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 35
+    },
+    {
+      "id": 1857,
+      "name": "M. Parolo",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 15397,
+      "name": "Ivan Vargić",
+      "position": "GK",
+      "nationality": "Croatia",
+      "age": 34
+    },
+    {
+      "id": 30762,
+      "name": "Filip Đorđević",
+      "position": "ATT",
+      "nationality": "Serbia",
+      "age": 36
+    },
+    {
+      "id": 30868,
+      "name": "A. Murgia",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 31377,
+      "name": "C. Lombardi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 31379,
+      "name": "A. Rossi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 31480,
+      "name": "L. Crecco",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 31679,
+      "name": "Davide Di Gennaro",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 31744,
+      "name": "S. Palombi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 31767,
+      "name": "A. Miceli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 91453,
+      "name": "Luca Borrelli",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 854,
+      "name": "M. Cáceres",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 38
+    },
+    {
+      "id": 1637,
+      "name": "L. Biglia",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 1835,
+      "name": "T. Strakosha",
+      "position": "GK",
+      "nationality": "Albania",
+      "age": 30
+    },
+    {
+      "id": 1840,
+      "name": "Wallace",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 31
+    },
+    {
+      "id": 1845,
+      "name": "Bartolomeu Jacinto Quissanga",
+      "position": "DEF",
+      "nationality": "Angola",
+      "age": 34
+    },
+    {
+      "id": 1847,
+      "name": "Luiz Felipe",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 1853,
+      "name": "Bruno Jordão",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 27
+    },
+    {
+      "id": 1856,
+      "name": "S. Milinković-Savić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 30
+    },
+    {
+      "id": 1858,
+      "name": "Lucas Leiva",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 36
+    },
+    {
+      "id": 1859,
+      "name": "Luis Alberto",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 33
+    },
+    {
+      "id": 1861,
+      "name": "F. Caicedo",
+      "position": "ATT",
+      "nationality": "Ecuador",
+      "age": 37
+    },
+    {
+      "id": 1863,
+      "name": "C. Immobile",
+      "position": "UNK",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 1864,
+      "name": "Pedro Neto",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 25
+    },
+    {
+      "id": 2412,
+      "name": "Felipe Anderson",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 35142,
+      "name": "Maurício",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": 47430,
+      "name": "W. Hoedt",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 31
+    },
+    {
+      "id": 50940,
+      "name": "Nani",
+      "position": "UNK",
+      "nationality": "Portugal",
+      "age": 39
+    }
+  ],
+  "Inter": [
+    {
+      "id": 142,
+      "name": "Rafinha",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 31
+    },
+    {
+      "id": 187,
+      "name": "T. Berni",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 188,
+      "name": "S. Handanovič",
+      "position": "GK",
+      "nationality": "Slovenia",
+      "age": 39
+    },
+    {
+      "id": 202,
+      "name": "A. Candreva",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 203,
+      "name": "R. Gagliardini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 211,
+      "name": "M. Vecino",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 34
+    },
+    {
+      "id": 2107,
+      "name": "Z. Vanheusden",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 26
+    },
+    {
+      "id": 30489,
+      "name": "R. Palacio",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 40
+    },
+    {
+      "id": 30496,
+      "name": "C. Ansaldi",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 30542,
+      "name": "J. Odgaard",
+      "position": "ATT",
+      "nationality": "Denmark",
+      "age": 26
+    },
+    {
+      "id": 30988,
+      "name": "F. Valietti",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31009,
+      "name": "A. Bastoni",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31094,
+      "name": "A. Pinamonti",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31535,
+      "name": "M. Rover",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31626,
+      "name": "S. Longo",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 48403,
+      "name": "E. Yao",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 29
+    },
+    {
+      "id": 56161,
+      "name": "M. Sala",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 56708,
+      "name": "S. Danso",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 26
+    },
+    {
+      "id": 70540,
+      "name": "J. Carrizo",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 91381,
+      "name": "Assane Demoya Gnoukouri",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 21
+    },
+    {
+      "id": 135,
+      "name": "J. Murillo",
+      "position": "DEF",
+      "nationality": "Colombia",
+      "age": 33
+    },
+    {
+      "id": 192,
+      "name": "Dalbert Henrique",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 193,
+      "name": "D. D&apos;Ambrosio",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 198,
+      "name": "M. Škriniar",
+      "position": "DEF",
+      "nationality": "Slovakia",
+      "age": 30
+    },
+    {
+      "id": 201,
+      "name": "M. Brozović",
+      "position": "MID",
+      "nationality": "Croatia",
+      "age": 33
+    },
+    {
+      "id": 216,
+      "name": "M. Icardi",
+      "position": "UNK",
+      "nationality": "Argentina",
+      "age": 32
+    },
+    {
+      "id": 229,
+      "name": "T. Sainsbury",
+      "position": "DEF",
+      "nationality": "Australia",
+      "age": 33
+    },
+    {
+      "id": 440,
+      "name": "Y. Nagatomo",
+      "position": "DEF",
+      "nationality": "Japan",
+      "age": 39
+    },
+    {
+      "id": 926,
+      "name": "G. Kondogbia",
+      "position": "MID",
+      "nationality": "Central African Republic",
+      "age": 32
+    },
+    {
+      "id": 1278,
+      "name": "Y. Karamoh",
+      "position": "UNK",
+      "nationality": "France",
+      "age": 27
+    },
+    {
+      "id": 2050,
+      "name": "É. Banega",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 2104,
+      "name": "S. Miangué",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 28
+    },
+    {
+      "id": 5966,
+      "name": "Lisandro López",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 10174,
+      "name": "Gabriel Barbosa",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 29
+    },
+    {
+      "id": 31018,
+      "name": "J. Biabiany",
+      "position": "MID",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 31180,
+      "name": "E. Baldini",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 31280,
+      "name": "R. Rivas",
+      "position": "MID",
+      "nationality": "Honduras",
+      "age": 27
+    },
+    {
+      "id": 31618,
+      "name": "X. Emmers",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 26
+    },
+    {
+      "id": 32059,
+      "name": "M. Pissardo",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 56220,
+      "name": "M. Lombardoni",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 121,
+      "name": "S. Jovetić",
+      "position": "ATT",
+      "nationality": "Montenegro",
+      "age": 36
+    },
+    {
+      "id": 189,
+      "name": "D. Padelli",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 195,
+      "name": "Miranda",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 38
+    },
+    {
+      "id": 197,
+      "name": "A. Ranocchia",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 206,
+      "name": "João Mário",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 33
+    },
+    {
+      "id": 207,
+      "name": "I. Perišić",
+      "position": "ATT",
+      "nationality": "Croatia",
+      "age": 36
+    },
+    {
+      "id": 210,
+      "name": "Borja Valero",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 775,
+      "name": "D. Santon",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 786,
+      "name": "N. Zaniolo",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 855,
+      "name": "João Cancelo",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 31
+    },
+    {
+      "id": 1982,
+      "name": "G. Medel",
+      "position": "DEF",
+      "nationality": "Chile",
+      "age": 38
+    },
+    {
+      "id": 12795,
+      "name": "Éder",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 30765,
+      "name": "I. Radu",
+      "position": "GK",
+      "nationality": "Romania",
+      "age": 28
+    }
+  ],
+  "Milan": [
+    {
+      "id": 1625,
+      "name": "M. Soncin",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 1626,
+      "name": "I. Abate",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 1629,
+      "name": "A. Conti",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 1630,
+      "name": "M. Musacchio",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 31
+    },
+    {
+      "id": 1632,
+      "name": "A. Romagnoli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 1645,
+      "name": "Riccardo Montolivo",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 1652,
+      "name": "F. Tsadjout",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 2763,
+      "name": "M. Pašalić",
+      "position": "MID",
+      "nationality": "Croatia",
+      "age": 30
+    },
+    {
+      "id": 13582,
+      "name": "Matías Ariel Fernández Fernández",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 37
+    },
+    {
+      "id": 26727,
+      "name": "H. Mastour",
+      "position": "ATT",
+      "nationality": "Morocco",
+      "age": 26
+    },
+    {
+      "id": 30533,
+      "name": "M. Locatelli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 31039,
+      "name": "Luca Antonelli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 31237,
+      "name": "G. Crociata",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 32153,
+      "name": "R. Zucchetti",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 22
+    },
+    {
+      "id": 56473,
+      "name": "M. Gabbia",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 90434,
+      "name": "Jherson Vergara Amú",
+      "position": "DEF",
+      "nationality": "Colombia",
+      "age": 28
+    },
+    {
+      "id": 90440,
+      "name": "A. Guarnone",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 91376,
+      "name": "Marco Storari",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 41
+    },
+    {
+      "id": 91422,
+      "name": "R. Bellanova",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 209709,
+      "name": "Michele Spinelli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 858,
+      "name": "M. De Sciglio",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 1621,
+      "name": "A. Donnarumma",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 1623,
+      "name": "A. Plizzari",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 1627,
+      "name": "D. Calabria",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 1638,
+      "name": "G. Bonaventura",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 1642,
+      "name": "F. Kessié",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 29
+    },
+    {
+      "id": 1644,
+      "name": "J. Mauri",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 1647,
+      "name": "E. Torrasi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 1706,
+      "name": "C. Bacca",
+      "position": "ATT",
+      "nationality": "Colombia",
+      "age": 39
+    },
+    {
+      "id": 1911,
+      "name": "L. Ocampos",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 31
+    },
+    {
+      "id": 2502,
+      "name": "G. Gómez",
+      "position": "DEF",
+      "nationality": "Paraguay",
+      "age": 32
+    },
+    {
+      "id": 6857,
+      "name": "Keisuke Honda",
+      "position": "MID",
+      "nationality": "Japan",
+      "age": 36
+    },
+    {
+      "id": 30790,
+      "name": "G. Lapadula",
+      "position": "ATT",
+      "nationality": "Peru",
+      "age": 35
+    },
+    {
+      "id": 30997,
+      "name": "N. Zanellato",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 31077,
+      "name": "S. Simič",
+      "position": "DEF",
+      "nationality": "Czechia",
+      "age": 30
+    },
+    {
+      "id": 31384,
+      "name": "Gabriel Vasconcelos",
+      "position": "GK",
+      "nationality": "Brazil",
+      "age": 33
+    },
+    {
+      "id": 31751,
+      "name": "G. Altare",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 32049,
+      "name": "R. Forte",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 35543,
+      "name": "L. Vangioni",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 41987,
+      "name": "Tiago Dias",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 27
+    },
+    {
+      "id": 57,
+      "name": "N. Kalinić",
+      "position": "ATT",
+      "nationality": "Croatia",
+      "age": 36
+    },
+    {
+      "id": 853,
+      "name": "L. Bonucci",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 1622,
+      "name": "G. Donnarumma",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 1631,
+      "name": "R. Rodríguez",
+      "position": "DEF",
+      "nationality": "Switzerland",
+      "age": 33
+    },
+    {
+      "id": 1634,
+      "name": "C. Zapata",
+      "position": "DEF",
+      "nationality": "Colombia",
+      "age": 39
+    },
+    {
+      "id": 1636,
+      "name": "A. Bertolacci",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 1637,
+      "name": "L. Biglia",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 1640,
+      "name": "H. Çalhanoğlu",
+      "position": "MID",
+      "nationality": "Türkiye",
+      "age": 31
+    },
+    {
+      "id": 1648,
+      "name": "F. Borini",
+      "position": "UNK",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 1649,
+      "name": "P. Cutrone",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 1650,
+      "name": "Suso",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 1793,
+      "name": "Luiz Adriano",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": 2063,
+      "name": "André Silva",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 30
+    },
+    {
+      "id": 2216,
+      "name": "M. Niang",
+      "position": "UNK",
+      "nationality": "Senegal",
+      "age": 31
+    },
+    {
+      "id": 12774,
+      "name": "G. Paletta",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 18809,
+      "name": "Deulofeu",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 31
+    },
+    {
+      "id": 30482,
+      "name": "A. Poli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 31023,
+      "name": "J. Kucka",
+      "position": "MID",
+      "nationality": "Slovakia",
+      "age": 38
+    },
+    {
+      "id": 47356,
+      "name": "Rodrigo Ely",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 49887,
+      "name": "J. Sosa",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 40
+    }
+  ],
+  "Atalanta": [
+    {
+      "id": 778,
+      "name": "B. Cristante",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 862,
+      "name": "L. Spinazzola",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 1628,
+      "name": "M. Caldara",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 1629,
+      "name": "A. Conti",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 30419,
+      "name": "F. Rossi",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30420,
+      "name": "E. Del Prato",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 30423,
+      "name": "H. Hateboer",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 31
+    },
+    {
+      "id": 30425,
+      "name": "G. Mancini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 30434,
+      "name": "J. Iličić",
+      "position": "MID",
+      "nationality": "Slovenia",
+      "age": 37
+    },
+    {
+      "id": 30439,
+      "name": "L. Peli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 30488,
+      "name": "R. Orsolini",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30865,
+      "name": "J. Kurtič",
+      "position": "MID",
+      "nationality": "Slovenia",
+      "age": 36
+    },
+    {
+      "id": 31009,
+      "name": "A. Bastoni",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31407,
+      "name": "L. Vido",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 31655,
+      "name": "Luca Rizzo",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 32023,
+      "name": "S. Elia",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 34525,
+      "name": "A. Pešić",
+      "position": "UNK",
+      "nationality": "Serbia",
+      "age": 33
+    },
+    {
+      "id": 56526,
+      "name": "Thomas Bolis",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 91383,
+      "name": "Abdoulay Konko",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 91404,
+      "name": "B. Dramé",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 36
+    },
+    {
+      "id": 2807,
+      "name": "R. Freuler",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 33
+    },
+    {
+      "id": 2920,
+      "name": "T. Castagne",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 30
+    },
+    {
+      "id": 16556,
+      "name": "B. Cabezas",
+      "position": "MID",
+      "nationality": "Ecuador",
+      "age": 28
+    },
+    {
+      "id": 30416,
+      "name": "E. Berisha",
+      "position": "GK",
+      "nationality": "Albania",
+      "age": 36
+    },
+    {
+      "id": 30418,
+      "name": "P. Gollini",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 30422,
+      "name": "R. Gosens",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 31
+    },
+    {
+      "id": 30426,
+      "name": "A. Masiello",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 39
+    },
+    {
+      "id": 30428,
+      "name": "J. Palomino",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 35
+    },
+    {
+      "id": 30429,
+      "name": "R. Tolói",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 30431,
+      "name": "A. Colpani",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 30432,
+      "name": "M. de Roon",
+      "position": "MID",
+      "nationality": "Netherlands",
+      "age": 34
+    },
+    {
+      "id": 30433,
+      "name": "P. Gómez",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 30435,
+      "name": "D. Kulusevski",
+      "position": "MID",
+      "nationality": "Sweden",
+      "age": 25
+    },
+    {
+      "id": 30436,
+      "name": "M. Pessina",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30437,
+      "name": "M. Barrow",
+      "position": "ATT",
+      "nationality": "Gambia",
+      "age": 27
+    },
+    {
+      "id": 30879,
+      "name": "A. Petagna",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 31493,
+      "name": "F. Melegoni",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31555,
+      "name": "N. Haas",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 29
+    },
+    {
+      "id": 32137,
+      "name": "E. Latte Lath",
+      "position": "ATT",
+      "nationality": "Côte d'Ivoire",
+      "age": 26
+    },
+    {
+      "id": 32901,
+      "name": "João Schmidt",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 1274,
+      "name": "A. Cornelius",
+      "position": "UNK",
+      "nationality": "Denmark",
+      "age": 32
+    }
+  ],
+  "Fiorentina": [
+    {
+      "id": 211,
+      "name": "M. Vecino",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 34
+    },
+    {
+      "id": 873,
+      "name": "F. Bernardeschi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 6607,
+      "name": "G. Rodríguez",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 13582,
+      "name": "Matías Ariel Fernández Fernández",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 37
+    },
+    {
+      "id": 30392,
+      "name": "S. Ghidotti",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 30396,
+      "name": "C. Biraghi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30400,
+      "name": "V. Laurini",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 30403,
+      "name": "M. Benassi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 30414,
+      "name": "G. Simeone",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 30
+    },
+    {
+      "id": 30518,
+      "name": "G. Satalino",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 30574,
+      "name": "Cyril Théréau",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 30971,
+      "name": "G. Gori",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 30982,
+      "name": "Hrvoje Milić",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 32
+    },
+    {
+      "id": 31069,
+      "name": "M. Sportiello",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 31507,
+      "name": "R. Sottil",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31559,
+      "name": "Simone Lo Faso",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31642,
+      "name": "L. Ranieri",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 57053,
+      "name": "M. Cerofolini",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 91378,
+      "name": "Davide Astori",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 109796,
+      "name": "Vitja Valenčič",
+      "position": "MID",
+      "nationality": "Slovenia",
+      "age": 23
+    },
+    {
+      "id": 1475,
+      "name": "Bruno Gaspar",
+      "position": "DEF",
+      "nationality": "Angola",
+      "age": 32
+    },
+    {
+      "id": 1586,
+      "name": "Cristian Tello",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 34
+    },
+    {
+      "id": 2469,
+      "name": "G. Pezzella",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 34
+    },
+    {
+      "id": 6705,
+      "name": "J. Illanes",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 28
+    },
+    {
+      "id": 14642,
+      "name": "R. Bagadur",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 30
+    },
+    {
+      "id": 21081,
+      "name": "C. Tătărușanu",
+      "position": "GK",
+      "nationality": "Romania",
+      "age": 38
+    },
+    {
+      "id": 21096,
+      "name": "V. Eysseric",
+      "position": "MID",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 30391,
+      "name": "F. Brancolini",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 30434,
+      "name": "J. Iličić",
+      "position": "MID",
+      "nationality": "Slovenia",
+      "age": 37
+    },
+    {
+      "id": 30487,
+      "name": "D. Falcinelli",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30540,
+      "name": "K. Babacar",
+      "position": "UNK",
+      "nationality": "Senegal",
+      "age": 32
+    },
+    {
+      "id": 30745,
+      "name": "N. Tomović",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 38
+    },
+    {
+      "id": 30796,
+      "name": "S. De Maio",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 31035,
+      "name": "B. Drągowski",
+      "position": "GK",
+      "nationality": "Poland",
+      "age": 28
+    },
+    {
+      "id": 31258,
+      "name": "P. Hristov",
+      "position": "DEF",
+      "nationality": "Bulgaria",
+      "age": 26
+    },
+    {
+      "id": 31615,
+      "name": "G. Castrovilli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 36852,
+      "name": "R. Zekhnini",
+      "position": "MID",
+      "nationality": "Norway",
+      "age": 27
+    },
+    {
+      "id": 47260,
+      "name": "S. Cristóforo",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 32
+    },
+    {
+      "id": 51043,
+      "name": "J. Pérez",
+      "position": "ATT",
+      "nationality": "El Salvador",
+      "age": 27
+    },
+    {
+      "id": 70757,
+      "name": "M. Olivera",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 33
+    },
+    {
+      "id": 210,
+      "name": "Borja Valero",
+      "position": "MID",
+      "nationality": "Spain",
+      "age": 36
+    },
+    {
+      "id": 1615,
+      "name": "Gil Dias",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 29
+    },
+    {
+      "id": 1831,
+      "name": "A. Rebić",
+      "position": "UNK",
+      "nationality": "Croatia",
+      "age": 32
+    },
+    {
+      "id": 1850,
+      "name": "M. Badelj",
+      "position": "MID",
+      "nationality": "Croatia",
+      "age": 36
+    },
+    {
+      "id": 2817,
+      "name": "N. Milenković",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 28
+    },
+    {
+      "id": 2877,
+      "name": "C. Salcedo",
+      "position": "DEF",
+      "nationality": "Mexico",
+      "age": 32
+    },
+    {
+      "id": 5983,
+      "name": "M. Zárate",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 6736,
+      "name": "H. Toledo",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 29
+    },
+    {
+      "id": 18827,
+      "name": "C. Sánchez",
+      "position": "MID",
+      "nationality": "Colombia",
+      "age": 39
+    },
+    {
+      "id": 30398,
+      "name": "Vitor Hugo",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 30404,
+      "name": "B. Dabo",
+      "position": "MID",
+      "nationality": "Burkina Faso",
+      "age": 33
+    },
+    {
+      "id": 30409,
+      "name": "J. Veretout",
+      "position": "MID",
+      "nationality": "France",
+      "age": 32
+    },
+    {
+      "id": 30410,
+      "name": "F. Chiesa",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30456,
+      "name": "R. Saponara",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 31043,
+      "name": "K. Diks",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 29
+    },
+    {
+      "id": 31352,
+      "name": "L. Lezzerini",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 43084,
+      "name": "I. Hagi",
+      "position": "MID",
+      "nationality": "Romania",
+      "age": 27
+    },
+    {
+      "id": 57012,
+      "name": "F. Maistro",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 91429,
+      "name": "G. Rossi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 91457,
+      "name": "J. Mlakar",
+      "position": "ATT",
+      "nationality": "Slovenia",
+      "age": 27
+    }
+  ],
+  "Torino": [
+    {
+      "id": 30403,
+      "name": "M. Benassi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 30479,
+      "name": "S. Edera",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 30496,
+      "name": "C. Ansaldi",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 30498,
+      "name": "L. De Silvestri",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30502,
+      "name": "Emiliano Moretti",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 30505,
+      "name": "M. Adopo",
+      "position": "MID",
+      "nationality": "France",
+      "age": 25
+    },
+    {
+      "id": 30508,
+      "name": "V. Parigini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 30509,
+      "name": "A. Belotti",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30513,
+      "name": "B. Kone",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 25
+    },
+    {
+      "id": 30514,
+      "name": "V. Millico",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 30742,
+      "name": "Luca Rossettini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 30874,
+      "name": "M. Valdifiori",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 31156,
+      "name": "V. Milinković-Savić",
+      "position": "GK",
+      "nationality": "Serbia",
+      "age": 28
+    },
+    {
+      "id": 31226,
+      "name": "A. Buongiorno",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31853,
+      "name": "M. De Luca",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 32196,
+      "name": "M. Aramu",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 91308,
+      "name": "N. Burdisso",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 40
+    },
+    {
+      "id": 91430,
+      "name": "Domenico Coppola",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 91441,
+      "name": "L. Rivoira",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 91467,
+      "name": "Alberto Reinaudo",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 608,
+      "name": "L. Boyé",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 29
+    },
+    {
+      "id": 2286,
+      "name": "D. Zappacosta",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 2452,
+      "name": "T. Rincón",
+      "position": "MID",
+      "nationality": "Venezuela",
+      "age": 37
+    },
+    {
+      "id": 2823,
+      "name": "S. Lukić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 29
+    },
+    {
+      "id": 10230,
+      "name": "Danilo Avelar",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 35
+    },
+    {
+      "id": 10576,
+      "name": "Maximiliano Gastón López",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 18890,
+      "name": "A. Barreca",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 30476,
+      "name": "Lyanco",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 28
+    },
+    {
+      "id": 30493,
+      "name": "S. Ichazo",
+      "position": "GK",
+      "nationality": "Uruguay",
+      "age": 33
+    },
+    {
+      "id": 30500,
+      "name": "E. Ferigra",
+      "position": "DEF",
+      "nationality": "Ecuador",
+      "age": 26
+    },
+    {
+      "id": 30506,
+      "name": "D. Baselli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30510,
+      "name": "Álex Berenguer",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 30
+    },
+    {
+      "id": 30512,
+      "name": "Iago Falqué",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 35
+    },
+    {
+      "id": 30853,
+      "name": "K. Bonifazi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 30931,
+      "name": "Samuel Gustafson",
+      "position": "MID",
+      "nationality": "Sweden",
+      "age": 30
+    },
+    {
+      "id": 31075,
+      "name": "Cristian Molinaro",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 39
+    },
+    {
+      "id": 31406,
+      "name": "U. Sadiq",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 28
+    },
+    {
+      "id": 56177,
+      "name": "K. Butić",
+      "position": "ATT",
+      "nationality": "Croatia",
+      "age": 27
+    },
+    {
+      "id": 56643,
+      "name": "A. Fiordaliso",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 56960,
+      "name": "A. Zaccagno",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 2002,
+      "name": "A. Ljajić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 34
+    },
+    {
+      "id": 2216,
+      "name": "M. Niang",
+      "position": "UNK",
+      "nationality": "Senegal",
+      "age": 31
+    },
+    {
+      "id": 3419,
+      "name": "Afriyie Acquah",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 30
+    },
+    {
+      "id": 30495,
+      "name": "S. Sirigu",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 30503,
+      "name": "N. Nkoulou",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 35
+    },
+    {
+      "id": 49938,
+      "name": "J. Obi",
+      "position": "MID",
+      "nationality": "Nigeria",
+      "age": 34
+    }
+  ],
+  "Sampdoria": [
+    {
+      "id": 1633,
+      "name": "I. Strinić",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 32
+    },
+    {
+      "id": 2495,
+      "name": "D. Zapata",
+      "position": "ATT",
+      "nationality": "Colombia",
+      "age": 34
+    },
+    {
+      "id": 3449,
+      "name": "João Cláudio Gomes Ricciulli",
+      "position": "ATT",
+      "nationality": "Guinea-Bissau",
+      "age": 21
+    },
+    {
+      "id": 30447,
+      "name": "N. Murru",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 30452,
+      "name": "É. Barreto",
+      "position": "MID",
+      "nationality": "Paraguay",
+      "age": 38
+    },
+    {
+      "id": 30463,
+      "name": "F. Quagliarella",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 30612,
+      "name": "Christian Puggioni",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 30860,
+      "name": "V. Regini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30916,
+      "name": "A. Tozzo",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 31049,
+      "name": "Matías Agustín Silvestre",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 31436,
+      "name": "F. Bonazzoli",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 56682,
+      "name": "D. Ivan",
+      "position": "MID",
+      "nationality": "Slovakia",
+      "age": 29
+    },
+    {
+      "id": 56685,
+      "name": "A. Tessiore",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 56686,
+      "name": "I. Baldé",
+      "position": "ATT",
+      "nationality": "Senegal",
+      "age": 26
+    },
+    {
+      "id": 61172,
+      "name": "D. Baumgartner",
+      "position": "MID",
+      "nationality": "Slovakia",
+      "age": 27
+    },
+    {
+      "id": 68406,
+      "name": "T. Krapikas",
+      "position": "GK",
+      "nationality": "Lithuania",
+      "age": 26
+    },
+    {
+      "id": 91379,
+      "name": "Stanley Amuzie",
+      "position": "DEF",
+      "nationality": "Nigeria",
+      "age": 26
+    },
+    {
+      "id": 91398,
+      "name": "Angelo Palombo",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 91435,
+      "name": "E. Ercolano",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 91445,
+      "name": "G. Hutvágner",
+      "position": "GK",
+      "nationality": "Hungary",
+      "age": 25
+    },
+    {
+      "id": 794,
+      "name": "P. Schick",
+      "position": "ATT",
+      "nationality": "Czechia",
+      "age": 29
+    },
+    {
+      "id": 1462,
+      "name": "L. Torreira",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 29
+    },
+    {
+      "id": 2729,
+      "name": "J. Andersen",
+      "position": "DEF",
+      "nationality": "Denmark",
+      "age": 29
+    },
+    {
+      "id": 2925,
+      "name": "D. Praet",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 31
+    },
+    {
+      "id": 3000,
+      "name": "B. Bereszyński",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 33
+    },
+    {
+      "id": 3009,
+      "name": "K. Linetty",
+      "position": "MID",
+      "nationality": "Poland",
+      "age": 31
+    },
+    {
+      "id": 3013,
+      "name": "D. Kownacki",
+      "position": "ATT",
+      "nationality": "Poland",
+      "age": 28
+    },
+    {
+      "id": 10087,
+      "name": "Dodô",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 30442,
+      "name": "V. Belec",
+      "position": "GK",
+      "nationality": "Slovenia",
+      "age": 35
+    },
+    {
+      "id": 30455,
+      "name": "G. Ramírez",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 35
+    },
+    {
+      "id": 30457,
+      "name": "O. Stijepović",
+      "position": "ATT",
+      "nationality": "Montenegro",
+      "age": 26
+    },
+    {
+      "id": 30460,
+      "name": "G. Caprari",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30523,
+      "name": "G. Ferrari",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30552,
+      "name": "M. Leverbe",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 28
+    },
+    {
+      "id": 30862,
+      "name": "L. Šimić",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 29
+    },
+    {
+      "id": 31053,
+      "name": "L. Capezzi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 31403,
+      "name": "V. Verre",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 35842,
+      "name": "R. Álvarez",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 34
+    },
+    {
+      "id": 61243,
+      "name": "M. Tomič",
+      "position": "DEF",
+      "nationality": "Slovakia",
+      "age": 26
+    },
+    {
+      "id": 68419,
+      "name": "Daniel Pavlović",
+      "position": "DEF",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 34
+    },
+    {
+      "id": 30448,
+      "name": "J. Sala",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30536,
+      "name": "F. Đuričić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 33
+    },
+    {
+      "id": 30852,
+      "name": "E. Viviano",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 39
+    }
+  ],
+  "Sassuolo": [
+    {
+      "id": 219,
+      "name": "M. Politano",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 1836,
+      "name": "F. Acerbi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30517,
+      "name": "G. Pegolo",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 43
+    },
+    {
+      "id": 30518,
+      "name": "G. Satalino",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 30528,
+      "name": "Federico Peluso",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 30534,
+      "name": "Francesco Magnanelli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 30537,
+      "name": "D. Berardi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 30541,
+      "name": "A. Matri",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30614,
+      "name": "L. Antei",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 30780,
+      "name": "L. Mazzitelli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 30849,
+      "name": "N. Pierini",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 30867,
+      "name": "Simone Missiroli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 31012,
+      "name": "M. Gazzola",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 31073,
+      "name": "E. Goldaniga",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 31081,
+      "name": "F. Cassata",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 31173,
+      "name": "D. Frattesi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 91316,
+      "name": "P. Cannavaro",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 91346,
+      "name": "Davide Biondini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 91463,
+      "name": "Francesco Gabriele Scavo",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 91473,
+      "name": "Leonardo Sarzi Maddidini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 30487,
+      "name": "D. Falcinelli",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30516,
+      "name": "A. Consigli",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30520,
+      "name": "C. Adjapong",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 30524,
+      "name": "M. Lemos",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 30
+    },
+    {
+      "id": 30525,
+      "name": "Pol Lirola",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 28
+    },
+    {
+      "id": 30527,
+      "name": "Rogério",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 27
+    },
+    {
+      "id": 30532,
+      "name": "A. Duncan",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 32
+    },
+    {
+      "id": 30535,
+      "name": "S. Sensi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 30540,
+      "name": "K. Babacar",
+      "position": "UNK",
+      "nationality": "Senegal",
+      "age": 32
+    },
+    {
+      "id": 30543,
+      "name": "G. Raspadori",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 30544,
+      "name": "G. Scamacca",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 30638,
+      "name": "F. Ricci",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 30827,
+      "name": "M. Erlić",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 27
+    },
+    {
+      "id": 31041,
+      "name": "C. Dell&apos;Orco",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 31660,
+      "name": "P. Iemmello",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 32209,
+      "name": "M. Ferrini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 37172,
+      "name": "T. Letschert",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 32
+    },
+    {
+      "id": 56305,
+      "name": "L. Marson",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 91301,
+      "name": "A. Ragusa",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 34
+    }
+  ],
+  "Genoa": [
+    {
+      "id": 123,
+      "name": "P. Pellegri",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 220,
+      "name": "E. Salcedo",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 849,
+      "name": "M. Perin",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 2822,
+      "name": "D. Lazović",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 35
+    },
+    {
+      "id": 11400,
+      "name": "T. Rodríguez",
+      "position": "ATT",
+      "nationality": "Chile",
+      "age": 29
+    },
+    {
+      "id": 30414,
+      "name": "G. Simeone",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 30
+    },
+    {
+      "id": 30638,
+      "name": "F. Ricci",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 30742,
+      "name": "Luca Rossettini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 30779,
+      "name": "Oscar Hiljemark",
+      "position": "MID",
+      "nationality": "Sweden",
+      "age": 29
+    },
+    {
+      "id": 30781,
+      "name": "Miguel Veloso",
+      "position": "MID",
+      "nationality": "Portugal",
+      "age": 38
+    },
+    {
+      "id": 30820,
+      "name": "E. Lamanna",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 30844,
+      "name": "A. Galabinov",
+      "position": "ATT",
+      "nationality": "Bulgaria",
+      "age": 36
+    },
+    {
+      "id": 30985,
+      "name": "N. Spolli",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 38
+    },
+    {
+      "id": 31025,
+      "name": "Luca Rigoni",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 31392,
+      "name": "A. Rosi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 31469,
+      "name": "R. Palladino",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 31607,
+      "name": "F. Migliore",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 32116,
+      "name": "Alessio Rollandi",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 20
+    },
+    {
+      "id": 46705,
+      "name": "S. Gentiletti",
+      "position": "DEF",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 48404,
+      "name": "P. Brlek",
+      "position": "MID",
+      "nationality": "Croatia",
+      "age": 31
+    },
+    {
+      "id": 578,
+      "name": "A. Taarabt",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 36
+    },
+    {
+      "id": 1643,
+      "name": "D. Laxalt",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 32
+    },
+    {
+      "id": 5913,
+      "name": "R. Centurión",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 32
+    },
+    {
+      "id": 21431,
+      "name": "L. Landre",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 30501,
+      "name": "A. Izzo",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30768,
+      "name": "Pedro Pereira",
+      "position": "DEF",
+      "nationality": "Portugal",
+      "age": 28
+    },
+    {
+      "id": 30769,
+      "name": "D. Biraschi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 30770,
+      "name": "A. Candela",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 30778,
+      "name": "D. Bessa",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30790,
+      "name": "G. Lapadula",
+      "position": "ATT",
+      "nationality": "Peru",
+      "age": 35
+    },
+    {
+      "id": 30791,
+      "name": "G. Pandev",
+      "position": "ATT",
+      "nationality": "North Macedonia",
+      "age": 39
+    },
+    {
+      "id": 30948,
+      "name": "L. Zima",
+      "position": "GK",
+      "nationality": "Czechia",
+      "age": 31
+    },
+    {
+      "id": 31175,
+      "name": "N. Ninković",
+      "position": "ATT",
+      "nationality": "Serbia",
+      "age": 31
+    },
+    {
+      "id": 31386,
+      "name": "J. El Yamiq",
+      "position": "DEF",
+      "nationality": "Morocco",
+      "age": 33
+    },
+    {
+      "id": 40409,
+      "name": "Iuri Medeiros",
+      "position": "ATT",
+      "nationality": "Portugal",
+      "age": 31
+    },
+    {
+      "id": 44849,
+      "name": "S. Oméonga",
+      "position": "MID",
+      "nationality": "Belgium",
+      "age": 29
+    },
+    {
+      "id": 46886,
+      "name": "I. Cofie",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 33
+    },
+    {
+      "id": 56304,
+      "name": "L. Zanimacchia",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 56406,
+      "name": "R. Opruț",
+      "position": "DEF",
+      "nationality": "Romania",
+      "age": 27
+    },
+    {
+      "id": 91429,
+      "name": "G. Rossi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 1636,
+      "name": "A. Bertolacci",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30777,
+      "name": "E. Zukanović",
+      "position": "DEF",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 37
+    }
+  ],
+  "Udinese": [
+    {
+      "id": 2472,
+      "name": "R. De Paul",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 31
+    },
+    {
+      "id": 30453,
+      "name": "J. Jankto",
+      "position": "MID",
+      "nationality": "Czech Republic",
+      "age": 29
+    },
+    {
+      "id": 30574,
+      "name": "Cyril Théréau",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 30775,
+      "name": "G. Pezzella",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30797,
+      "name": "B. Nuytinck",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 35
+    },
+    {
+      "id": 30799,
+      "name": "F. Vaško",
+      "position": "DEF",
+      "nationality": "Slovakia",
+      "age": 26
+    },
+    {
+      "id": 30803,
+      "name": "A. Barák",
+      "position": "MID",
+      "nationality": "Czechia",
+      "age": 31
+    },
+    {
+      "id": 30808,
+      "name": "E. Hallfreðsson",
+      "position": "MID",
+      "nationality": "Iceland",
+      "age": 39
+    },
+    {
+      "id": 31382,
+      "name": "A. Bizzarri",
+      "position": "GK",
+      "nationality": "Argentina",
+      "age": 42
+    },
+    {
+      "id": 37009,
+      "name": "A. Balić",
+      "position": "MID",
+      "nationality": "Croatia",
+      "age": 28
+    },
+    {
+      "id": 40224,
+      "name": "P. Bochniewicz",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 29
+    },
+    {
+      "id": 43196,
+      "name": "N. Jaadi",
+      "position": "ATT",
+      "nationality": "Morocco",
+      "age": 29
+    },
+    {
+      "id": 48589,
+      "name": "A. Malle",
+      "position": "UNK",
+      "nationality": "Mali",
+      "age": 27
+    },
+    {
+      "id": 56893,
+      "name": "Davide Borsellini",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 57077,
+      "name": "F. Djoulou",
+      "position": "ATT",
+      "nationality": "Côte d'Ivoire",
+      "age": 24
+    },
+    {
+      "id": 90390,
+      "name": "Aldo Caiazza",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 20
+    },
+    {
+      "id": 91432,
+      "name": "Luis Ndreu",
+      "position": "MID",
+      "nationality": "Albania",
+      "age": 19
+    },
+    {
+      "id": 91438,
+      "name": "Andrea Donadello",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 18
+    },
+    {
+      "id": 91439,
+      "name": "M. Varešanović",
+      "position": "MID",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 26
+    },
+    {
+      "id": 115147,
+      "name": "I. Bubnjić",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 29
+    },
+    {
+      "id": 311,
+      "name": "O. Karnezis",
+      "position": "GK",
+      "nationality": "Greece",
+      "age": 37
+    },
+    {
+      "id": 8552,
+      "name": "G. Angella",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 9084,
+      "name": "R. Bajić",
+      "position": "UNK",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 31
+    },
+    {
+      "id": 10325,
+      "name": "Ewandro",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 29
+    },
+    {
+      "id": 10576,
+      "name": "Maximiliano Gastón López",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 37
+    },
+    {
+      "id": 19295,
+      "name": "M. Wagué",
+      "position": "DEF",
+      "nationality": "Mali",
+      "age": 31
+    },
+    {
+      "id": 30472,
+      "name": "Danilo Larangeira",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 38
+    },
+    {
+      "id": 30793,
+      "name": "M. Gasparini",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 30795,
+      "name": "Samir",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 31
+    },
+    {
+      "id": 30805,
+      "name": "V. Behrami",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 37
+    },
+    {
+      "id": 30807,
+      "name": "S. Fofana",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 30
+    },
+    {
+      "id": 30809,
+      "name": "S. Ingelsson",
+      "position": "MID",
+      "nationality": "Sweden",
+      "age": 27
+    },
+    {
+      "id": 30815,
+      "name": "K. Lasagna",
+      "position": "UNK",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30940,
+      "name": "Ryder Matos",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 31079,
+      "name": "F. Zampano",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 31566,
+      "name": "S. Pizzignacco",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 31585,
+      "name": "S. Pontisso",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 48378,
+      "name": "S. Widmer",
+      "position": "DEF",
+      "nationality": "Switzerland",
+      "age": 32
+    },
+    {
+      "id": 50054,
+      "name": "S. Scuffet",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 50075,
+      "name": "S. Perica",
+      "position": "UNK",
+      "nationality": "Croatia",
+      "age": 30
+    },
+    {
+      "id": 2733,
+      "name": "J. Stryger Larsen",
+      "position": "DEF",
+      "nationality": "Denmark",
+      "age": 34
+    },
+    {
+      "id": 51277,
+      "name": "Ali Adnan",
+      "position": "DEF",
+      "nationality": "Iraq",
+      "age": 32
+    }
+  ],
+  "Chievo": [
+    {
+      "id": 30548,
+      "name": "F. Cacciatore",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 30559,
+      "name": "V. Birsa",
+      "position": "MID",
+      "nationality": "Slovenia",
+      "age": 35
+    },
+    {
+      "id": 30734,
+      "name": "S. Sorrentino",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 42
+    },
+    {
+      "id": 30738,
+      "name": "B. Cesar",
+      "position": "DEF",
+      "nationality": "Slovenia",
+      "age": 39
+    },
+    {
+      "id": 30739,
+      "name": "N. Frey",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 37
+    },
+    {
+      "id": 30740,
+      "name": "P. Jaroszyński",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 31
+    },
+    {
+      "id": 30750,
+      "name": "P. Hetemaj",
+      "position": "MID",
+      "nationality": "Finland",
+      "age": 38
+    },
+    {
+      "id": 30754,
+      "name": "N. Rigoni",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30755,
+      "name": "E. Vignato",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 30758,
+      "name": "Riccardo Meggiorini",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30759,
+      "name": "S. Pellissier",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 30952,
+      "name": "D. Dainelli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 31013,
+      "name": "M. Gobbi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 39
+    },
+    {
+      "id": 31152,
+      "name": "Alejandro Rodríguez",
+      "position": "ATT",
+      "nationality": "Spain",
+      "age": 32
+    },
+    {
+      "id": 31837,
+      "name": "E. Sbampato",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 32100,
+      "name": "M. Troiani",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 56574,
+      "name": "Flippo Pavoni",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 22
+    },
+    {
+      "id": 91310,
+      "name": "Alessandro Gamberini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 91415,
+      "name": "Gennaro Sardo",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 91452,
+      "name": "Mohamed Rabbas",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 25
+    },
+    {
+      "id": 953,
+      "name": "G. Gaudino",
+      "position": "MID",
+      "nationality": "Germany",
+      "age": 29
+    },
+    {
+      "id": 20847,
+      "name": "K. Yamga",
+      "position": "MID",
+      "nationality": "France",
+      "age": 29
+    },
+    {
+      "id": 30567,
+      "name": "L. Castro",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 36
+    },
+    {
+      "id": 30681,
+      "name": "M. Rigione",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30732,
+      "name": "A. Seculin",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 30736,
+      "name": "M. Bani",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30744,
+      "name": "S. Tanasijević",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 28
+    },
+    {
+      "id": 30745,
+      "name": "N. Tomović",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 38
+    },
+    {
+      "id": 30747,
+      "name": "F. Depaoli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30749,
+      "name": "Emanuele Giaccherini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 30752,
+      "name": "S. Kiyine",
+      "position": "MID",
+      "nationality": "Morocco",
+      "age": 28
+    },
+    {
+      "id": 30753,
+      "name": "M. Léris",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 27
+    },
+    {
+      "id": 30760,
+      "name": "M. Pucciarelli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30761,
+      "name": "M. Stępiński",
+      "position": "ATT",
+      "nationality": "Poland",
+      "age": 30
+    },
+    {
+      "id": 30782,
+      "name": "I. Radovanović",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 36
+    },
+    {
+      "id": 31031,
+      "name": "R. Inglese",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 31334,
+      "name": "L. Garritano",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 56406,
+      "name": "R. Opruț",
+      "position": "DEF",
+      "nationality": "Romania",
+      "age": 27
+    },
+    {
+      "id": 56864,
+      "name": "A. Confente",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 56872,
+      "name": "C. Pogliano",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 2109,
+      "name": "S. Bastien",
+      "position": "MID",
+      "nationality": "Congo DR",
+      "age": 29
+    }
+  ],
+  "Bologna": [
+    {
+      "id": 765,
+      "name": "A. Mirante",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 41
+    },
+    {
+      "id": 1599,
+      "name": "V. Torosidis",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 36
+    },
+    {
+      "id": 8637,
+      "name": "C. Keita",
+      "position": "DEF",
+      "nationality": "Mali",
+      "age": 27
+    },
+    {
+      "id": 30466,
+      "name": "Angelo da Costa",
+      "position": "GK",
+      "nationality": "Brazil",
+      "age": 38
+    },
+    {
+      "id": 30468,
+      "name": "A. Santurro",
+      "position": "GK",
+      "nationality": "Dominican Republic",
+      "age": 31
+    },
+    {
+      "id": 30473,
+      "name": "I. Mbaye",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 29
+    },
+    {
+      "id": 30486,
+      "name": "M. Destro",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30488,
+      "name": "R. Orsolini",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30489,
+      "name": "R. Palacio",
+      "position": "ATT",
+      "nationality": "Argentina",
+      "age": 40
+    },
+    {
+      "id": 30709,
+      "name": "F. Brignani",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 30796,
+      "name": "S. De Maio",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 31044,
+      "name": "D. Maietta",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 31098,
+      "name": "F. Ravaglia",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31132,
+      "name": "Daniele Gastaldello",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 31136,
+      "name": "S. Romagnoli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 31400,
+      "name": "K. Michael",
+      "position": "MID",
+      "nationality": "Nigeria",
+      "age": 26
+    },
+    {
+      "id": 31878,
+      "name": "C. Mutton",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 50798,
+      "name": "O. Okwonkwo",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 27
+    },
+    {
+      "id": 91442,
+      "name": "Lorenzo Bruzzi",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 91462,
+      "name": "Emanuele Monari",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 334,
+      "name": "S. Verdi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 1331,
+      "name": "B. Petković",
+      "position": "UNK",
+      "nationality": "Croatia",
+      "age": 31
+    },
+    {
+      "id": 2560,
+      "name": "E. Pulgar",
+      "position": "MID",
+      "nationality": "Chile",
+      "age": 32
+    },
+    {
+      "id": 2833,
+      "name": "G. González",
+      "position": "DEF",
+      "nationality": "Costa Rica",
+      "age": 37
+    },
+    {
+      "id": 2854,
+      "name": "F. Helander",
+      "position": "DEF",
+      "nationality": "Sweden",
+      "age": 32
+    },
+    {
+      "id": 2855,
+      "name": "E. Krafth",
+      "position": "DEF",
+      "nationality": "Sweden",
+      "age": 31
+    },
+    {
+      "id": 8540,
+      "name": "F. Avenatti",
+      "position": "ATT",
+      "nationality": "Uruguay",
+      "age": 32
+    },
+    {
+      "id": 18799,
+      "name": "A. Masina",
+      "position": "DEF",
+      "nationality": "Morocco",
+      "age": 31
+    },
+    {
+      "id": 30477,
+      "name": "G. Donsah",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 28
+    },
+    {
+      "id": 30478,
+      "name": "B. Džemaili",
+      "position": "MID",
+      "nationality": "Switzerland",
+      "age": 37
+    },
+    {
+      "id": 30480,
+      "name": "Ladislav Krejčí I",
+      "position": "MID",
+      "nationality": "Czechia",
+      "age": 33
+    },
+    {
+      "id": 30481,
+      "name": "Á. Nagy",
+      "position": "MID",
+      "nationality": "Hungary",
+      "age": 30
+    },
+    {
+      "id": 30482,
+      "name": "A. Poli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 30485,
+      "name": "J. Valencia",
+      "position": "MID",
+      "nationality": "Colombia",
+      "age": 27
+    },
+    {
+      "id": 30539,
+      "name": "F. Di Francesco",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 30625,
+      "name": "L. Crisetig",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 31517,
+      "name": "G. Frabotta",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31553,
+      "name": "C. Falletti",
+      "position": "MID",
+      "nationality": "Uruguay",
+      "age": 33
+    },
+    {
+      "id": 31733,
+      "name": "F. Falco",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 50795,
+      "name": "S. Taïder",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 31
+    }
+  ],
+  "Cagliari": [
+    {
+      "id": 30547,
+      "name": "Rafael",
+      "position": "GK",
+      "nationality": "Brazil",
+      "age": 39
+    },
+    {
+      "id": 30553,
+      "name": "C. Lykogiannis",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 32
+    },
+    {
+      "id": 30555,
+      "name": "F. Pisacane",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 30556,
+      "name": "F. Romagna",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30558,
+      "name": "N. Barella",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30561,
+      "name": "A. Deiola",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 30563,
+      "name": "P. Faragò",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 30569,
+      "name": "S. Padoin",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30573,
+      "name": "L. Pavoletti",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30735,
+      "name": "M. Andreolli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30945,
+      "name": "L. Crosta",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 30970,
+      "name": "N. Giannetti",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 31141,
+      "name": "D. Dessena",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 56315,
+      "name": "Mattia Pitzalis",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 22
+    },
+    {
+      "id": 56318,
+      "name": "F. Caligara",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 90435,
+      "name": "Joseph Tetteh",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 20
+    },
+    {
+      "id": 91322,
+      "name": "A. Cossu",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 41
+    },
+    {
+      "id": 91323,
+      "name": "R. Daga",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 91402,
+      "name": "Matteo Volteggi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 91444,
+      "name": "N. Cabras",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 20
+    },
+    {
+      "id": 2104,
+      "name": "S. Miangué",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 28
+    },
+    {
+      "id": 10553,
+      "name": "Leandro Castán da Silva",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 36
+    },
+    {
+      "id": 30464,
+      "name": "M. Sau",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30546,
+      "name": "A. Cragno",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 30549,
+      "name": "L. Ceppitelli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 30560,
+      "name": "L. Cigarini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 39
+    },
+    {
+      "id": 30562,
+      "name": "J. Galvão",
+      "position": "UNK",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30564,
+      "name": "A. Ioniţă",
+      "position": "MID",
+      "nationality": "Moldova",
+      "age": 35
+    },
+    {
+      "id": 30565,
+      "name": "R. Ladinetti",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 31061,
+      "name": "Diego Farias",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 35
+    },
+    {
+      "id": 31072,
+      "name": "M. Capuano",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 31404,
+      "name": "Kwang-Song Han",
+      "position": "ATT",
+      "nationality": "Korea DPR",
+      "age": 27
+    },
+    {
+      "id": 31405,
+      "name": "F. Melchiorri",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 47493,
+      "name": "D. Čop",
+      "position": "ATT",
+      "nationality": "Croatia",
+      "age": 35
+    },
+    {
+      "id": 56324,
+      "name": "D. Ceter",
+      "position": "ATT",
+      "nationality": "Colombia",
+      "age": 28
+    },
+    {
+      "id": 91319,
+      "name": "Marco Borriello",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 91324,
+      "name": "Andrea Cadili",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 91325,
+      "name": "A. Molberg",
+      "position": "DEF",
+      "nationality": "Denmark",
+      "age": 26
+    },
+    {
+      "id": 91326,
+      "name": "L. Gagliano",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 91433,
+      "name": "C. Kouadio",
+      "position": "DEF",
+      "nationality": "Côte d'Ivoire",
+      "age": 25
+    },
+    {
+      "id": 50808,
+      "name": "G. van der Wiel",
+      "position": "DEF",
+      "nationality": "Netherlands",
+      "age": 33
+    }
+  ],
+  "Spal": [
+    {
+      "id": 312,
+      "name": "A. Meret",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30837,
+      "name": "L. Mora",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30856,
+      "name": "Felipe",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 36
+    },
+    {
+      "id": 30866,
+      "name": "M. Lazzari",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30871,
+      "name": "P. Schiattarella",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30877,
+      "name": "S. Floccari",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 31021,
+      "name": "A. Grassi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 31103,
+      "name": "F. Della Giovanna",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31385,
+      "name": "M. Cremonesi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 31436,
+      "name": "F. Bonazzoli",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 31612,
+      "name": "M. Arini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 31655,
+      "name": "Luca Rizzo",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 56203,
+      "name": "Eros Schiavon",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 56607,
+      "name": "G. Marchegiani",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 56871,
+      "name": "Daniele Gasparetto",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 91359,
+      "name": "L. Polvani",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 91404,
+      "name": "B. Dramé",
+      "position": "DEF",
+      "nationality": "Senegal",
+      "age": 36
+    },
+    {
+      "id": 91428,
+      "name": "Pio Francesco Russo",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 21
+    },
+    {
+      "id": 91434,
+      "name": "Giacomo Boccafoglia",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 20
+    },
+    {
+      "id": 91443,
+      "name": "Luca Seri",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 21
+    },
+    {
+      "id": 91360,
+      "name": "L. Ubaldi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 3005,
+      "name": "T. Cionek",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 39
+    },
+    {
+      "id": 31242,
+      "name": "M. Vitale",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 31090,
+      "name": "F. Viviani",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 595,
+      "name": "M. Oikonomou",
+      "position": "DEF",
+      "nationality": "Greece",
+      "age": 32
+    },
+    {
+      "id": 30865,
+      "name": "J. Kurtič",
+      "position": "MID",
+      "nationality": "Slovenia",
+      "age": 36
+    },
+    {
+      "id": 51207,
+      "name": "Éverton Luiz",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": 91440,
+      "name": "Renato Vischi",
+      "position": "DEF",
+      "nationality": "Brazil",
+      "age": 27
+    },
+    {
+      "id": 30987,
+      "name": "S. Väisänen",
+      "position": "DEF",
+      "nationality": "Finland",
+      "age": 31
+    },
+    {
+      "id": 48163,
+      "name": "P. Konaté",
+      "position": "DEF",
+      "nationality": "Guinea",
+      "age": 31
+    },
+    {
+      "id": 56193,
+      "name": "A. Bellemo",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 30863,
+      "name": "F. Vicari",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 56558,
+      "name": "S. Esposito",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 30851,
+      "name": "G. Poluzzi",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 31076,
+      "name": "B. Salamon",
+      "position": "DEF",
+      "nationality": "Poland",
+      "age": 34
+    },
+    {
+      "id": 30862,
+      "name": "L. Šimić",
+      "position": "DEF",
+      "nationality": "Croatia",
+      "age": 29
+    },
+    {
+      "id": 2985,
+      "name": "A. Gomis",
+      "position": "GK",
+      "nationality": "Senegal",
+      "age": 32
+    },
+    {
+      "id": 91431,
+      "name": "Gabriel Barbosa",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 26
+    },
+    {
+      "id": 30474,
+      "name": "F. Mattiello",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 30876,
+      "name": "M. Antenucci",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 41
+    },
+    {
+      "id": 30854,
+      "name": "F. Costa",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 30878,
+      "name": "A. Paloschi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 91319,
+      "name": "Marco Borriello",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 37
+    }
+  ],
+  "Crotone": [
+    {
+      "id": 14292,
+      "name": "M. Acosty",
+      "position": "ATT",
+      "nationality": "Ghana",
+      "age": 34
+    },
+    {
+      "id": 30638,
+      "name": "F. Ricci",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 30810,
+      "name": "R. Mandragora",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 30974,
+      "name": "A. Cordaz",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 30976,
+      "name": "Giacomo Figliuzzi",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 30977,
+      "name": "F. Latella",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 30978,
+      "name": "G. Cuomo",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 30989,
+      "name": "A. Barberis",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30995,
+      "name": "A. Nalini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 31237,
+      "name": "G. Crociata",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 31336,
+      "name": "Mariano Julio Izco",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 39
+    },
+    {
+      "id": 31652,
+      "name": "O. Kragl",
+      "position": "DEF",
+      "nationality": "Germany",
+      "age": 35
+    },
+    {
+      "id": 31746,
+      "name": "M. Tumminello",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 43030,
+      "name": "Adrian Marius Stoian",
+      "position": "ATT",
+      "nationality": "Romania",
+      "age": 31
+    },
+    {
+      "id": 47112,
+      "name": "A. Romero",
+      "position": "MID",
+      "nationality": "Venezuela",
+      "age": 28
+    },
+    {
+      "id": 56297,
+      "name": "L. Marković",
+      "position": "ATT",
+      "nationality": "Serbia",
+      "age": 23
+    },
+    {
+      "id": 56787,
+      "name": "M. Nicoletti",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 56918,
+      "name": "G. Borello",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 90411,
+      "name": "A. Viscovo",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 24
+    },
+    {
+      "id": 209617,
+      "name": "Massimo Assisi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 20
+    },
+    {
+      "id": 31134,
+      "name": "B. Martella",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 31072,
+      "name": "M. Capuano",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30997,
+      "name": "N. Zanellato",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 56912,
+      "name": "P. Giannotti",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31003,
+      "name": "S. Nwankwo",
+      "position": "ATT",
+      "nationality": "Nigeria",
+      "age": 33
+    },
+    {
+      "id": 91447,
+      "name": "A. Kotnik",
+      "position": "MID",
+      "nationality": "Slovenia",
+      "age": 30
+    },
+    {
+      "id": 31077,
+      "name": "S. Simič",
+      "position": "DEF",
+      "nationality": "Czechia",
+      "age": 30
+    },
+    {
+      "id": 47249,
+      "name": "L. Cabrera",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 34
+    },
+    {
+      "id": 56446,
+      "name": "C. Suljic",
+      "position": "MID",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 29
+    },
+    {
+      "id": 30975,
+      "name": "M. Festa",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30984,
+      "name": "M. Sampirisi",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 8581,
+      "name": "N. Dussenne",
+      "position": "DEF",
+      "nationality": "Belgium",
+      "age": 33
+    },
+    {
+      "id": 30922,
+      "name": "M. Faraoni",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30990,
+      "name": "Ahmed Benali",
+      "position": "MID",
+      "nationality": "Libya",
+      "age": 33
+    },
+    {
+      "id": 68419,
+      "name": "Daniel Pavlović",
+      "position": "DEF",
+      "nationality": "Bosnia and Herzegovina",
+      "age": 34
+    },
+    {
+      "id": 46746,
+      "name": "A. Budimir",
+      "position": "ATT",
+      "nationality": "Croatia",
+      "age": 34
+    },
+    {
+      "id": 11096,
+      "name": "Aleksandăr Tonev",
+      "position": "ATT",
+      "nationality": "Bulgaria",
+      "age": 30
+    },
+    {
+      "id": 31095,
+      "name": "M. Trotta",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 277,
+      "name": "M. Diaby",
+      "position": "ATT",
+      "nationality": "France",
+      "age": 26
+    },
+    {
+      "id": 30397,
+      "name": "F. Ceccherini",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30996,
+      "name": "M. Rohdén",
+      "position": "MID",
+      "nationality": "Sweden",
+      "age": 34
+    },
+    {
+      "id": 48566,
+      "name": "A. Ajeti",
+      "position": "DEF",
+      "nationality": "Albania",
+      "age": 32
+    }
+  ],
+  "Verona": [
+    {
+      "id": 6656,
+      "name": "F. Zuculini",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 33
+    },
+    {
+      "id": 30792,
+      "name": "Nícolas",
+      "position": "GK",
+      "nationality": "Brazil",
+      "age": 37
+    },
+    {
+      "id": 30859,
+      "name": "M. Fares",
+      "position": "MID",
+      "nationality": "Algeria",
+      "age": 29
+    },
+    {
+      "id": 30875,
+      "name": "M. Valoti",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30919,
+      "name": "M. Bianchetti",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30928,
+      "name": "A. Danzi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 30937,
+      "name": "M. Zaccagni",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 30941,
+      "name": "Giampaolo Pazzini",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 31388,
+      "name": "G. Felicioli",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 28
+    },
+    {
+      "id": 31416,
+      "name": "Nicolò Cherubin",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 31427,
+      "name": "S. Calvano",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 31455,
+      "name": "E. Bearzotti",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 27
+    },
+    {
+      "id": 31457,
+      "name": "M. Fossati",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 31604,
+      "name": "A. Caracciolo",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 31636,
+      "name": "D. Boldor",
+      "position": "DEF",
+      "nationality": "Romania",
+      "age": 30
+    },
+    {
+      "id": 61327,
+      "name": "Šimon Štefanec",
+      "position": "MID",
+      "nationality": "Slovakia",
+      "age": 25
+    },
+    {
+      "id": 70351,
+      "name": "M. Büchel",
+      "position": "MID",
+      "nationality": "Liechtenstein",
+      "age": 34
+    },
+    {
+      "id": 91311,
+      "name": "N. Borghetto",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 91312,
+      "name": "F. Coppola",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 43
+    },
+    {
+      "id": 91313,
+      "name": "Simon Laner",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 854,
+      "name": "M. Cáceres",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 38
+    },
+    {
+      "id": 877,
+      "name": "M. Kean",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 25
+    },
+    {
+      "id": 1331,
+      "name": "B. Petković",
+      "position": "UNK",
+      "nationality": "Croatia",
+      "age": 31
+    },
+    {
+      "id": 1601,
+      "name": "J. Vuković",
+      "position": "DEF",
+      "nationality": "Serbia",
+      "age": 36
+    },
+    {
+      "id": 1860,
+      "name": "Rômulo Souza Orestes Caldeira",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 2914,
+      "name": "Lee Seung-Woo",
+      "position": "MID",
+      "nationality": "Korea Republic",
+      "age": 27
+    },
+    {
+      "id": 6008,
+      "name": "B. Zuculini",
+      "position": "MID",
+      "nationality": "Argentina",
+      "age": 32
+    },
+    {
+      "id": 11598,
+      "name": "A. González",
+      "position": "DEF",
+      "nationality": "Uruguay",
+      "age": 37
+    },
+    {
+      "id": 19386,
+      "name": "R. Aarons",
+      "position": "ATT",
+      "nationality": "Jamaica",
+      "age": 30
+    },
+    {
+      "id": 20855,
+      "name": "S. Souprayen",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 36
+    },
+    {
+      "id": 30446,
+      "name": "A. Ferrari",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 30778,
+      "name": "D. Bessa",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30915,
+      "name": "M. Silvestri",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30924,
+      "name": "M. Kumbulla",
+      "position": "DEF",
+      "nationality": "Albania",
+      "age": 25
+    },
+    {
+      "id": 30940,
+      "name": "Ryder Matos",
+      "position": "ATT",
+      "nationality": "Brazil",
+      "age": 32
+    },
+    {
+      "id": 30943,
+      "name": "Ľ. Tupta",
+      "position": "ATT",
+      "nationality": "Slovakia",
+      "age": 27
+    },
+    {
+      "id": 47500,
+      "name": "D. Verde",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 50140,
+      "name": "Thomas Heurtaux",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 33
+    },
+    {
+      "id": 50158,
+      "name": "Alessio Cerci",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 34
+    }
+  ],
+  "Benevento": [
+    {
+      "id": 1852,
+      "name": "D. Cataldi",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 31
+    },
+    {
+      "id": 26811,
+      "name": "Nikola Jakimovski",
+      "position": "MID",
+      "nationality": "North Macedonia",
+      "age": 32
+    },
+    {
+      "id": 30421,
+      "name": "B. Djimsiti",
+      "position": "DEF",
+      "nationality": "Albania",
+      "age": 32
+    },
+    {
+      "id": 30595,
+      "name": "M. Eramo",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30610,
+      "name": "P. Gori",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 42
+    },
+    {
+      "id": 30612,
+      "name": "Christian Puggioni",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 40
+    },
+    {
+      "id": 30614,
+      "name": "L. Antei",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 30616,
+      "name": "A. Costa",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 30626,
+      "name": "L. Del Pinto",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30631,
+      "name": "Giovanni Volpicelli",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 31163,
+      "name": "E. Padella",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 31202,
+      "name": "Luca Sparandeo",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 23
+    },
+    {
+      "id": 31245,
+      "name": "Karamoko Cissé",
+      "position": "ATT",
+      "nationality": "Guinea",
+      "age": 34
+    },
+    {
+      "id": 31494,
+      "name": "Ledian Memushaj",
+      "position": "MID",
+      "nationality": "Albania",
+      "age": 36
+    },
+    {
+      "id": 32016,
+      "name": "Fabrizio Melara",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 48840,
+      "name": "Thomas Candeloro",
+      "position": "GK",
+      "nationality": "Switzerland",
+      "age": 19
+    },
+    {
+      "id": 56878,
+      "name": "A. De Falco",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 56974,
+      "name": "Alessio Donnarumma",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 22
+    },
+    {
+      "id": 91427,
+      "name": "V. Pinto",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 91573,
+      "name": "Loris Crudo",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 19
+    },
+    {
+      "id": 30806,
+      "name": "M. D&apos;Alessandro",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 30635,
+      "name": "M. Coda",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 37
+    },
+    {
+      "id": 30632,
+      "name": "S. Armenteros",
+      "position": "ATT",
+      "nationality": "Sweden",
+      "age": 34
+    },
+    {
+      "id": 31377,
+      "name": "C. Lombardi",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 31222,
+      "name": "R. Piscitelli",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30508,
+      "name": "V. Parigini",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 29
+    },
+    {
+      "id": 30639,
+      "name": "S. Sanogo",
+      "position": "MID",
+      "nationality": "Côte d'Ivoire",
+      "age": 24
+    },
+    {
+      "id": 31029,
+      "name": "F. Ceravolo",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 2366,
+      "name": "A. Toșca",
+      "position": "DEF",
+      "nationality": "Romania",
+      "age": 33
+    },
+    {
+      "id": 56795,
+      "name": "M. Kanoute",
+      "position": "ATT",
+      "nationality": "Senegal",
+      "age": 32
+    },
+    {
+      "id": 31171,
+      "name": "A. Ciciretti",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30629,
+      "name": "N. Viola",
+      "position": "MID",
+      "nationality": "Italy",
+      "age": 36
+    },
+    {
+      "id": 31483,
+      "name": "A. Gravillon",
+      "position": "DEF",
+      "nationality": "Guadeloupe",
+      "age": 27
+    },
+    {
+      "id": 31637,
+      "name": "M. Camporese",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30619,
+      "name": "B. Gyamfi",
+      "position": "DEF",
+      "nationality": "Ghana",
+      "age": 29
+    },
+    {
+      "id": 31725,
+      "name": "F. Lucioni",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 38
+    },
+    {
+      "id": 30538,
+      "name": "E. Brignola",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 26
+    },
+    {
+      "id": 31730,
+      "name": "L. Venuti",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 30
+    },
+    {
+      "id": 91426,
+      "name": "Christian Rutjens",
+      "position": "DEF",
+      "nationality": "Spain",
+      "age": 27
+    },
+    {
+      "id": 31538,
+      "name": "A. Brignoli",
+      "position": "GK",
+      "nationality": "Italy",
+      "age": 34
+    },
+    {
+      "id": 31660,
+      "name": "P. Iemmello",
+      "position": "ATT",
+      "nationality": "Italy",
+      "age": 33
+    },
+    {
+      "id": 30618,
+      "name": "G. Di Chiara",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 32
+    },
+    {
+      "id": 30620,
+      "name": "G. Letizia",
+      "position": "DEF",
+      "nationality": "Italy",
+      "age": 35
+    },
+    {
+      "id": 49908,
+      "name": "Guilherme Marques",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 34
+    },
+    {
+      "id": 31082,
+      "name": "R. Chibsah",
+      "position": "MID",
+      "nationality": "Ghana",
+      "age": 32
+    },
+    {
+      "id": 19376,
+      "name": "A. Lazaar",
+      "position": "DEF",
+      "nationality": "Morocco",
+      "age": 31
+    },
+    {
+      "id": 50785,
+      "name": "B. Sagna",
+      "position": "DEF",
+      "nationality": "France",
+      "age": 38
+    },
+    {
+      "id": 30536,
+      "name": "F. Đuričić",
+      "position": "MID",
+      "nationality": "Serbia",
+      "age": 33
+    },
+    {
+      "id": 50646,
+      "name": "C. Diabaté",
+      "position": "ATT",
+      "nationality": "Mali",
+      "age": 35
+    },
+    {
+      "id": 31635,
+      "name": "J. Billong",
+      "position": "DEF",
+      "nationality": "Cameroon",
+      "age": 31
+    },
+    {
+      "id": 30442,
+      "name": "V. Belec",
+      "position": "GK",
+      "nationality": "Slovenia",
+      "age": 35
+    },
+    {
+      "id": 31562,
+      "name": "G. Puşcaş",
+      "position": "ATT",
+      "nationality": "Romania",
+      "age": 29
+    },
+    {
+      "id": 30813,
+      "name": "Sandro Raniere Guimarães Cordeiro",
+      "position": "MID",
+      "nationality": "Brazil",
+      "age": 36
+    }
+  ]
+}

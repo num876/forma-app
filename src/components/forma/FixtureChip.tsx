@@ -1,0 +1,54 @@
+import { cn } from "@/lib/utils";
+import Link from "next/link";
+import { motion } from "framer-motion";
+
+export type FixtureProps = {
+  id?: number;
+  home: string;
+  homeLogo?: string;
+  away: string;
+  awayLogo?: string;
+  date: string;
+  competition: string;
+  homeScore?: number;
+  awayScore?: number;
+  status?: string;
+};
+
+export function FixtureChip({ match, className }: { match: FixtureProps, className?: string }) {
+  const played = match.homeScore !== undefined && match.awayScore !== undefined;
+  
+  const content = (
+    <motion.div 
+      whileHover={{ scale: 1.02, y: -4 }}
+      whileTap={{ scale: 0.98 }}
+      transition={{ type: "spring", stiffness: 400, damping: 25 }}
+      className={cn("flex-shrink-0 flex flex-col p-4 border-[3px] border-border bg-card shadow-neo min-w-[220px]", className)}
+    >
+      <div className="text-[0.65rem] text-primary uppercase tracking-widest mb-3 flex items-center justify-between font-black border-b-[3px] border-border pb-2">
+        <span className="truncate pr-2">{match.competition}</span>
+        {played ? (
+          <span className="font-black text-background bg-foreground px-1.5 py-0.5">{match.homeScore} - {match.awayScore}</span>
+        ) : (
+          <span className="text-foreground">{match.date}</span>
+        )}
+      </div>
+      
+      <div className="flex flex-col gap-2 text-sm font-black uppercase tracking-wider">
+        <div className="flex items-center gap-3">
+          {match.homeLogo && <img src={match.homeLogo} alt="" className="w-5 h-5 object-contain" />}
+          <span className="truncate text-foreground">{match.home}</span>
+        </div>
+        <div className="flex items-center gap-3">
+          {match.awayLogo && <img src={match.awayLogo} alt="" className="w-5 h-5 object-contain" />}
+          <span className="truncate text-foreground">{match.away}</span>
+        </div>
+      </div>
+    </motion.div>
+  );
+
+  if (match.id) {
+    return <Link href={`/match/${match.id}`} className="block">{content}</Link>;
+  }
+  return content;
+}
