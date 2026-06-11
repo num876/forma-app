@@ -37,27 +37,24 @@ export default function Home() {
 
   useEffect(() => {
     const stored = localStorage.getItem("forma_preferences");
-    if (!stored) {
-      router.push("/onboarding");
-    } else {
-      const parsedPrefs = JSON.parse(stored);
-      setPreferences(parsedPrefs);
-      setLoading(false);
+    const parsedPrefs = stored ? JSON.parse(stored) : { clubs: [] };
+    
+    setPreferences(parsedPrefs);
+    setLoading(false);
+    
+    // Fetch Live News
+    fetch("/api/news")
+      .then(res => res.json())
+      .then(data => setNews(data))
+      .catch(console.error);
       
-      // Fetch Live News
-      fetch("/api/news")
-        .then(res => res.json())
-        .then(data => setNews(data))
-        .catch(console.error);
-        
-      // Fetch Live Fixtures
-      const clubsQuery = parsedPrefs.clubs?.length > 0 ? `?clubs=${parsedPrefs.clubs.join(',')}` : '';
-      fetch(`/api/fixtures${clubsQuery}`)
-        .then(res => res.json())
-        .then(data => setFixtures(data))
-        .catch(console.error);
-    }
-  }, [router]);
+    // Fetch Live Fixtures
+    const clubsQuery = parsedPrefs.clubs?.length > 0 ? `?clubs=${parsedPrefs.clubs.join(',')}` : '';
+    fetch(`/api/fixtures${clubsQuery}`)
+      .then(res => res.json())
+      .then(data => setFixtures(data))
+      .catch(console.error);
+  }, []);
 
   if (loading) return null;
 
