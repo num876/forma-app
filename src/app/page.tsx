@@ -48,12 +48,50 @@ export default function Home() {
       .then(data => setNews(data))
       .catch(console.error);
       
-    // Fetch Live Fixtures
+    // Fetch Fixtures & Live
     const clubsQuery = parsedPrefs.clubs?.length > 0 ? `?clubs=${parsedPrefs.clubs.join(',')}` : '';
-    fetch(`/api/fixtures${clubsQuery}`)
-      .then(res => res.json())
-      .then(data => setFixtures(data))
-      .catch(console.error);
+    
+    const fetchFixtures = async () => {
+      try {
+        const [fixRes, liveRes] = await Promise.all([
+          fetch(`/api/fixtures${clubsQuery}`),
+          fetch('/api/live')
+        ]);
+        const fixData = await fixRes.json();
+        const liveData = await liveRes.json();
+        
+        let merged = [...(fixData || [])];
+        if (liveData && liveData.response) {
+           const liveMatches = liveData.response.map((m: any) => ({
+             id: m.fixture.id,
+             home: m.teams.home.name,
+             homeLogo: m.teams.home.logo,
+             away: m.teams.away.name,
+             awayLogo: m.teams.away.logo,
+             date: `Live - ${m.fixture.status.elapsed || 0}'`,
+             competition: m.league.name,
+             homeScore: m.goals.home ?? 0,
+             awayScore: m.goals.away ?? 0,
+             status: m.fixture.status.short
+           }));
+           
+           liveMatches.forEach((lm: any) => {
+             const idx = merged.findIndex(f => f.id === lm.id);
+             if (idx !== -1) merged[idx] = lm;
+             else merged.unshift(lm);
+           });
+        }
+        
+        const unique = Array.from(new Map(merged.map(item => [item.id, item])).values());
+        setFixtures(unique);
+      } catch (err) {
+        console.error(err);
+      }
+    };
+
+    fetchFixtures();
+    const interval = setInterval(fetchFixtures, 60000);
+    return () => clearInterval(interval);
   }, []);
 
   if (loading) return null;

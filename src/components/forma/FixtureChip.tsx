@@ -27,11 +27,16 @@ export function FixtureChip({ match, className }: { match: FixtureProps, classNa
     >
       <div className="text-[0.65rem] text-primary uppercase tracking-widest mb-3 flex items-center justify-between font-black border-b-[3px] border-border pb-2">
         <span className="truncate pr-2">{match.competition}</span>
-        {played ? (
-          <span className="font-black text-background bg-foreground px-1.5 py-0.5">{match.homeScore} - {match.awayScore}</span>
-        ) : (
-          <span className="text-foreground">{match.date}</span>
-        )}
+        <div className="flex items-center gap-2">
+          {match.date.startsWith('Live') && (
+            <span className="text-red-500 font-bold animate-pulse">{match.date}</span>
+          )}
+          {played ? (
+            <span className="font-black text-background bg-foreground px-1.5 py-0.5">{match.homeScore} - {match.awayScore}</span>
+          ) : (
+            <span className="text-foreground">{match.date}</span>
+          )}
+        </div>
       </div>
       
       <div className="flex flex-col gap-2 text-sm font-black uppercase tracking-wider">

@@ -14,7 +14,7 @@ export async function GET() {
   try {
     const res = await fetch(`${API_URL}/fixtures?live=${TARGET_LEAGUES}`, {
       headers: { "x-apisports-key": API_FOOTBALL_KEY },
-      cache: "no-store", // Ensure real-time response
+      next: { revalidate: 60 }, // Cache for 60s to avoid rate limit exhaustion
     });
     
     if (!res.ok) {
