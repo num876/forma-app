@@ -72,7 +72,8 @@ export default function Home() {
              competition: m.league.name,
              homeScore: m.goals.home ?? 0,
              awayScore: m.goals.away ?? 0,
-             status: m.fixture.status.short
+             status: m.fixture.status.short,
+             events: m.events || []
            }));
            
            liveMatches.forEach((lm: any) => {

@@ -13,10 +13,13 @@ export type FixtureProps = {
   homeScore?: number;
   awayScore?: number;
   status?: string;
+  events?: any[];
 };
 
 export function FixtureChip({ match, className }: { match: FixtureProps, className?: string }) {
   const played = match.homeScore !== undefined && match.awayScore !== undefined;
+  
+  const latestEvent = match.events?.slice().reverse().find(e => e.type === "Goal" || e.detail === "Red Card");
   
   const content = (
     <motion.div 
@@ -49,6 +52,17 @@ export function FixtureChip({ match, className }: { match: FixtureProps, classNa
           <span className="truncate text-foreground">{match.away}</span>
         </div>
       </div>
+
+      {latestEvent && (
+        <div className="mt-3 pt-2 text-[0.65rem] font-bold border-t-[2px] border-border/50 flex items-center gap-2 overflow-hidden w-full whitespace-nowrap text-muted-foreground">
+          <span className={latestEvent.type === "Goal" ? "text-primary shrink-0" : "text-red-500 shrink-0"}>
+            {latestEvent.time.elapsed}' {latestEvent.type === "Goal" ? "⚽" : "🟥"}
+          </span>
+          <span className="truncate animate-marquee">
+            {latestEvent.player.name}
+          </span>
+        </div>
+      )}
     </motion.div>
   );
 
