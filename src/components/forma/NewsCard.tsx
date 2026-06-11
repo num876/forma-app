@@ -8,7 +8,7 @@ export function NewsCard({ news, className }: { news: { id?: string, source: str
       whileHover={{ scale: 1.01, x: 4, y: -2 }}
       whileTap={{ scale: 0.99 }}
       transition={{ type: "spring", stiffness: 400, damping: 25 }}
-      className={cn("p-4 border-[3px] border-border bg-card shadow-neo flex gap-4 group", className)}
+      className={cn("p-4 border-[3px] border-border bg-card shadow-neo flex gap-4 group hover:bg-[#FFFF00] transition-colors duration-0", className)}
     >
       <div className="flex-1 flex flex-col justify-between gap-2">
         <div>

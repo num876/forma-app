@@ -28,6 +28,29 @@ const itemVariants = {
   }
 };
 
+function LiveClock() {
+  const [time, setTime] = useState("");
+  useEffect(() => {
+    const updateTime = () => {
+      const now = new Date();
+      const tzOffset = -(now.getTimezoneOffset() / 60);
+      const sign = tzOffset >= 0 ? "+" : "";
+      setTime(now.toLocaleTimeString('en-US', { hour12: false, hour: '2-digit', minute: '2-digit', second: '2-digit' }) + ` // UTC${sign}${tzOffset}`);
+    };
+    updateTime();
+    const interval = setInterval(updateTime, 1000);
+    return () => clearInterval(interval);
+  }, []);
+  
+  if (!time) return <div className="h-6 w-32 bg-foreground text-background"></div>;
+  return (
+    <div className="font-mono text-xs md:text-sm font-black bg-foreground text-background px-3 py-1 flex items-center gap-2">
+      <div className="w-2 h-2 rounded-full bg-red-500 animate-pulse"></div>
+      {time}
+    </div>
+  );
+}
+
 export default function Home() {
   const router = useRouter();
   const [loading, setLoading] = useState(true);
@@ -119,16 +142,28 @@ export default function Home() {
         </div>
       </header>
 
+      <div className="w-full bg-primary text-primary-foreground border-b-4 border-foreground overflow-hidden py-3 shadow-[0px_4px_0px_0px_rgba(0,0,0,1)] z-40 relative">
+        <div className="animate-marquee whitespace-nowrap text-xl md:text-3xl font-black uppercase tracking-[0.2em]">
+          <span>MATCHDAY HUB // LIVE SCORES // BREAKING NEWS // TACTICAL ANALYSIS // TRANSFER RUMOURS // </span>
+          <span>MATCHDAY HUB // LIVE SCORES // BREAKING NEWS // TACTICAL ANALYSIS // TRANSFER RUMOURS // </span>
+          <span>MATCHDAY HUB // LIVE SCORES // BREAKING NEWS // TACTICAL ANALYSIS // TRANSFER RUMOURS // </span>
+        </div>
+      </div>
+
       <motion.main 
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ type: "spring", stiffness: 200, damping: 20 }}
-        className="max-w-6xl mx-auto px-4 mt-8 flex flex-col gap-8"
+        className="max-w-6xl mx-auto px-4 mt-8 flex flex-col gap-12"
       >
-        <div className="flex-1 flex flex-col gap-8 w-full">
+        <div className="flex-1 flex flex-col gap-12 w-full">
           
-          <section>
-            <h2 className="text-lg font-bold mb-4 tracking-tight font-serif italic">Your Fixtures</h2>
+          <section className="border-t-[6px] border-foreground pt-6 relative mt-4">
+            <div className="absolute -top-[19px] left-0 bg-foreground text-background px-4 py-1.5 font-black uppercase tracking-widest text-sm inline-flex items-center gap-4">
+              Your Fixtures
+              <LiveClock />
+            </div>
+
             <div className="flex overflow-x-auto gap-4 pb-4 snap-x [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]">
               {fixtures.length > 0 ? (
                 <motion.div variants={containerVariants} initial="hidden" animate="show" className="flex gap-4">
@@ -148,8 +183,10 @@ export default function Home() {
             </div>
           </section>
 
-          <section>
-            <h2 className="text-lg font-bold mb-4 tracking-tight font-serif italic">Global News Feed</h2>
+          <section className="border-t-[6px] border-foreground pt-8 relative">
+            <div className="absolute -top-[19px] left-0 bg-foreground text-background px-4 py-1.5 font-black uppercase tracking-widest text-sm">
+              Global News Feed
+            </div>
             <div className="flex flex-col gap-4">
               {news.length > 0 ? (
                 <motion.div variants={containerVariants} initial="hidden" animate="show" className="flex flex-col gap-4">

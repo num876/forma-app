@@ -26,7 +26,7 @@ export function FixtureChip({ match, className }: { match: FixtureProps, classNa
       whileHover={{ scale: 1.02, y: -4 }}
       whileTap={{ scale: 0.98 }}
       transition={{ type: "spring", stiffness: 400, damping: 25 }}
-      className={cn("flex-shrink-0 flex flex-col p-4 border-[3px] border-border bg-card shadow-neo min-w-[220px]", className)}
+      className={cn("flex-shrink-0 flex flex-col p-4 border-[3px] border-border bg-card shadow-neo min-w-[220px] hover:bg-[#FFFF00] transition-colors duration-0 group", className)}
     >
       <div className="text-[0.65rem] text-primary uppercase tracking-widest mb-3 flex items-center justify-between font-black border-b-[3px] border-border pb-2">
         <span className="truncate pr-2">{match.competition}</span>
