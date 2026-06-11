@@ -34,6 +34,7 @@ export default function Home() {
   const [preferences, setPreferences] = useState<{ leagues: number[], clubs: number[], players: number[] } | null>(null);
   const [news, setNews] = useState<any[]>([]);
   const [fixtures, setFixtures] = useState<any[]>([]);
+  const [fixturesLoaded, setFixturesLoaded] = useState(false);
 
   useEffect(() => {
     const stored = localStorage.getItem("forma_preferences");
@@ -52,8 +53,9 @@ export default function Home() {
     const clubsQuery = parsedPrefs.clubs?.length > 0 ? `?clubs=${parsedPrefs.clubs.join(',')}` : '';
     fetch(`/api/fixtures${clubsQuery}`)
       .then(res => res.json())
-      .then(data => setFixtures(data))
-      .catch(console.error);
+      .then(data => setFixtures(Array.isArray(data) ? data : []))
+      .catch(console.error)
+      .finally(() => setFixturesLoaded(true));
   }, []);
 
   if (loading) return null;
@@ -99,6 +101,12 @@ export default function Home() {
                     </motion.div>
                   ))}
                 </motion.div>
+              ) : fixturesLoaded ? (
+                <div className="flex items-center justify-center w-full rounded-xl border border-dashed border-border py-10 px-4 text-center">
+                  <p className="text-sm text-muted-foreground text-balance">
+                    No upcoming fixtures to show right now. Follow some clubs in your preferences to see their matches here.
+                  </p>
+                </div>
               ) : (
                 <div className="flex gap-4">
                   {[1, 2, 3].map(i => (
