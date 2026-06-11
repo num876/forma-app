@@ -12,25 +12,21 @@ export async function GET() {
       }
     });
     
-    // Aggregating multiple reliable sources
+    // Aggregating multiple reliable sources that don't block scraping
     const feeds = await Promise.allSettled([
       parser.parseURL('https://talksport.com/football/feed/'), // TalkSport
       parser.parseURL('https://feeds.bbci.co.uk/sport/football/rss.xml'), // BBC Sport
-      parser.parseURL('https://www.theguardian.com/football/rss'), // The Guardian
-      parser.parseURL('https://www.independent.co.uk/sport/football/rss'), // The Independent
-      parser.parseURL('https://www.caughtoffside.com/feed/') // CaughtOffside (aggregates Romano, Ornstein, Joyce)
+      parser.parseURL('https://www.theguardian.com/football/rss') // The Guardian
     ]);
 
     let allArticles: any[] = [];
 
     feeds.forEach((result, index) => {
       if (result.status === 'fulfilled') {
-        const feedName = index === 0 ? 'talkSPORT' : index === 1 ? 'BBC Sport' : index === 2 ? 'The Guardian' : index === 3 ? 'The Independent' : 'CaughtOffside';
+        const feedName = index === 0 ? 'talkSPORT' : index === 1 ? 'BBC Sport' : 'The Guardian';
         const feedIcon = index === 0 ? 'https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Talksport_logo.svg/512px-Talksport_logo.svg.png' 
                        : index === 1 ? 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/512px-BBC_Logo_2021.svg.png'
-                       : index === 2 ? 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Guardian_2018.svg/512px-The_Guardian_2018.svg.png'
-                       : index === 3 ? 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Independent_logo.svg/512px-The_Independent_logo.svg.png'
-                       : 'https://cdn.caughtoffside.com/wp-content/uploads/2018/06/favicon.png';
+                       : 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Guardian_2018.svg/512px-The_Guardian_2018.svg.png';
 
         const items = result.value.items.map((article: any) => {
           let imageUrl = null;
