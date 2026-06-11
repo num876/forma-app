@@ -22,8 +22,8 @@ export function NewsCard({ news, className }: {
 
   const handleClick = () => {
     if (!news.url) return;
-    // Encode article metadata and navigate to in-app reader
-    const payload = Buffer.from(JSON.stringify({
+    // Use browser-native btoa (works on mobile & desktop)
+    const json = JSON.stringify({
       headline: news.headline,
       source: news.source,
       sourceIconUrl: news.sourceIconUrl,
@@ -32,8 +32,9 @@ export function NewsCard({ news, className }: {
       imageUrl: news.imageUrl,
       url: news.url,
       tags: news.tags,
-    })).toString('base64url');
-    router.push(`/news/${payload}`);
+    });
+    const payload = btoa(unescape(encodeURIComponent(json)));
+    router.push(`/news/${encodeURIComponent(payload)}`);
   };
 
   return (

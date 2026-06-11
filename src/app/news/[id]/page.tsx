@@ -25,7 +25,7 @@ export default function ArticleReadingPage() {
   useEffect(() => {
     if (!id) return;
     try {
-      const decoded = JSON.parse(Buffer.from(id, 'base64url').toString('utf-8')) as ArticleData;
+      const decoded = JSON.parse(decodeURIComponent(escape(atob(decodeURIComponent(id))))) as ArticleData;
       setArticle(decoded);
     } catch {
       router.replace('/');
