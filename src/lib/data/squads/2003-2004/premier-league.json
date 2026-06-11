@@ -278,658 +278,2100 @@
   ],
   "Man United": [
     {
-      "id": 874,
-      "name": "Cristiano Ronaldo",
-      "position": "ATT",
-      "nationality": "Portugal",
-      "age": 40
-    },
-    {
-      "id": 19504,
-      "name": "Darren  Fletcher",
-      "position": "MID",
-      "nationality": "Scotland",
-      "age": 35
-    },
-    {
-      "id": 19609,
-      "name": "J. O'Shea",
-      "position": "DEF",
-      "nationality": "Republic of Ireland",
-      "age": 38
-    },
-    {
-      "id": 44837,
-      "name": "J. Spector",
-      "position": "DEF",
-      "nationality": "USA",
-      "age": 35
-    },
-    {
-      "id": 51298,
-      "name": "Timothy Matthew Howard",
+      "id": 1226000,
+      "name": "Fabien Barthez",
       "position": "GK",
-      "nationality": "USA",
-      "age": 42
+      "nationality": "FRA",
+      "age": "N/A"
     },
     {
-      "id": 83131,
+      "id": 1165790,
+      "name": "Gary Neville",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1548974,
+      "name": "Phil Neville",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1374056,
+      "name": "Rio Ferdinand",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1599595,
       "name": "Wes Brown",
       "position": "DEF",
-      "nationality": "England",
-      "age": 39
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 110391,
-      "name": "Diego Forlán Corazo",
+      "id": 1274881,
+      "name": "Cristiano Ronaldo",
+      "position": "MID",
+      "nationality": "POR",
+      "age": "N/A"
+    },
+    {
+      "id": 1397845,
+      "name": "Nicky Butt",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1548001,
+      "name": "Louis Saha",
       "position": "ATT",
-      "nationality": "Uruguay",
-      "age": 39
+      "nationality": "FRA",
+      "age": "N/A"
     },
     {
-      "id": 113701,
-      "name": "D. Bellion",
-      "position": "ATT",
-      "nationality": "France",
-      "age": 39
-    },
-    {
-      "id": 114648,
-      "name": "José Kléberson Pereira",
-      "position": "MID",
-      "nationality": "Brazil",
-      "age": 44
-    },
-    {
-      "id": 114764,
-      "name": "R. Ferdinand",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 43
-    },
-    {
-      "id": 114774,
-      "name": "Ryan  Giggs",
-      "position": "MID",
-      "nationality": "Wales",
-      "age": 41
-    },
-    {
-      "id": 114801,
-      "name": "Phil Neville",
-      "position": "MID",
-      "nationality": "England",
-      "age": 36
-    },
-    {
-      "id": 114802,
-      "name": "Paul Scholes",
-      "position": "MID",
-      "nationality": "England",
-      "age": 39
-    },
-    {
-      "id": 114820,
-      "name": "Louis  Saha",
-      "position": "ATT",
-      "nationality": "France",
-      "age": 35
-    },
-    {
-      "id": 115062,
-      "name": "Mikaël Silvestre",
-      "position": "DEF",
-      "nationality": "France",
-      "age": 38
-    },
-    {
-      "id": 115074,
+      "id": 1072801,
       "name": "Ruud van Nistelrooy",
       "position": "ATT",
-      "nationality": "Netherlands",
-      "age": 37
+      "nationality": "NED",
+      "age": "N/A"
     },
     {
-      "id": 117327,
-      "name": "Eric Daniel Djemba-Djemba",
+      "id": 1685307,
+      "name": "Ryan Giggs",
       "position": "MID",
-      "nationality": "Cameroon",
-      "age": 37
+      "nationality": "WAL",
+      "age": "N/A"
     },
     {
-      "id": 124184,
-      "name": "R. Carroll",
+      "id": 1081922,
+      "name": "David Bellion",
+      "position": "ATT",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1176806,
+      "name": "Roy Carroll",
       "position": "GK",
-      "nationality": "Northern Ireland",
-      "age": 46
+      "nationality": "NIR",
+      "age": "N/A"
     },
     {
-      "id": 233157,
-      "name": "Mark Lynch",
+      "id": 1739617,
+      "name": "Tim Howard",
+      "position": "GK",
+      "nationality": "USA",
+      "age": "N/A"
+    },
+    {
+      "id": 1700366,
+      "name": "Kléberson",
+      "position": "MID",
+      "nationality": "BRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1456151,
+      "name": "Roy Keane",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1011807,
+      "name": "Ricardo",
+      "position": "GK",
+      "nationality": "ESP",
+      "age": "N/A"
+    },
+    {
+      "id": 1420837,
+      "name": "Paul Scholes",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1426706,
+      "name": "Eric Djemba-Djemba",
+      "position": "MID",
+      "nationality": "CMR",
+      "age": "N/A"
+    },
+    {
+      "id": 1750352,
+      "name": "Ole Gunnar Solskjær",
+      "position": "ATT",
+      "nationality": "NOR",
+      "age": "N/A"
+    },
+    {
+      "id": 1692765,
+      "name": "Diego Forlán",
+      "position": "ATT",
+      "nationality": "URU",
+      "age": "N/A"
+    },
+    {
+      "id": 1383591,
+      "name": "John O'Shea",
       "position": "DEF",
-      "nationality": "England",
-      "age": 32
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1239808,
+      "name": "Kieran Richardson",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1948546,
+      "name": "Darren Fletcher",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1089600,
+      "name": "Quinton Fortune",
+      "position": "MID",
+      "nationality": "RSA",
+      "age": "N/A"
+    },
+    {
+      "id": 1152797,
+      "name": "Danny Pugh",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1612566,
+      "name": "Mikaël Silvestre",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1105230,
+      "name": "Eddie Johnson",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1650428,
+      "name": "Chris Eagles",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1365591,
+      "name": "Phil Bardsley",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1798081,
+      "name": "Daniel Nardiello",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1065859,
+      "name": "Paul Tierney",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
     }
   ],
   "Liverpool": [
     {
-      "id": 20731,
-      "name": "Anthony Le Tallec",
-      "position": "ATT",
-      "nationality": "France",
-      "age": 37
-    },
-    {
-      "id": 53162,
-      "name": "Paul Anthony Harrison",
+      "id": 1971721,
+      "name": "Jerzy Dudek",
       "position": "GK",
-      "nationality": "England",
-      "age": 38
+      "nationality": "POL",
+      "age": "N/A"
     },
     {
-      "id": 66078,
-      "name": "M. Baroš",
+      "id": 1252938,
+      "name": "Stéphane Henchoz",
+      "position": "DEF",
+      "nationality": "SUI",
+      "age": "N/A"
+    },
+    {
+      "id": 1664229,
+      "name": "Steve Finnan",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1572654,
+      "name": "Sami Hyypiä",
+      "position": "DEF",
+      "nationality": "FIN",
+      "age": "N/A"
+    },
+    {
+      "id": 1761931,
+      "name": "Milan Baroš",
       "position": "ATT",
-      "nationality": "Czech Republic",
-      "age": 40
+      "nationality": "CZE",
+      "age": "N/A"
     },
     {
-      "id": 82029,
-      "name": "J. Welsh",
-      "position": "MID",
-      "nationality": "England",
-      "age": 39
+      "id": 1826231,
+      "name": "Markus Babbel",
+      "position": "DEF",
+      "nationality": "GER",
+      "age": "N/A"
     },
     {
-      "id": 100726,
-      "name": "Florent Sinama-Pongolle",
-      "position": "ATT",
-      "nationality": "France",
-      "age": 34
-    },
-    {
-      "id": 104255,
+      "id": 1768767,
       "name": "Harry Kewell",
-      "position": "ATT",
-      "nationality": "Australia",
-      "age": 39
-    },
-    {
-      "id": 113811,
-      "name": "D. Traoré",
-      "position": "DEF",
-      "nationality": "Mali",
-      "age": 41
-    },
-    {
-      "id": 114787,
-      "name": "J. Riise",
-      "position": "DEF",
-      "nationality": "Norway",
-      "age": 41
-    },
-    {
-      "id": 114815,
-      "name": "M. Owen",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 42
-    },
-    {
-      "id": 114819,
-      "name": "J. Carragher",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 43
-    },
-    {
-      "id": 114851,
-      "name": "E. Heskey",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 43
-    },
-    {
-      "id": 114866,
-      "name": "Danny Murphy",
       "position": "MID",
-      "nationality": "England",
-      "age": 36
+      "nationality": "AUS",
+      "age": "N/A"
     },
     {
-      "id": 114878,
-      "name": "Salif Alassane Diao",
-      "position": "MID",
-      "nationality": "Senegal",
-      "age": 36
-    },
-    {
-      "id": 115080,
-      "name": "Sami Hyypia",
-      "position": "DEF",
-      "nationality": "Finland",
-      "age": 40
-    },
-    {
-      "id": 115962,
-      "name": "E. Diouf",
+      "id": 1543762,
+      "name": "Emile Heskey",
       "position": "ATT",
-      "nationality": "Senegal",
-      "age": 40
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 117093,
-      "name": "Jerzy  Dudek",
+      "id": 1023333,
+      "name": "El Hadji Diouf",
+      "position": "ATT",
+      "nationality": "SEN",
+      "age": "N/A"
+    },
+    {
+      "id": 1661927,
+      "name": "Michael Owen",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1562257,
+      "name": "Vladimír Šmicer",
+      "position": "MID",
+      "nationality": "CZE",
+      "age": "N/A"
+    },
+    {
+      "id": 1262539,
+      "name": "[[Danny Murphy (footballer, born 1977)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1779790,
+      "name": "Salif Diao",
+      "position": "MID",
+      "nationality": "SEN",
+      "age": "N/A"
+    },
+    {
+      "id": 1776932,
+      "name": "Dietmar Hamann",
+      "position": "MID",
+      "nationality": "GER",
+      "age": "N/A"
+    },
+    {
+      "id": 1044277,
+      "name": "Steven Gerrard",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1477093,
+      "name": "John Arne Riise",
+      "position": "DEF",
+      "nationality": "NOR",
+      "age": "N/A"
+    },
+    {
+      "id": 1323362,
+      "name": "Anthony Le Tallec",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1719866,
+      "name": "Djimi Traoré<ref group=notes>Traoré was born in [[Saint-Ouen, Seine-Saint-Denis",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1414460,
+      "name": "Chris Kirkland",
       "position": "GK",
-      "nationality": "Poland",
-      "age": 40
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 207602,
-      "name": "B. Cheyrou",
-      "position": "MID",
-      "nationality": "France",
-      "age": 43
-    },
-    {
-      "id": 231343,
-      "name": "J. Otsemobor",
+      "id": 1063334,
+      "name": "Jamie Carragher",
       "position": "DEF",
-      "nationality": "England",
-      "age": 38
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1437677,
+      "name": "Florent Sinama Pongolle",
+      "position": "ATT",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1255812,
+      "name": "Igor Bišćan",
+      "position": "MID",
+      "nationality": "CRO",
+      "age": "N/A"
+    },
+    {
+      "id": 1893227,
+      "name": "Bruno Cheyrou",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1879905,
+      "name": "Patrice Luzi",
+      "position": "GK",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1934641,
+      "name": "[[John Welsh (English footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1301045,
+      "name": "Jon Otsemobor",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1557119,
+      "name": "Daniel Sjölund",
+      "position": "ATT",
+      "nationality": "FIN",
+      "age": "N/A"
+    },
+    {
+      "id": 1962840,
+      "name": "[[Paul Jones (footballer, born 1967)",
+      "position": "GK",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1689627,
+      "name": "Richie Partridge",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1168103,
+      "name": "Grégory Vignal",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1220647,
+      "name": "Carl Medjani<ref group=notes>Medjani was born in Lyon, France, but also qualified to represent Algeria internationally through his father and would make his international debut for [[Algeria national football team",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1003834,
+      "name": "Alou Diarra",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1891102,
+      "name": "Neil Mellor",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1364000,
+      "name": "Darren Potter<ref group=notes>Potter was born in Liverpool, England, but also qualified to represent the Republic of Ireland internationally and represented them at youth level before making his international debut for the [[Republic of Ireland national football team",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1422326,
+      "name": "Stephen Warnock",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1817767,
+      "name": "Zak Whitbread",
+      "position": "DEF",
+      "nationality": "USA",
+      "age": "N/A"
+    },
+    {
+      "id": 1817880,
+      "name": "Michael Foley-Sheridan",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1783913,
+      "name": "[[Paul Harrison (footballer, born 1984)",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1392718,
+      "name": "[[Danny O'Donnell (footballer, born 1986)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1122338,
+      "name": "Lee Peltier",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1721179,
+      "name": "[[James Smith (footballer, born 1985)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1217041,
+      "name": "Calum Woods",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1979197,
+      "name": "Robbie Foy",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1838850,
+      "name": "Danny Guthrie",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1795087,
+      "name": "David Mannix",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1286263,
+      "name": "Jason Massie",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1227247,
+      "name": "Mark Smyth",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1660977,
+      "name": "Steven Gillespie",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1702715,
+      "name": "Conal Platt",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1771437,
+      "name": "Carl Medjani",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1979168,
+      "name": "Paul Jones",
+      "position": "GK",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1425003,
+      "name": "Patrik Berger",
+      "position": "MID",
+      "nationality": "CZE",
+      "age": "N/A"
+    },
+    {
+      "id": 1892014,
+      "name": "Bernard Diomède",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1761399,
+      "name": "Vegard Heggem",
+      "position": "DEF",
+      "nationality": "NOR",
+      "age": "N/A"
+    },
+    {
+      "id": 1437290,
+      "name": "Pegguy Arphexad",
+      "position": "GK",
+      "nationality": "Gua",
+      "age": "N/A"
+    },
+    {
+      "id": 1737586,
+      "name": "Abel Xavier",
+      "position": "DEF",
+      "nationality": "POR",
+      "age": "N/A"
     }
   ],
   "Newcastle": [
     {
-      "id": 6929,
-      "name": "S. Taylor",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 35
-    },
-    {
-      "id": 44863,
-      "name": "A. Hughes",
-      "position": "DEF",
-      "nationality": "Northern Ireland",
-      "age": 42
-    },
-    {
-      "id": 82138,
-      "name": "Shola Ameobi",
-      "position": "ATT",
-      "nationality": "Nigeria",
-      "age": 37
-    },
-    {
-      "id": 90516,
+      "id": 1183875,
       "name": "Shay Given",
       "position": "GK",
-      "nationality": "Republic of Ireland",
-      "age": 41
+      "nationality": "IRL",
+      "age": "N/A"
     },
     {
-      "id": 114760,
-      "name": "Steve Harper",
-      "position": "GK",
-      "nationality": "England",
-      "age": 41
+      "id": 1134051,
+      "name": "Andy Griffin",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 114773,
+      "id": 1510609,
+      "name": "Robbie Elliott",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1670778,
+      "name": "[[Andy O'Brien (footballer)",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1716069,
+      "name": "Jermaine Jenas",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1830765,
+      "name": "Kieron Dyer",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1882385,
+      "name": "Alan Shearer",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1908997,
       "name": "Craig Bellamy",
       "position": "ATT",
-      "nationality": "Wales",
-      "age": 35
+      "nationality": "WAL",
+      "age": "N/A"
     },
     {
-      "id": 114817,
-      "name": "J. Jenas",
+      "id": 1689788,
+      "name": "Gary Speed",
       "position": "MID",
-      "nationality": "England",
-      "age": 38
+      "nationality": "WAL",
+      "age": "N/A"
     },
     {
-      "id": 114818,
-      "name": "Titus Malachi Bramble",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 32
+      "id": 1206820,
+      "name": "Steve Harper",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 114822,
-      "name": "Kieron  Dyer",
-      "position": "MID",
-      "nationality": "England",
-      "age": 35
-    },
-    {
-      "id": 114854,
-      "name": "Jonathan Woodgate",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 36
-    },
-    {
-      "id": 115966,
-      "name": "A. O&apos;Brien",
-      "position": "DEF",
-      "nationality": "Republic of Ireland",
-      "age": 42
-    },
-    {
-      "id": 115985,
-      "name": "S. Caldwell",
-      "position": "DEF",
-      "nationality": "Scotland",
-      "age": 41
-    },
-    {
-      "id": 116570,
-      "name": "Hugo Miguel Ferreira Gomes Viana",
-      "position": "MID",
-      "nationality": "Portugal",
-      "age": 33
-    },
-    {
-      "id": 117530,
-      "name": "M. Chopra",
+      "id": 1378471,
+      "name": "Michael Bridges",
       "position": "ATT",
-      "nationality": "England",
-      "age": 38
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 219728,
-      "name": "M. Bridges",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 43
-    },
-    {
-      "id": 230906,
-      "name": "D. Ambrose",
+      "id": 1080060,
+      "name": "Darren Ambrose",
       "position": "MID",
-      "nationality": "England",
-      "age": 37
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 230994,
-      "name": "A. Griffin",
+      "id": 1075020,
+      "name": "Aaron Hughes",
       "position": "DEF",
-      "nationality": "England",
-      "age": 42
+      "nationality": "NIR",
+      "age": "N/A"
     },
     {
-      "id": 231008,
-      "name": "L. LuaLua",
+      "id": 1592473,
+      "name": "Titus Bramble",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1952139,
+      "name": "Lomana LuaLua",
       "position": "ATT",
       "nationality": "Congo DR",
-      "age": 41
+      "age": "N/A"
     },
     {
-      "id": 231257,
-      "name": "T. Caig",
+      "id": 1476358,
+      "name": "Diego Gavilán",
+      "position": "MID",
+      "nationality": "PAR",
+      "age": "N/A"
+    },
+    {
+      "id": 1054591,
+      "name": "Jamie McClen",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1393501,
+      "name": "Shola Ameobi",
+      "position": "ATT",
+      "nationality": "NGA",
+      "age": "N/A"
+    },
+    {
+      "id": 1796976,
+      "name": "Tony Caig",
       "position": "GK",
-      "nationality": "England",
-      "age": 47
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1634710,
+      "name": "[[Brian Kerr (Scottish footballer)",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1689560,
+      "name": "Jonathan Woodgate",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1232415,
+      "name": "Michael Chopra",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1655924,
+      "name": "Lee Bowyer",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1962268,
+      "name": "Steven Caldwell",
+      "position": "DEF",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1421497,
+      "name": "Laurent Robert",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1270915,
+      "name": "Adam Collin",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1044155,
+      "name": "Olivier Bernard",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1450553,
+      "name": "Calvin Zola",
+      "position": "ATT",
+      "nationality": "COD",
+      "age": "N/A"
+    },
+    {
+      "id": 1584573,
+      "name": "[[Steven Taylor (footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1466255,
+      "name": "Martin Brittain",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1464231,
+      "name": "Bradley Orr",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1306483,
+      "name": "Hugo Viana",
+      "position": "MID",
+      "nationality": "POR",
+      "age": "N/A"
+    },
+    {
+      "id": 1335542,
+      "name": "Nolberto Solano",
+      "position": "MID",
+      "nationality": "PER",
+      "age": "N/A"
+    },
+    {
+      "id": 1074882,
+      "name": "Clarence Acuña",
+      "position": "MID",
+      "nationality": "CHI",
+      "age": "N/A"
+    },
+    {
+      "id": 1869782,
+      "name": "Wayne Quinn",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1253712,
+      "name": "Carl Cort",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1490754,
+      "name": "Nikos Dabizas",
+      "position": "DEF",
+      "nationality": "GRE",
+      "age": "N/A"
+    },
+    {
+      "id": 1257482,
+      "name": "Gary Caldwell",
+      "position": "DEF",
+      "nationality": "SCO",
+      "age": "N/A"
     }
   ],
   "Aston Villa": [
     {
-      "id": 18928,
-      "name": "P. Crouch",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 40
-    },
-    {
-      "id": 19153,
-      "name": "G. Barry",
-      "position": "MID",
-      "nationality": "England",
-      "age": 39
-    },
-    {
-      "id": 19417,
-      "name": "L. Ridgewell",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 37
-    },
-    {
-      "id": 77110,
-      "name": "T. Sørensen",
+      "id": 1555431,
+      "name": "Thomas Sørensen",
       "position": "GK",
-      "nationality": "Denmark",
-      "age": 45
+      "nationality": "DEN",
+      "age": "N/A"
     },
     {
-      "id": 82684,
-      "name": "Stefan Moore",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 35
+      "id": 1763817,
+      "name": "[[Mark Delaney (footballer)",
+      "position": "DEF",
+      "nationality": "WAL",
+      "age": "N/A"
     },
     {
-      "id": 83026,
-      "name": "Peter Whittingham",
+      "id": 1962010,
+      "name": "Jlloyd Samuel<ref group=notes>Samuel was born in [[San Fernando, Trinidad and Tobago",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1544076,
+      "name": "Olof Mellberg",
+      "position": "DEF",
+      "nationality": "SWE",
+      "age": "N/A"
+    },
+    {
+      "id": 1130018,
+      "name": "Gareth Barry",
       "position": "MID",
-      "nationality": "England",
-      "age": 34
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 114812,
-      "name": "Thomas Hitzlsperger",
-      "position": "MID",
-      "nationality": "Germany",
-      "age": 31
-    },
-    {
-      "id": 114814,
-      "name": "Luke  Moore",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 30
-    },
-    {
-      "id": 118128,
-      "name": "M. Allbäck",
-      "position": "ATT",
-      "nationality": "Sweden",
-      "age": 48
-    },
-    {
-      "id": 153314,
-      "name": "Mustapha Hadji",
-      "position": "MID",
-      "nationality": "Morocco",
-      "age": 42
-    },
-    {
-      "id": 231000,
-      "name": "Darius Vassell",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 33
-    },
-    {
-      "id": 232119,
+      "id": 1063148,
       "name": "Lee Hendrie",
       "position": "MID",
-      "nationality": "England",
-      "age": 36
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 240320,
-      "name": "Juan Pablo Ángel Arango",
+      "id": 1064434,
+      "name": "Gavin McCann",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1512665,
+      "name": "Dion Dublin",
       "position": "ATT",
-      "nationality": "Colombia",
-      "age": 39
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 252757,
-      "name": "U. de la Cruz",
+      "id": 1373356,
+      "name": "Darius Vassell",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1981911,
+      "name": "Nolberto Solano",
+      "position": "MID",
+      "nationality": "PER",
+      "age": "N/A"
+    },
+    {
+      "id": 1483795,
+      "name": "Thomas Hitzlsperger",
+      "position": "MID",
+      "nationality": "GER",
+      "age": "N/A"
+    },
+    {
+      "id": 1967785,
+      "name": "Stefan Postma",
+      "position": "GK",
+      "nationality": "NED",
+      "age": "N/A"
+    },
+    {
+      "id": 1037095,
+      "name": "Marcus Allbäck",
+      "position": "ATT",
+      "nationality": "SWE",
+      "age": "N/A"
+    },
+    {
+      "id": 1374083,
+      "name": "Ulises de la Cruz",
       "position": "DEF",
-      "nationality": "Ecuador",
-      "age": 47
+      "nationality": "ECU",
+      "age": "N/A"
+    },
+    {
+      "id": 1748725,
+      "name": "Peter Crouch",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1833021,
+      "name": "Peter Whittingham",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1901308,
+      "name": "Juan Pablo Ángel",
+      "position": "ATT",
+      "nationality": "COL",
+      "age": "N/A"
+    },
+    {
+      "id": 1246638,
+      "name": "Stefan Moore",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1977132,
+      "name": "Liam Ridgewell",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1645669,
+      "name": "Ronny Johnsen",
+      "position": "DEF",
+      "nationality": "NOR",
+      "age": "N/A"
+    },
+    {
+      "id": 1641774,
+      "name": "Luke Moore",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1572527,
+      "name": "Alpay Özalan",
+      "position": "DEF",
+      "nationality": "TUR",
+      "age": "N/A"
+    },
+    {
+      "id": 1239538,
+      "name": "Boško Balaban",
+      "position": "ATT",
+      "nationality": "CRO",
+      "age": "N/A"
+    },
+    {
+      "id": 1778636,
+      "name": "Mustapha Hadji",
+      "position": "MID",
+      "nationality": "MAR",
+      "age": "N/A"
+    },
+    {
+      "id": 1365424,
+      "name": "Peter Enckelman",
+      "position": "GK",
+      "nationality": "FIN",
+      "age": "N/A"
+    },
+    {
+      "id": 1760272,
+      "name": "Mark Kinsella",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1683250,
+      "name": "Danny Jackman",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1182796,
+      "name": "Boaz Myhill<ref group=notes>Myhill was born in [[Modesto, California",
+      "position": "GK",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1630122,
+      "name": "Jon Bewers",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1720757,
+      "name": "Ryan Amoo",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1827972,
+      "name": "Steven Davis",
+      "position": "MID",
+      "nationality": "NIR",
+      "age": "N/A"
+    },
+    {
+      "id": 1637854,
+      "name": "Hassan Kachloul",
+      "position": "MID",
+      "nationality": "MAR",
+      "age": "N/A"
+    },
+    {
+      "id": 1270777,
+      "name": "[[Rob Edwards (footballer born 1982)",
+      "position": "DEF",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1035584,
+      "name": "Stephen Cooke",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1134924,
+      "name": "[[Wayne Henderson (footballer)",
+      "position": "GK",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1245916,
+      "name": "[[Colin Marshall (footballer)",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1576554,
+      "name": "[[Peter Hynes (footballer)",
+      "position": "ATT",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1733627,
+      "name": "Antoni Pecora",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1962780,
+      "name": "Andrew Yarnold",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1389395,
+      "name": "Jon Masalin",
+      "position": "GK",
+      "nationality": "FIN",
+      "age": "N/A"
+    },
+    {
+      "id": 1899995,
+      "name": "Stuart Bridges",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1485684,
+      "name": "Gary Cahill",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1422617,
+      "name": "Scott Cormell",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1939047,
+      "name": "[[Lee Grant (footballer, born 1985)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1883245,
+      "name": "[[Nick Green (footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1407331,
+      "name": "[[James O'Connor (footballer, born 1984)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1935633,
+      "name": "[[Kevin Mulcahy (footballer)",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1691879,
+      "name": "Neil Kilkenny<ref group=notes>Kilkenny was born in [[London Borough of Enfield",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1398003,
+      "name": "Kyle Nix",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1973602,
+      "name": "Stephen Foley-Sheridan",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1341792,
+      "name": "[[Alan Brazil (footballer, born 1985)",
+      "position": "ATT",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1189345,
+      "name": "Jamie Ward",
+      "position": "ATT",
+      "nationality": "NIR",
+      "age": "N/A"
+    },
+    {
+      "id": 1262283,
+      "name": "Mika Ääritalo",
+      "position": "ATT",
+      "nationality": "FIN",
+      "age": "N/A"
+    },
+    {
+      "id": 1395705,
+      "name": "Amadou Kouman",
+      "position": "ATT",
+      "nationality": "CIV",
+      "age": "N/A"
+    },
+    {
+      "id": 1240694,
+      "name": "[[John Grady (footballer)",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 1076280,
+      "name": "Jake Meredith",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1746750,
+      "name": "Bobby Olejnik",
+      "position": "GK",
+      "nationality": "AUT",
+      "age": "N/A"
+    },
+    {
+      "id": 1672268,
+      "name": "Ashley Edkins",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1831343,
+      "name": "[[Paul Green (footballer, born 1987)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1142303,
+      "name": "Michael Tuohy",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1303079,
+      "name": "Stephen O'Halloran",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1938034,
+      "name": "Magnus Troest",
+      "position": "DEF",
+      "nationality": "DEN",
+      "age": "N/A"
+    },
+    {
+      "id": 1899730,
+      "name": "Morgan Evans",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1772066,
+      "name": "Craig Gardner",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1252939,
+      "name": "Nigel Julien",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1647543,
+      "name": "Dan McDonald",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1032746,
+      "name": "[[Michael Noakes (footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1309165,
+      "name": "Isaiah Osbourne",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1517264,
+      "name": "Charlie Reeves",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1797623,
+      "name": "Jay Sztybel",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1639786,
+      "name": "Christian Tshimanga Kabeya",
+      "position": "MID",
+      "nationality": "BEL",
+      "age": "N/A"
+    },
+    {
+      "id": 1461916,
+      "name": "Gabriel Agbonlahor",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1855450,
+      "name": "Scott Bridges",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1936006,
+      "name": "Shane Paul",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1510050,
+      "name": "[[Sam Williams (footballer)",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1532111,
+      "name": "Seyi Morgan",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 1746829,
+      "name": "[[Matt Saunders (footballer)",
+      "position": "DEF",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 1924985,
+      "name": "Luke Sampson",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 1532586,
+      "name": "Lee Boyle",
+      "position": "GK",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1485803,
+      "name": "Pierre Ennis",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1737161,
+      "name": "Youness Bengelloun",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1826816,
+      "name": "Tal Ben Haim",
+      "position": "DEF",
+      "nationality": "ISR",
+      "age": "N/A"
+    },
+    {
+      "id": 1560598,
+      "name": "Ishmel Demontagnac",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1981022,
+      "name": "Daryl Taylor",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1203230,
+      "name": "[[Kenneth Browne (footballer)",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1091876,
+      "name": "André Schembri",
+      "position": "MID",
+      "nationality": "MLT",
+      "age": "N/A"
+    },
+    {
+      "id": 1764638,
+      "name": "Freddy Grisales",
+      "position": "MID",
+      "nationality": "COL",
+      "age": "N/A"
+    },
+    {
+      "id": 1839189,
+      "name": "[[Matthew Allen (footballer)",
+      "position": "GK",
+      "nationality": "Unknown",
+      "age": "N/A"
+    },
+    {
+      "id": 1154925,
+      "name": "Rowan Caney",
+      "position": "MID",
+      "nationality": "Unknown",
+      "age": "N/A"
     }
   ],
   "Charlton": [
     {
-      "id": 17631,
-      "name": "J. Campbell-Ryce",
-      "position": "MID",
-      "nationality": "Jamaica",
-      "age": 38
-    },
-    {
-      "id": 20332,
-      "name": "M. Turner",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 38
-    },
-    {
-      "id": 83032,
-      "name": "Scott Parker",
-      "position": "MID",
-      "nationality": "England",
-      "age": 37
-    },
-    {
-      "id": 87873,
-      "name": "J. Thomas",
-      "position": "MID",
-      "nationality": "England",
-      "age": 38
-    },
-    {
-      "id": 87896,
-      "name": "P. Konchesky",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 40
-    },
-    {
-      "id": 114758,
-      "name": "C. Cole",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 38
-    },
-    {
-      "id": 114850,
-      "name": "L. Young",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 42
-    },
-    {
-      "id": 115984,
-      "name": "D. Kiely",
+      "id": 1825903,
+      "name": "Dean Kiely<ref group=notes>Kiely was born in Salford, England, and represented them at U-15, [[England national under-16 football team",
       "position": "GK",
-      "nationality": "Republic of Ireland",
-      "age": 51
+      "nationality": "IRL",
+      "age": "N/A"
     },
     {
-      "id": 152624,
+      "id": 1194870,
+      "name": "Radostin Kishishev",
+      "position": "DEF",
+      "nationality": "BUL",
+      "age": "N/A"
+    },
+    {
+      "id": 1310828,
+      "name": "Chris Powell",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1890421,
+      "name": "[[Graham Stuart (footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1973033,
+      "name": "Richard Rufus",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1559858,
+      "name": "Mark Fish",
+      "position": "DEF",
+      "nationality": "RSA",
+      "age": "N/A"
+    },
+    {
+      "id": 1662453,
+      "name": "Matt Holland<ref group=notes>Holland was born in [[Bury, Greater Manchester",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1647247,
+      "name": "Jason Euell<ref group=notes>Euell was born in [[London Borough of Lambeth",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1765045,
+      "name": "Claus Jensen",
+      "position": "MID",
+      "nationality": "DEN",
+      "age": "N/A"
+    },
+    {
+      "id": 1073236,
+      "name": "Paolo Di Canio",
+      "position": "ATT",
+      "nationality": "ITA",
+      "age": "N/A"
+    },
+    {
+      "id": 1705038,
+      "name": "Hermann Hreidarsson",
+      "position": "DEF",
+      "nationality": "ISL",
+      "age": "N/A"
+    },
+    {
+      "id": 1470854,
+      "name": "Paul Rachubka<ref group=notes>Rachubka was born in [[San Luis Obispo, California",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1675131,
+      "name": "Jerome Thomas",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1967366,
+      "name": "Gary Rowett",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1764573,
+      "name": "Kevin Lisbie<ref group=notes>Lisbie was born in [[London Borough of Hackney",
+      "position": "ATT",
+      "nationality": "JAM",
+      "age": "N/A"
+    },
+    {
+      "id": 1069429,
+      "name": "Shaun Bartlett",
+      "position": "ATT",
+      "nationality": "RSA",
+      "age": "N/A"
+    },
+    {
+      "id": 1823141,
+      "name": "Paul Konchesky",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1382595,
+      "name": "[[Luke Young (footballer, born 1979)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1796633,
+      "name": "[[Jonatan Johansson (footballer)",
+      "position": "ATT",
+      "nationality": "FIN",
+      "age": "N/A"
+    },
+    {
+      "id": 1911793,
+      "name": "Jamal Campbell-Ryce<ref group=notes>Campbell-Ryce was born in [[London Borough of Lambeth",
+      "position": "MID",
+      "nationality": "JAM",
+      "age": "N/A"
+    },
+    {
+      "id": 1903952,
+      "name": "[[Michael Turner (footballer, born 1983)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1838610,
+      "name": "Jonathan Fortune",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1486294,
       "name": "Simon Royce",
       "position": "GK",
-      "nationality": "England",
-      "age": 49
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 231288,
-      "name": "K. Lisbie",
+      "id": 1468925,
+      "name": "Adrian Deane",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1034954,
+      "name": "Osei Sankofa",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1541160,
+      "name": "Neil McCafferty<ref group=notes>McCafferty was born in Derry, Northern Ireland, but also qualified to represent the Republic of Ireland internationally and represented them at U16 and [[Republic of Ireland national under-19 football team",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1282472,
+      "name": "Stacy Long",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1108286,
+      "name": "Lloyd Sam<ref group=notes>Sam was born in Leeds, England, and represented them at [[England national under-20 football team",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1136070,
+      "name": "Stephen Tucker",
       "position": "ATT",
-      "nationality": "Jamaica",
-      "age": 43
+      "nationality": "IRL",
+      "age": "N/A"
     },
     {
-      "id": 232314,
-      "name": "O. Sankofa",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 36
+      "id": 1372696,
+      "name": "[[Stephen Hughes (footballer, born 1976)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 232646,
-      "name": "J. Fortune",
+      "id": 1589412,
+      "name": "Sérgio Leite",
+      "position": "GK",
+      "nationality": "POR",
+      "age": "N/A"
+    },
+    {
+      "id": 1923159,
+      "name": "Carlton Cole",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1595034,
+      "name": "[[Chris Perry (English footballer)",
       "position": "DEF",
-      "nationality": "England",
-      "age": 41
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1212641,
+      "name": "Alex Varney",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1412275,
+      "name": "Scott Parker",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1384382,
+      "name": "Chris Bart-Williams<ref group=notes>Bart-Williams was born in Freetown, Sierra Leone, but was raised in England and represented them at [[England national under-21 football team",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1239397,
+      "name": "Mathias Svensson",
+      "position": "ATT",
+      "nationality": "SWE",
+      "age": "N/A"
+    },
+    {
+      "id": 1829490,
+      "name": "Mark DeBolla",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1590966,
+      "name": "Barry Fuller",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1049888,
+      "name": "Adam Gross",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1123815,
+      "name": "Sheku Kamara",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1109006,
+      "name": "[[Mark Ricketts (footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1102039,
+      "name": "Nathan Ashton",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1121741,
+      "name": "Myles Weston",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
     }
   ],
   "Bolton": [
     {
-      "id": 17681,
-      "name": "N. Hunt",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 40
-    },
-    {
-      "id": 78738,
-      "name": "Ricardo Vaz Tê",
-      "position": "ATT",
-      "nationality": "Portugal",
-      "age": 35
-    },
-    {
-      "id": 103322,
-      "name": "Donovan Ricketts",
-      "position": "GK",
-      "nationality": "Jamaica",
-      "age": 41
-    },
-    {
-      "id": 114743,
-      "name": "K. Nolan",
-      "position": "MID",
-      "nationality": "England",
-      "age": 39
-    },
-    {
-      "id": 114765,
-      "name": "J. Jääskeläinen",
-      "position": "GK",
-      "nationality": "Finland",
-      "age": 46
-    },
-    {
-      "id": 225949,
-      "name": "H. Pedersen",
-      "position": "ATT",
-      "nationality": "Denmark",
-      "age": 46
-    },
-    {
-      "id": 231343,
-      "name": "J. Otsemobor",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 38
-    },
-    {
-      "id": 231556,
+      "id": 1333431,
       "name": "Kevin Poole",
       "position": "GK",
-      "nationality": "England",
-      "age": 52
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 232837,
-      "name": "Delroy Facey",
-      "position": "ATT",
-      "nationality": "Grenada",
-      "age": 33
+      "id": 1184075,
+      "name": "Anthony Barness",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 257848,
-      "name": "D. Pezzarossi",
+      "id": 1166621,
+      "name": "Simon Charlton",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1911898,
+      "name": "Kevin Nolan",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1718674,
+      "name": "Bruno Ngotty",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1472580,
+      "name": "Youri Djorkaeff",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1789542,
+      "name": "Stelios Giannakopoulos",
+      "position": "MID",
+      "nationality": "GRE",
+      "age": "N/A"
+    },
+    {
+      "id": 1790555,
+      "name": "Per Frandsen",
+      "position": "MID",
+      "nationality": "DEN",
+      "age": "N/A"
+    },
+    {
+      "id": 1658425,
+      "name": "[[Henrik Pedersen (footballer)",
       "position": "ATT",
-      "nationality": "Guatemala",
-      "age": 42
+      "nationality": "DEN",
+      "age": "N/A"
+    },
+    {
+      "id": 1182363,
+      "name": "Jay-Jay Okocha",
+      "position": "MID",
+      "nationality": "NGA",
+      "age": "N/A"
+    },
+    {
+      "id": 1655420,
+      "name": "Ricardo Gardner",
+      "position": "MID",
+      "nationality": "JAM",
+      "age": "N/A"
+    },
+    {
+      "id": 1170327,
+      "name": "Mário Jardel",
+      "position": "ATT",
+      "nationality": "BRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1679631,
+      "name": "Kevin Davies",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1679837,
+      "name": "Ibrahim Ba<ref>Ba was born in Dakar, Senegal, but also qualified to represent France internationally, and made his full international debut for [[France national football team",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1921396,
+      "name": "Iván Campo",
+      "position": "DEF",
+      "nationality": "ESP",
+      "age": "N/A"
+    },
+    {
+      "id": 1778361,
+      "name": "Florent Laville",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1986867,
+      "name": "Nicky Hunt",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1543188,
+      "name": "[[Jeff Smith (footballer, born 1980)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1530638,
+      "name": "Jussi Jääskeläinen",
+      "position": "GK",
+      "nationality": "FIN",
+      "age": "N/A"
+    },
+    {
+      "id": 1723376,
+      "name": "Danny Livesey",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1854017,
+      "name": "[[Javi Moreno (footballer, born 1974)",
+      "position": "ATT",
+      "nationality": "ESP",
+      "age": "N/A"
+    },
+    {
+      "id": 1329230,
+      "name": "Emerson Thome",
+      "position": "DEF",
+      "nationality": "BRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1568295,
+      "name": "Charlie Comyn-Platt",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1423550,
+      "name": "Ricardo Vaz Tê",
+      "position": "ATT",
+      "nationality": "POR",
+      "age": "N/A"
+    },
+    {
+      "id": 1976610,
+      "name": "Ricky Shakes<ref>Shakes was born in Brixton, England, but also qualified to represent Trinidad and Tobago and Guyana internationally. He won his first cap for [[Trinidad and Tobago national football team",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1470883,
+      "name": "[[Steve Howey (footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1941802,
+      "name": "Jonathan Walters<ref>Walters was born in [[Moreton, Merseyside",
+      "position": "ATT",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1876146,
+      "name": "Delroy Facey<ref>Facey was born in Huddersfield, England, but also qualified to represent Grenada, Jamaica and Trinidad & Tobago, and made his full international debut for [[Grenada national football team",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1910741,
+      "name": "Jon Otsemobor",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1064844,
+      "name": "Gareth Farrelly",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1177640,
+      "name": "[[Jermaine Johnson (soccer)",
+      "position": "MID",
+      "nationality": "JAM",
+      "age": "N/A"
+    },
+    {
+      "id": 1501750,
+      "name": "Glen Little",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1942364,
+      "name": "Cleveland Taylor<ref>Taylor was born in Leicester, England, but also qualified to represent Jamaica internationally, and has played for [[Jamaica national football team",
+      "position": "MID",
+      "nationality": "JAM",
+      "age": "N/A"
+    },
+    {
+      "id": 1846799,
+      "name": "Derek Niven",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1953652,
+      "name": "[[Ndiwa Lord-Kangana",
+      "position": "DEF",
+      "nationality": "COD",
+      "age": "N/A"
+    },
+    {
+      "id": 1810659,
+      "name": "Jeremy Bon",
+      "position": "GK",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1357174,
+      "name": "Lewis Hamlin",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1908136,
+      "name": "Jason Talbot",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1804558,
+      "name": "Donovan Ricketts",
+      "position": "GK",
+      "nationality": "JAM",
+      "age": "N/A"
+    },
+    {
+      "id": 1584633,
+      "name": "Dwight Pezzarossi",
+      "position": "ATT",
+      "nationality": "GUA",
+      "age": "N/A"
     }
   ],
   "Fulham": [
@@ -1176,295 +2618,1079 @@
   ],
   "Middlesbrough": [
     {
-      "id": 18494,
-      "name": "Matthew Bates",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 33
-    },
-    {
-      "id": 19162,
-      "name": "James  Morrison",
-      "position": "MID",
-      "nationality": "Scotland",
-      "age": 33
-    },
-    {
-      "id": 19238,
-      "name": "S. Downing",
-      "position": "MID",
-      "nationality": "England",
-      "age": 37
-    },
-    {
-      "id": 32138,
-      "name": "Massimo Maccarone",
-      "position": "ATT",
-      "nationality": "Italy",
-      "age": 41
-    },
-    {
-      "id": 44297,
-      "name": "B. Jones",
-      "position": "GK",
-      "nationality": "Australia",
-      "age": 41
-    },
-    {
-      "id": 45024,
-      "name": "Andrew  Davies",
-      "position": "DEF",
-      "nationality": "England",
-      "age": 36
-    },
-    {
-      "id": 87726,
-      "name": "Ross Turnbull",
-      "position": "GK",
-      "nationality": "England",
-      "age": 32
-    },
-    {
-      "id": 104311,
+      "id": 1975381,
       "name": "Mark Schwarzer",
       "position": "GK",
-      "nationality": "Australia",
-      "age": 44
+      "nationality": "AUS",
+      "age": "N/A"
     },
     {
-      "id": 113887,
-      "name": "F. Queudrue",
+      "id": 1184899,
+      "name": "Robbie Stockdale",
       "position": "DEF",
-      "nationality": "France",
-      "age": 43
+      "nationality": "SCO",
+      "age": "N/A"
     },
     {
-      "id": 114794,
-      "name": "C. Nash",
-      "position": "GK",
-      "nationality": "England",
-      "age": 48
-    },
-    {
-      "id": 115634,
-      "name": "Ricardo Luis Pozzi Rodrigues",
-      "position": "MID",
-      "nationality": "Brazil",
-      "age": 37
-    },
-    {
-      "id": 115941,
-      "name": "Stuart Parnaby",
+      "id": 1893893,
+      "name": "Franck Queudrue",
       "position": "DEF",
-      "nationality": "England",
-      "age": 33
+      "nationality": "FRA",
+      "age": "N/A"
     },
     {
-      "id": 115945,
-      "name": "Boudewijn Zenden",
-      "position": "MID",
-      "nationality": "Netherlands",
-      "age": 37
+      "id": 1512969,
+      "name": "Ugo Ehiogu",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 115964,
-      "name": "J. Greening",
-      "position": "MID",
-      "nationality": "England",
-      "age": 42
+      "id": 1194997,
+      "name": "Chris Riggott",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 116005,
-      "name": "Joseph-Desire Job",
-      "position": "ATT",
-      "nationality": "Cameroon",
-      "age": 36
+      "id": 1603009,
+      "name": "Gareth Southgate",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 230995,
-      "name": "Mark Anthony Wilson",
-      "position": "MID",
-      "nationality": "England",
-      "age": 34
-    },
-    {
-      "id": 230997,
+      "id": 1510181,
       "name": "George Boateng",
       "position": "MID",
-      "nationality": "Netherlands",
-      "age": 38
+      "nationality": "NED",
+      "age": "N/A"
+    },
+    {
+      "id": 1952835,
+      "name": "[[Szilárd Németh (footballer)",
+      "position": "ATT",
+      "nationality": "SVK",
+      "age": "N/A"
+    },
+    {
+      "id": 1941442,
+      "name": "Massimo Maccarone",
+      "position": "ATT",
+      "nationality": "ITA",
+      "age": "N/A"
+    },
+    {
+      "id": 1487927,
+      "name": "[[Juninho Paulista",
+      "position": "MID",
+      "nationality": "BRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1183929,
+      "name": "Malcolm Christie",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1319078,
+      "name": "Jonathan Greening",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1750605,
+      "name": "Gaizka Mendieta",
+      "position": "MID",
+      "nationality": "ESP",
+      "age": "N/A"
+    },
+    {
+      "id": 1751117,
+      "name": "Danny Mills",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1717663,
+      "name": "Joseph-Désiré Job",
+      "position": "ATT",
+      "nationality": "CMR",
+      "age": "N/A"
+    },
+    {
+      "id": 1271620,
+      "name": "Michael Ricketts",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1825706,
+      "name": "[[Mark Wilson (English footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1321754,
+      "name": "Stewart Downing",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1817624,
+      "name": "Doriva",
+      "position": "MID",
+      "nationality": "BRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1256723,
+      "name": "Stuart Parnaby",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1487619,
+      "name": "[[Andrew Davies (footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1622548,
+      "name": "Carlo Nash",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1738431,
+      "name": "Boudewijn Zenden",
+      "position": "MID",
+      "nationality": "NED",
+      "age": "N/A"
+    },
+    {
+      "id": 1750613,
+      "name": "Colin Cooper",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1315245,
+      "name": "[[Andrew Taylor (footballer born 1986)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1547470,
+      "name": "Allan Johnston",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1025997,
+      "name": "[[David Murphy (footballer, born 1984)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1556191,
+      "name": "[[James Morrison (footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1228974,
+      "name": "[[Brad Jones (footballer)",
+      "position": "GK",
+      "nationality": "AUS",
+      "age": "N/A"
+    },
+    {
+      "id": 1207359,
+      "name": "Ross Turnbull",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1463697,
+      "name": "Matthew Bates",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1028914,
+      "name": "Craig Dove",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1140241,
+      "name": "[[Sam Russell (footballer born 1982)",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1365645,
+      "name": "Phil Gulliver",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1472536,
+      "name": "Alan Wright",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1452627,
+      "name": "Carlos Marinelli",
+      "position": "MID",
+      "nationality": "ARG",
+      "age": "N/A"
+    },
+    {
+      "id": 1835437,
+      "name": "[[Noel Whelan (footballer)",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1905399,
+      "name": "[[Ricardinho (footballer, born May 1976)",
+      "position": "MID",
+      "nationality": "BRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1397157,
+      "name": "[[Brian Close (footballer, born 1982)",
+      "position": "DEF",
+      "nationality": "NIR",
+      "age": "N/A"
+    },
+    {
+      "id": 1118424,
+      "name": "Jamie Cade",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1950187,
+      "name": "Chris Brunt",
+      "position": "MID",
+      "nationality": "NIR",
+      "age": "N/A"
     }
   ],
   "Southampton": [
     {
-      "id": 19092,
-      "name": "M. Cranie",
+      "id": 1659654,
+      "name": "Jason Dodd",
       "position": "DEF",
-      "nationality": "England",
-      "age": 35
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 82017,
-      "name": "C. Baird",
+      "id": 1896231,
+      "name": "Graeme Le Saux",
       "position": "DEF",
-      "nationality": "Northern Ireland",
-      "age": 39
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 82198,
-      "name": "M. Oakley",
+      "id": 1594595,
+      "name": "Claus Lundekvam",
+      "position": "DEF",
+      "nationality": "NOR",
+      "age": "N/A"
+    },
+    {
+      "id": 1406311,
+      "name": "Stephen Crainey",
+      "position": "DEF",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1610174,
+      "name": "[[Kevin Phillips (footballer)",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1697077,
+      "name": "Matt Oakley",
       "position": "MID",
-      "nationality": "England",
-      "age": 44
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 82860,
-      "name": "M. Poke",
+      "id": 1673279,
+      "name": "[[James Beattie (footballer)",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1997177,
+      "name": "Neil McCann",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1568618,
+      "name": "Michael Svensson",
+      "position": "DEF",
+      "nationality": "SWE",
+      "age": "N/A"
+    },
+    {
+      "id": 1152246,
+      "name": "[[Anders Svensson (footballer, born 1976)",
+      "position": "MID",
+      "nationality": "SWE",
+      "age": "N/A"
+    },
+    {
+      "id": 1922509,
+      "name": "[[Antti Niemi (footballer)",
       "position": "GK",
-      "nationality": "England",
-      "age": 36
+      "nationality": "FIN",
+      "age": "N/A"
     },
     {
-      "id": 83261,
-      "name": "D. Blackstock",
-      "position": "ATT",
-      "nationality": "Antigua and Barbuda",
-      "age": 35
-    },
-    {
-      "id": 114790,
-      "name": "Kevin  Phillips",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 41
-    },
-    {
-      "id": 114857,
-      "name": "F. Hall",
+      "id": 1897784,
+      "name": "Fitz Hall",
       "position": "DEF",
-      "nationality": "England",
-      "age": 41
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 114896,
-      "name": "D. Higginbotham",
+      "id": 1834439,
+      "name": "Martin Cranie",
       "position": "DEF",
-      "nationality": "Gibraltar",
-      "age": 43
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 115949,
-      "name": "James  Beattie",
+      "id": 1953943,
+      "name": "Marian Pahars",
       "position": "ATT",
-      "nationality": "England",
-      "age": 36
+      "nationality": "LAT",
+      "age": "N/A"
     },
     {
-      "id": 115958,
-      "name": "S. Crainey",
+      "id": 1383989,
+      "name": "Rory Delap<ref>Delap was born in Sutton Coldfield, England, but qualified to represent the Republic of Ireland internationally and made his international debut for the [[Republic of Ireland national football team",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1015019,
+      "name": "Danny Higginbotham",
       "position": "DEF",
-      "nationality": "Scotland",
-      "age": 40
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 117513,
-      "name": "Y. Folly",
-      "position": "MID",
-      "nationality": "Togo",
-      "age": 36
-    },
-    {
-      "id": 118052,
-      "name": "A. Svensson",
-      "position": "MID",
-      "nationality": "Sweden",
-      "age": 45
-    },
-    {
-      "id": 118220,
-      "name": "Neill McCann",
-      "position": "MID",
-      "nationality": "Scotland",
-      "age": 39
-    },
-    {
-      "id": 135536,
-      "name": "Alan Blayney",
-      "position": "GK",
-      "nationality": "Northern Ireland",
-      "age": 39
-    },
-    {
-      "id": 230921,
+      "id": 1339011,
       "name": "David Prutton",
       "position": "MID",
-      "nationality": "England",
-      "age": 33
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 231018,
-      "name": "Paul Daniel Smith",
-      "position": "GK",
-      "nationality": "England",
-      "age": 37
+      "id": 1386964,
+      "name": "Jo Tessem",
+      "position": "ATT",
+      "nationality": "NOR",
+      "age": "N/A"
     },
     {
-      "id": 232275,
-      "name": "Paul Telfer",
+      "id": 1304826,
+      "name": "Darren Kenton",
       "position": "DEF",
-      "nationality": "Scotland",
-      "age": 43
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1686852,
+      "name": "Alan Blayney",
+      "position": "GK",
+      "nationality": "NIR",
+      "age": "N/A"
+    },
+    {
+      "id": 1234670,
+      "name": "Fabrice Fernandes",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1547231,
+      "name": "Léandre Griffit",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1940629,
+      "name": "Yoann Folly<ref>Folly was born in Paris, France, but also qualified to represent Togo internationally, and made his full international debut for [[Togo national football team",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1001201,
+      "name": "Chris Baird",
+      "position": "DEF",
+      "nationality": "NIR",
+      "age": "N/A"
+    },
+    {
+      "id": 1821006,
+      "name": "[[Paul Telfer (footballer)",
+      "position": "DEF",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1604683,
+      "name": "Agustin Delgado",
+      "position": "ATT",
+      "nationality": "ECU",
+      "age": "N/A"
+    },
+    {
+      "id": 1255910,
+      "name": "Brett Ormerod",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1105582,
+      "name": "[[Paul Jones (footballer, born 1967)",
+      "position": "GK",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1791346,
+      "name": "Chris Marsden",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1273558,
+      "name": "[[Paul Williams (footballer born 1971)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1144202,
+      "name": "Mark Draper",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1159165,
+      "name": "Garry Monk",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1025327,
+      "name": "Scott Bevan",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1682247,
+      "name": "[[Paul Smith (footballer, born 1979)",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1971018,
+      "name": "Arron Davies",
+      "position": "MID",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1171955,
+      "name": "Dexter Blackstock<ref>Blackstock was born in Oxford, England, and has represented them on [[England national under-21 football team",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1337989,
+      "name": "Michael Poke",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1892102,
+      "name": "Matt Mills",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1424287,
+      "name": "Leon Best<ref>Best was born in Nottingham, England, but also qualified to represent Ireland internationally, and made his full international debut for [[Republic of Ireland national football team",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1753486,
+      "name": "[[Mike Williamson (footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1106300,
+      "name": "Francis Benali",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1116743,
+      "name": "Luke Byles",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1536863,
+      "name": "[[Michael Green (footballer, born 1984)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1146568,
+      "name": "Simon Gillett",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1357978,
+      "name": "[[Richard Jones (footballer, born 1985)",
+      "position": "MID",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1406950,
+      "name": "Jacinto Elá",
+      "position": "MID",
+      "nationality": "ESP",
+      "age": "N/A"
+    },
+    {
+      "id": 1448552,
+      "name": "Andrejs Perepļotkins",
+      "position": "MID",
+      "nationality": "UKR",
+      "age": "N/A"
+    },
+    {
+      "id": 1065433,
+      "name": "Drew Surman",
+      "position": "MID",
+      "nationality": "RSA",
+      "age": "N/A"
+    },
+    {
+      "id": 1590635,
+      "name": "Andrew McNeil",
+      "position": "GK",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1358091,
+      "name": "Kyle Critchell",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1876065,
+      "name": "Gareth Bale",
+      "position": "DEF",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1666331,
+      "name": "Sebastian Wallis-Taylor",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1071120,
+      "name": "Nathan Dyer",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1766090,
+      "name": "[[Lloyd James (footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1550005,
+      "name": "Adam Lallana",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1081903,
+      "name": "Feliciano Condesso",
+      "position": "MID",
+      "nationality": "POR",
+      "age": "N/A"
+    },
+    {
+      "id": 1567259,
+      "name": "Tim Sparv",
+      "position": "MID",
+      "nationality": "FIN",
+      "age": "N/A"
+    },
+    {
+      "id": 1299619,
+      "name": "Theo Walcott",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1805153,
+      "name": "Josh Dutton-Black",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
     }
   ],
   "Portsmouth": [
     {
-      "id": 18005,
-      "name": "R. Duffy",
+      "id": 1338184,
+      "name": "Shaka Hislop<ref group=notes>Hislop was born in [[London Borough of Hackney",
+      "position": "GK",
+      "nationality": "TRI",
+      "age": "N/A"
+    },
+    {
+      "id": 1036332,
+      "name": "Linvoy Primus",
       "position": "DEF",
-      "nationality": "Wales",
-      "age": 36
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 19708,
-      "name": "G. O&apos;Neil",
-      "position": "MID",
-      "nationality": "England",
-      "age": 38
-    },
-    {
-      "id": 114811,
-      "name": "J. Roberts",
-      "position": "ATT",
-      "nationality": "Grenada",
-      "age": 43
-    },
-    {
-      "id": 114862,
-      "name": "Yakubu Aiyegbeni",
-      "position": "ATT",
-      "nationality": "Nigeria",
-      "age": 35
-    },
-    {
-      "id": 115083,
-      "name": "P. Pasanen",
+      "id": 1282328,
+      "name": "Dejan Stefanović",
       "position": "DEF",
-      "nationality": "Finland",
-      "age": 41
+      "nationality": "SCG",
+      "age": "N/A"
     },
     {
-      "id": 230924,
-      "name": "R. Hughes",
+      "id": 1225916,
+      "name": "Hayden Foxe",
+      "position": "DEF",
+      "nationality": "AUS",
+      "age": "N/A"
+    },
+    {
+      "id": 1181503,
+      "name": "Arjan de Zeeuw",
+      "position": "DEF",
+      "nationality": "NED",
+      "age": "N/A"
+    },
+    {
+      "id": 1029291,
+      "name": "Kevin Harper",
       "position": "MID",
-      "nationality": "Scotland",
-      "age": 42
+      "nationality": "SCO",
+      "age": "N/A"
     },
     {
-      "id": 231008,
-      "name": "L. LuaLua",
+      "id": 1444548,
+      "name": "Tim Sherwood",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1340539,
+      "name": "Svetoslav Todorov",
       "position": "ATT",
-      "nationality": "Congo DR",
-      "age": 41
+      "nationality": "BUL",
+      "age": "N/A"
+    },
+    {
+      "id": 1615013,
+      "name": "Teddy Sheringham",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1974833,
+      "name": "Nigel Quashie<ref group=notes>Quashie was born in [[London Borough of Southwark",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1886990,
+      "name": "[[Matthew Taylor (footballer, born 1981)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1946284,
+      "name": "Amdy Faye",
+      "position": "MID",
+      "nationality": "SEN",
+      "age": "N/A"
+    },
+    {
+      "id": 1589134,
+      "name": "Carl Robinson",
+      "position": "MID",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1630461,
+      "name": "Vincent Péricard<ref group=notes>Péricard was born in Efok, Cameroon, but also qualified to represent France internationally and has represented them at [[France national under-21 football team",
+      "position": "ATT",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1603635,
+      "name": "[[Steve Stone (footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1001966,
+      "name": "[[Yakubu (footballer)",
+      "position": "ATT",
+      "nationality": "NGA",
+      "age": "N/A"
+    },
+    {
+      "id": 1000920,
+      "name": "Deon Burton<ref group=notes>Burton was born in [[Reading, Berkshire",
+      "position": "ATT",
+      "nationality": "JAM",
+      "age": "N/A"
+    },
+    {
+      "id": 1837984,
+      "name": "[[Richard Hughes (footballer)",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1584568,
+      "name": "Patrik Berger",
+      "position": "MID",
+      "nationality": "CZE",
+      "age": "N/A"
+    },
+    {
+      "id": 1905454,
+      "name": "Harald Wapenaar",
+      "position": "GK",
+      "nationality": "NED",
+      "age": "N/A"
+    },
+    {
+      "id": 1685889,
+      "name": "Gary O'Neil",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1117572,
+      "name": "Sébastien Schemmel",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1307775,
+      "name": "Alexey Smertin",
+      "position": "MID",
+      "nationality": "RUS",
+      "age": "N/A"
+    },
+    {
+      "id": 1890014,
+      "name": "Richard Duffy",
+      "position": "DEF",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1928890,
+      "name": "Lomana Tresor LuaLua",
+      "position": "ATT",
+      "nationality": "COD",
+      "age": "N/A"
+    },
+    {
+      "id": 1900127,
+      "name": "[[John Curtis (footballer, born 1978)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1313126,
+      "name": "Petri Pasanen",
+      "position": "DEF",
+      "nationality": "FIN",
+      "age": "N/A"
+    },
+    {
+      "id": 1445956,
+      "name": "Ivica Mornar",
+      "position": "ATT",
+      "nationality": "CRO",
+      "age": "N/A"
+    },
+    {
+      "id": 1482640,
+      "name": "Sebastian Olszar",
+      "position": "ATT",
+      "nationality": "POL",
+      "age": "N/A"
+    },
+    {
+      "id": 1373400,
+      "name": "Eyal Berkovic",
+      "position": "MID",
+      "nationality": "ISR",
+      "age": "N/A"
+    },
+    {
+      "id": 1553312,
+      "name": "[[Alan Knight (footballer, born 1961)",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1655112,
+      "name": "Boris Živković",
+      "position": "DEF",
+      "nationality": "CRO",
+      "age": "N/A"
+    },
+    {
+      "id": 1935150,
+      "name": "Lee Bradbury",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1020229,
+      "name": "[[Yoshikatsu Kawaguchi",
+      "position": "GK",
+      "nationality": "JPN",
+      "age": "N/A"
+    },
+    {
+      "id": 1578397,
+      "name": "Pavel Srníček",
+      "position": "GK",
+      "nationality": "CZE",
+      "age": "N/A"
+    },
+    {
+      "id": 1298159,
+      "name": "[[Jason Roberts (footballer)",
+      "position": "ATT",
+      "nationality": "GRN",
+      "age": "N/A"
+    },
+    {
+      "id": 1594792,
+      "name": "Courtney Pitt",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1656000,
+      "name": "Lewis Buxton",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1750290,
+      "name": "Jamie Vincent",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1002240,
+      "name": "[[Neil Barrett (footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1750020,
+      "name": "Carl Pettefer",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1414971,
+      "name": "Rowan Vine",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1049540,
+      "name": "Eddie Howe",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1122064,
+      "name": "Mark Burchill",
+      "position": "ATT",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1246523,
+      "name": "Anthony Pulis<ref group=notes>Pulis was born in Bristol, England, but also qualified to represent [[Wales national football team",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1190179,
+      "name": "[[Warren Hunt (footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1978231,
+      "name": "Shaun Cooper",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1730452,
+      "name": "Chris Tardif",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1088518,
+      "name": "[[Terry Parker (footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1504837,
+      "name": "Gary Silk",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1234301,
+      "name": "[[Chris Clark (footballer, born 1984)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1621464,
+      "name": "[[Mark Casey (footballer)",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1333318,
+      "name": "[[James Keene (footballer)",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
     }
   ],
   "Tottenham": [
@@ -1632,188 +3858,587 @@
   ],
   "Blackburn": [
     {
-      "id": 17400,
-      "name": "Neil Danns",
-      "position": "MID",
-      "nationality": "Guyana",
-      "age": 39
-    },
-    {
-      "id": 18032,
-      "name": "Jon Stead",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 38
-    },
-    {
-      "id": 19448,
-      "name": "P. Gallagher",
-      "position": "MID",
-      "nationality": "Scotland",
-      "age": 37
-    },
-    {
-      "id": 83258,
-      "name": "J. Douglas",
-      "position": "MID",
-      "nationality": "Republic of Ireland",
-      "age": 40
-    },
-    {
-      "id": 88069,
-      "name": "David Yelldell",
+      "id": 1184735,
+      "name": "Brad Friedel",
       "position": "GK",
       "nationality": "USA",
-      "age": 36
+      "age": "N/A"
     },
     {
-      "id": 104259,
-      "name": "Brett  Emerton",
+      "id": 1340536,
+      "name": "Lucas Neill",
+      "position": "DEF",
+      "nationality": "AUS",
+      "age": "N/A"
+    },
+    {
+      "id": 1719240,
+      "name": "Vratislav Greško",
+      "position": "DEF",
+      "nationality": "SVK",
+      "age": "N/A"
+    },
+    {
+      "id": 1255162,
+      "name": "Lorenzo Amoruso",
+      "position": "DEF",
+      "nationality": "ITA",
+      "age": "N/A"
+    },
+    {
+      "id": 1338768,
+      "name": "Craig Short",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1112670,
+      "name": "Garry Flitcroft",
       "position": "MID",
-      "nationality": "Australia",
-      "age": 35
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 104312,
-      "name": "Lucas  Neill",
+      "id": 1775197,
+      "name": "Tugay Kerimoğlu",
+      "position": "MID",
+      "nationality": "TUR",
+      "age": "N/A"
+    },
+    {
+      "id": 1752454,
+      "name": "Andy Cole",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1470765,
+      "name": "Matt Jansen",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1640734,
+      "name": "Markus Babbel",
       "position": "DEF",
-      "nationality": "Australia",
-      "age": 36
+      "nationality": "GER",
+      "age": "N/A"
     },
     {
-      "id": 105166,
-      "name": "N. Johansson",
+      "id": 1730498,
+      "name": "Steven Reid<ref group=note>Reid was born in [[Royal Borough of Kingston upon Thames",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1050673,
+      "name": "Nils-Eric Johansson",
       "position": "DEF",
-      "nationality": "Sweden",
-      "age": 41
+      "nationality": "SWE",
+      "age": "N/A"
     },
     {
-      "id": 114759,
-      "name": "S. Reid",
+      "id": 1989448,
+      "name": "[[Andy Todd (footballer born 1974)",
       "position": "DEF",
-      "nationality": "Republic of Ireland",
-      "age": 40
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 115973,
+      "id": 1332869,
+      "name": "[[Paul Gallagher (footballer)",
+      "position": "ATT",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1183844,
+      "name": "Jonathan Stead",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1118706,
+      "name": "Dwight Yorke",
+      "position": "ATT",
+      "nationality": "TRI",
+      "age": "N/A"
+    },
+    {
+      "id": 1563502,
+      "name": "[[David Thompson (footballer, born 1977)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1793244,
+      "name": "Brett Emerton",
+      "position": "MID",
+      "nationality": "AUS",
+      "age": "N/A"
+    },
+    {
+      "id": 1741534,
       "name": "Barry Ferguson",
       "position": "MID",
-      "nationality": "Scotland",
-      "age": 37
+      "nationality": "SCO",
+      "age": "N/A"
     },
     {
-      "id": 117424,
-      "name": "P. Enckelman",
+      "id": 1409025,
+      "name": "Martin Andresen",
+      "position": "MID",
+      "nationality": "NOR",
+      "age": "N/A"
+    },
+    {
+      "id": 1120848,
+      "name": "Jonathan Douglas",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1775553,
+      "name": "Neil Danns",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1940041,
+      "name": "Peter Enckelman",
       "position": "GK",
-      "nationality": "Finland",
-      "age": 44
+      "nationality": "FIN",
+      "age": "N/A"
     },
     {
-      "id": 230940,
-      "name": "Martin Taylor",
+      "id": 1132371,
+      "name": "[[Michael Gray (footballer)",
       "position": "DEF",
-      "nationality": "England",
-      "age": 42
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1942859,
+      "name": "[[Martin Taylor (footballer born 1979)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1411694,
+      "name": "[[Alan Kelly, Jr.",
+      "position": "GK",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1875564,
+      "name": "Alan Mahon",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1257093,
+      "name": "Corrado Grabbi",
+      "position": "ATT",
+      "nationality": "ITA",
+      "age": "N/A"
+    },
+    {
+      "id": 1575110,
+      "name": "Dino Baggio",
+      "position": "MID",
+      "nationality": "ITA",
+      "age": "N/A"
+    },
+    {
+      "id": 1204615,
+      "name": "Egil Østenstad",
+      "position": "ATT",
+      "nationality": "NOR",
+      "age": "N/A"
+    },
+    {
+      "id": 1836715,
+      "name": "Sebastian Pelzer",
+      "position": "DEF",
+      "nationality": "GER",
+      "age": "N/A"
+    },
+    {
+      "id": 1444556,
+      "name": "Gordon Greer",
+      "position": "DEF",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1845193,
+      "name": "[[Ciaran Donnelly (footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1959791,
+      "name": "David Yelldell<ref group=note>Yelldell was born in Stuttgart, West Germany, but also qualified to represent the United States internationally and made his international debut for the [[United States men's national soccer team",
+      "position": "GK",
+      "nationality": "GER",
+      "age": "N/A"
+    },
+    {
+      "id": 1658377,
+      "name": "Jay McEveley<ref group=note>McEveley was born in Liverpool, England, but also qualified to represent Scotland internationally and made his full international debut for [[Scotland national football team",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1052842,
+      "name": "[[Alex Bruce (footballer, born 1984)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1188235,
+      "name": "[[Michael Taylor (English footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1134655,
+      "name": "Craig Barr",
+      "position": "DEF",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1874787,
+      "name": "[[John Fitzgerald (footballer)",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1024038,
+      "name": "Gavin Peers",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1625422,
+      "name": "Jerome Watt",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1916333,
+      "name": "[[Ian Black (footballer, born 1985)",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1995208,
+      "name": "Gary Harkins",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1529899,
+      "name": "[[Alan Morgan (footballer, born 1983)",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1928110,
+      "name": "Matt Derbyshire",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1794353,
+      "name": "Jemal Johnson",
+      "position": "ATT",
+      "nationality": "USA",
+      "age": "N/A"
     }
   ],
   "Man City": [
     {
-      "id": 2728,
-      "name": "K. Schmeichel",
+      "id": 1219534,
+      "name": "[[David James (footballer, born 1970)",
       "position": "GK",
-      "nationality": "Denmark",
-      "age": 39
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 48059,
-      "name": "Kevin Stuhr-Ellegaard",
-      "position": "GK",
-      "nationality": "Denmark",
-      "age": 39
+      "id": 1489559,
+      "name": "David Sommeil",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
     },
     {
-      "id": 90514,
-      "name": "Joey  Barton",
-      "position": "MID",
-      "nationality": "England",
-      "age": 35
+      "id": 1050859,
+      "name": "Daniel Van Buyten",
+      "position": "DEF",
+      "nationality": "BEL",
+      "age": "N/A"
     },
     {
-      "id": 103165,
-      "name": "S. Wright-Phillips",
-      "position": "MID",
-      "nationality": "England",
-      "age": 40
+      "id": 1479315,
+      "name": "Gerard Wiekens",
+      "position": "DEF",
+      "nationality": "NED",
+      "age": "N/A"
     },
     {
-      "id": 114747,
+      "id": 1389105,
       "name": "Sylvain Distin",
       "position": "DEF",
-      "nationality": "France",
-      "age": 39
+      "nationality": "FRA",
+      "age": "N/A"
     },
     {
-      "id": 114757,
-      "name": "Richard  Dunne",
-      "position": "DEF",
-      "nationality": "Republic of Ireland",
-      "age": 36
-    },
-    {
-      "id": 114772,
-      "name": "Nicolas Anelka",
+      "id": 1001388,
+      "name": "Robbie Fowler",
       "position": "ATT",
-      "nationality": "France",
-      "age": 36
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 114958,
-      "name": "D. Van Buyten",
-      "position": "DEF",
-      "nationality": "Belgium",
-      "age": 43
+      "id": 1160706,
+      "name": "Paulo Wanchope",
+      "position": "ATT",
+      "nationality": "CRC",
+      "age": "N/A"
     },
     {
-      "id": 116045,
-      "name": "Arni Gautur Arason",
-      "position": "GK",
-      "nationality": "Iceland",
-      "age": 38
+      "id": 1133953,
+      "name": "Antoine Sibierski",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
     },
     {
-      "id": 117328,
+      "id": 1543518,
+      "name": "Jon Macken",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1795488,
       "name": "Nicky Weaver",
       "position": "GK",
-      "nationality": "England",
-      "age": 35
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 117444,
-      "name": "S. Elliott",
-      "position": "ATT",
-      "nationality": "Republic of Ireland",
-      "age": 37
-    },
-    {
-      "id": 117726,
-      "name": "Stephen Jordan",
+      "id": 1780563,
+      "name": "Sun Jihai",
       "position": "DEF",
-      "nationality": "England",
-      "age": 37
+      "nationality": "CHN",
+      "age": "N/A"
     },
     {
-      "id": 155103,
-      "name": "J. Macken",
-      "position": "ATT",
-      "nationality": "Republic of Ireland",
-      "age": 47
-    },
-    {
-      "id": 226005,
-      "name": "M. Bischoff",
+      "id": 1775451,
+      "name": "Michael Tarnat",
       "position": "DEF",
-      "nationality": "Denmark",
-      "age": 39
+      "nationality": "GER",
+      "age": "N/A"
+    },
+    {
+      "id": 1759154,
+      "name": "Danny Tiatto",
+      "position": "MID",
+      "nationality": "AUS",
+      "age": "N/A"
+    },
+    {
+      "id": 1371840,
+      "name": "Steve McManaman",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1084947,
+      "name": "Richard Dunne",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1661151,
+      "name": "Joey Barton",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1723003,
+      "name": "Árni Gautur Arason",
+      "position": "GK",
+      "nationality": "ISL",
+      "age": "N/A"
+    },
+    {
+      "id": 1719098,
+      "name": "Paul Bosvelt",
+      "position": "MID",
+      "nationality": "NED",
+      "age": "N/A"
+    },
+    {
+      "id": 1542868,
+      "name": "Mikkel Bischoff",
+      "position": "DEF",
+      "nationality": "DEN",
+      "age": "N/A"
+    },
+    {
+      "id": 1330018,
+      "name": "Trevor Sinclair",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1010361,
+      "name": "Shaun Wright-Phillips",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1494060,
+      "name": "Christian Negouai",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1752523,
+      "name": "Kevin Stuhr-Ellegaard",
+      "position": "GK",
+      "nationality": "DEN",
+      "age": "N/A"
+    },
+    {
+      "id": 1428071,
+      "name": "Kasper Schmeichel",
+      "position": "GK",
+      "nationality": "DEN",
+      "age": "N/A"
+    },
+    {
+      "id": 1324360,
+      "name": "Nicolas Anelka",
+      "position": "ATT",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1660318,
+      "name": "[[Stephen Jordan (footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1164875,
+      "name": "Glenn Whelan",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1532402,
+      "name": "Paddy McCarthy",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1128185,
+      "name": "Willo Flood",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1012643,
+      "name": "[[Stephen Elliott (footballer)",
+      "position": "ATT",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1798558,
+      "name": "David Seaman",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1650321,
+      "name": "Darren Huckerby",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1771689,
+      "name": "Eyal Berkovic",
+      "position": "MID",
+      "nationality": "ISR",
+      "age": "N/A"
+    },
+    {
+      "id": 1558043,
+      "name": "Alfie Haaland",
+      "position": "DEF",
+      "nationality": "NOR",
+      "age": "N/A"
+    },
+    {
+      "id": 1092452,
+      "name": "[[Paul Ritchie (footballer born 1975)",
+      "position": "DEF",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1581241,
+      "name": "Lucien Mettomo",
+      "position": "DEF",
+      "nationality": "CMR",
+      "age": "N/A"
+    },
+    {
+      "id": 1120611,
+      "name": "Chris Shuker",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
     }
   ],
   "Everton": [
@@ -2107,46 +4732,354 @@
   ],
   "Leicester": [
     {
-      "id": 103163,
-      "name": "J. Stewart",
+      "id": 1235073,
+      "name": "[[Ian Walker (footballer)",
+      "position": "GK",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1372144,
+      "name": "Andrew Impey",
       "position": "DEF",
-      "nationality": "England",
-      "age": 39
+      "nationality": "ENG",
+      "age": "N/A"
     },
     {
-      "id": 115988,
-      "name": "M. Bent",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 43
-    },
-    {
-      "id": 126753,
-      "name": "Trevor Benjamin",
-      "position": "ATT",
-      "nationality": "Jamaica",
-      "age": 34
-    },
-    {
-      "id": 231344,
-      "name": "M. Heath",
-      "position": "ATT",
-      "nationality": "England",
-      "age": 40
-    },
-    {
-      "id": 232352,
-      "name": "Frank Mohammed Sinclair",
+      "id": 1832693,
+      "name": "Frank Sinclair<ref>Sinclair was born in [[London Borough of Lambeth",
       "position": "DEF",
-      "nationality": "Jamaica",
-      "age": 44
+      "nationality": "JAM",
+      "age": "N/A"
     },
     {
-      "id": 250437,
-      "name": "N. Priet",
+      "id": 1890200,
+      "name": "Craig Hignett",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1903022,
+      "name": "Muzzy Izzet<ref>Izzet was born in [[London Borough of Tower Hamlets",
+      "position": "MID",
+      "nationality": "TUR",
+      "age": "N/A"
+    },
+    {
+      "id": 1681693,
+      "name": "Keith Gillespie",
+      "position": "MID",
+      "nationality": "NIR",
+      "age": "N/A"
+    },
+    {
+      "id": 1054355,
+      "name": "Lilian Nalis",
+      "position": "MID",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1993812,
+      "name": "Les Ferdinand",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1211780,
+      "name": "James Scowcroft",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1231077,
+      "name": "[[Jordan Stewart (footballer born 1982)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1123324,
+      "name": "Paul Brooker",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1921387,
+      "name": "Steffen Freund",
+      "position": "MID",
+      "nationality": "GER",
+      "age": "N/A"
+    },
+    {
+      "id": 1601118,
+      "name": "Callum Davidson",
       "position": "DEF",
-      "nationality": "France",
-      "age": 31
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1050090,
+      "name": "[[Alan Rogers (footballer born 1977)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1302470,
+      "name": "Danny Coyne",
+      "position": "GK",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1226502,
+      "name": "[[Matt Elliott (footballer)",
+      "position": "DEF",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1402874,
+      "name": "Trevor Benjamin<ref>Benjamin was born in Kettering, England, but qualified to represent Jamaica internationally and made his international debut for [[Jamaica national football team",
+      "position": "ATT",
+      "nationality": "JAM",
+      "age": "N/A"
+    },
+    {
+      "id": 1429827,
+      "name": "Riccardo Scimeca",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1800323,
+      "name": "Paul Dickov",
+      "position": "ATT",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1895722,
+      "name": "[[Matt Heath (footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1290993,
+      "name": "Steve Guppy",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1028259,
+      "name": "Peter Canero",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1471731,
+      "name": "Billy McKinlay",
+      "position": "MID",
+      "nationality": "SCO",
+      "age": "N/A"
+    },
+    {
+      "id": 1253136,
+      "name": "Ben Thatcher<ref>Thatcher was born in Swindon, England, but qualified to represent Wales internationally and made his international debut for [[Wales national football team",
+      "position": "DEF",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1268877,
+      "name": "Nicolas Priet",
+      "position": "DEF",
+      "nationality": "FRA",
+      "age": "N/A"
+    },
+    {
+      "id": 1122171,
+      "name": "Marcus Bent",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1696897,
+      "name": "Nikos Dabizas",
+      "position": "DEF",
+      "nationality": "GRE",
+      "age": "N/A"
+    },
+    {
+      "id": 1659473,
+      "name": "Gerry Taggart",
+      "position": "DEF",
+      "nationality": "NIR",
+      "age": "N/A"
+    },
+    {
+      "id": 1404468,
+      "name": "[[Steve Howey (footballer)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1296930,
+      "name": "Brian Deane",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1578004,
+      "name": "Jon Ashton",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1595025,
+      "name": "[[John Curtis (footballer born 1978)",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1830960,
+      "name": "Nicky Summerbee",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1671533,
+      "name": "[[Matt Jones (footballer, born 1980)",
+      "position": "MID",
+      "nationality": "WAL",
+      "age": "N/A"
+    },
+    {
+      "id": 1264390,
+      "name": "Paul Murphy",
+      "position": "GK",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1723889,
+      "name": "[[Tommy Wright (footballer born 1984)",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1657524,
+      "name": "[[Lee Morris (footballer)",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1565466,
+      "name": "Junior Lewis",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1935211,
+      "name": "Tomi Petrescu",
+      "position": "ATT",
+      "nationality": "FIN",
+      "age": "N/A"
+    },
+    {
+      "id": 1942699,
+      "name": "Conrad Logan",
+      "position": "GK",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1990568,
+      "name": "Richard Stearman",
+      "position": "DEF",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1120537,
+      "name": "Alan Sheehan",
+      "position": "DEF",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1140057,
+      "name": "James Wesolowski",
+      "position": "MID",
+      "nationality": "AUS",
+      "age": "N/A"
+    },
+    {
+      "id": 1417548,
+      "name": "[[Tom Williamson (English footballer)",
+      "position": "MID",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1581809,
+      "name": "Stephen Dawson",
+      "position": "MID",
+      "nationality": "IRL",
+      "age": "N/A"
+    },
+    {
+      "id": 1543416,
+      "name": "Ahmed Deen",
+      "position": "MID",
+      "nationality": "SLE",
+      "age": "N/A"
+    },
+    {
+      "id": 1471045,
+      "name": "Usman Gondal",
+      "position": "MID",
+      "nationality": "PAK",
+      "age": "N/A"
+    },
+    {
+      "id": 1255196,
+      "name": "Louis Dodds",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1655784,
+      "name": "Chris O'Grady",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
+    },
+    {
+      "id": 1529418,
+      "name": "Lee Tomlin",
+      "position": "ATT",
+      "nationality": "ENG",
+      "age": "N/A"
     }
   ],
   "Leeds": [
