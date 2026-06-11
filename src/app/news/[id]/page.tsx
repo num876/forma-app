@@ -2,146 +2,144 @@
 
 import { useEffect, useState } from "react";
 import { useParams, useRouter } from "next/navigation";
-import { ArrowLeft, ExternalLink, AlertTriangle } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { ArrowLeft, ExternalLink, Clock } from "lucide-react";
+import { motion } from "framer-motion";
 
 type ArticleData = {
-  title: string;
-  byline?: string;
-  siteName?: string;
-  excerpt?: string;
-  content: string;
-  originalUrl: string;
-  error?: string;
+  headline: string;
+  source: string;
+  sourceIconUrl?: string;
+  timeAgo: string;
+  excerpt?: string | null;
+  imageUrl?: string | null;
+  url: string;
+  tags: string[];
 };
 
 export default function ArticleReadingPage() {
   const params = useParams();
   const router = useRouter();
   const id = params.id as string;
-
   const [article, setArticle] = useState<ArticleData | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-  const [fallbackUrl, setFallbackUrl] = useState<string | null>(null);
 
   useEffect(() => {
     if (!id) return;
+    try {
+      const decoded = JSON.parse(Buffer.from(id, 'base64url').toString('utf-8')) as ArticleData;
+      setArticle(decoded);
+    } catch {
+      router.replace('/');
+    }
+  }, [id, router]);
 
-    fetch(`/api/news/read?id=${id}`)
-      .then(async (res) => {
-        const data = await res.json();
-        if (!res.ok) {
-          throw new Error(data.error || 'Failed to load article');
-        }
-        setArticle(data);
-        setLoading(false);
-      })
-      .catch((err) => {
-        console.error(err);
-        setError(err.message);
-        try {
-          setFallbackUrl(Buffer.from(id, 'base64url').toString('utf-8'));
-        } catch (e) {}
-        setLoading(false);
-      });
-  }, [id]);
-
-  if (loading) {
+  if (!article) {
     return (
-      <div className="min-h-screen bg-background text-foreground flex items-center justify-center">
-        <div className="flex flex-col items-center gap-4">
-          <div className="w-12 h-12 border-4 border-foreground border-t-transparent rounded-full animate-spin"></div>
-          <p className="font-bold uppercase tracking-widest text-muted-foreground animate-pulse">Extracting Article...</p>
-        </div>
-      </div>
-    );
-  }
-
-  if (error || !article) {
-    return (
-      <div className="min-h-screen bg-background text-foreground p-8 flex items-center justify-center">
-        <div className="max-w-2xl w-full border-4 border-foreground bg-card p-8 shadow-neo flex flex-col items-center text-center gap-6">
-          <AlertTriangle size={64} className="text-destructive" />
-          <h1 className="text-3xl font-black uppercase">Extraction Blocked</h1>
-          <p className="text-lg text-muted-foreground font-medium">
-            The original news source has strong anti-bot protections or a hard paywall that prevented our Neobrutalist reading engine from extracting the full text.
-          </p>
-          <div className="flex gap-4 mt-4 w-full">
-            <Button onClick={() => router.back()} variant="outline" className="flex-1 h-14 text-lg font-bold border-2 shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]">
-              <ArrowLeft className="mr-2" /> Go Back
-            </Button>
-            {fallbackUrl && (
-              <a href={fallbackUrl} target="_blank" rel="noopener noreferrer" className="flex-1">
-                <Button className="w-full h-14 text-lg font-bold shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 hover:shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transition-all">
-                  Read on Source <ExternalLink className="ml-2 w-5 h-5" />
-                </Button>
-              </a>
-            )}
-          </div>
-        </div>
+      <div className="min-h-screen bg-background flex items-center justify-center">
+        <div className="w-12 h-12 border-4 border-foreground border-t-transparent rounded-full animate-spin" />
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-[#FAF9F6] text-foreground">
-      {/* Neobrutalist Header Bar */}
-      <header className="sticky top-0 z-50 bg-[#FAF9F6] border-b-4 border-foreground px-4 md:px-8 py-4 flex items-center justify-between">
-        <Button onClick={() => router.back()} variant="ghost" className="hover:bg-foreground hover:text-background transition-colors font-bold uppercase tracking-widest px-6 h-12 border-2 border-transparent hover:border-foreground">
-          <ArrowLeft className="mr-2 w-5 h-5" /> Back to Dashboard
-        </Button>
-        <div className="hidden md:flex items-center gap-2 font-black uppercase tracking-widest text-sm text-muted-foreground">
-          <span>{article.siteName || "News Source"}</span>
-          <ExternalLink className="w-4 h-4" />
+    <div className="min-h-screen bg-background text-foreground">
+      {/* Sticky Header */}
+      <header className="sticky top-0 z-50 bg-background border-b-[3px] border-foreground px-4 md:px-8 h-16 flex items-center justify-between shadow-[0px_4px_0px_0px_rgba(0,0,0,1)]">
+        <button
+          onClick={() => router.back()}
+          className="flex items-center gap-2 font-black uppercase tracking-widest text-sm px-4 py-2 border-[3px] border-foreground hover:bg-foreground hover:text-background transition-colors shadow-neo"
+        >
+          <ArrowLeft className="w-4 h-4" /> Back
+        </button>
+        <div className="flex items-center gap-2 text-xs font-black uppercase tracking-widest text-muted-foreground">
+          {article.sourceIconUrl && <img src={article.sourceIconUrl} alt="" className="w-4 h-4 object-contain" />}
+          <span>{article.source}</span>
         </div>
+        <a
+          href={article.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-2 font-black uppercase tracking-widest text-xs px-4 py-2 border-[3px] border-foreground bg-primary text-primary-foreground hover:-translate-y-0.5 transition-transform shadow-neo"
+        >
+          Full Article <ExternalLink className="w-3 h-3" />
+        </a>
       </header>
 
-      {/* Article Content */}
-      <main className="max-w-4xl mx-auto px-4 md:px-8 py-12 md:py-20">
-        <article>
-          {/* Headline */}
-          <header className="mb-12 border-b-4 border-foreground pb-12">
-            <h1 className="text-5xl md:text-7xl font-black font-serif leading-[1.1] mb-6">
-              {article.title}
-            </h1>
-            
-            {(article.byline || article.siteName) && (
-              <div className="flex flex-wrap items-center gap-4 text-sm font-bold uppercase tracking-widest bg-foreground text-background inline-flex px-4 py-2">
-                {article.byline && <span>By {article.byline}</span>}
-                {article.byline && article.siteName && <span>/</span>}
-                {article.siteName && <span>{article.siteName}</span>}
-              </div>
-            )}
-            
-            {article.excerpt && (
-              <p className="text-xl md:text-2xl font-medium text-muted-foreground mt-8 leading-relaxed border-l-4 border-primary pl-6">
-                {article.excerpt}
+      {/* Hero Image */}
+      {article.imageUrl && (
+        <div className="w-full max-h-[40vh] overflow-hidden border-b-[3px] border-foreground">
+          <img src={article.imageUrl} alt="" className="w-full h-full object-cover" />
+        </div>
+      )}
+
+      {/* Article Body */}
+      <motion.main
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ type: "spring", stiffness: 200, damping: 22 }}
+        className="max-w-3xl mx-auto px-4 md:px-8 py-10 pb-24"
+      >
+        {/* Tags */}
+        <div className="flex flex-wrap gap-2 mb-6">
+          {article.tags.map((tag, i) => (
+            <span key={i} className="text-[0.65rem] px-3 py-1 border-[3px] border-foreground bg-primary text-primary-foreground font-black uppercase tracking-widest">
+              {tag}
+            </span>
+          ))}
+        </div>
+
+        {/* Headline */}
+        <h1 className="text-4xl md:text-6xl font-black font-serif leading-[1.05] mb-6 border-b-[6px] border-foreground pb-6">
+          {article.headline}
+        </h1>
+
+        {/* Byline */}
+        <div className="flex items-center gap-4 mb-10">
+          <div className="flex items-center gap-2 bg-foreground text-background px-4 py-2">
+            {article.sourceIconUrl && <img src={article.sourceIconUrl} alt="" className="w-5 h-5 object-contain invert" />}
+            <span className="font-black uppercase tracking-widest text-sm">{article.source}</span>
+          </div>
+          <div className="flex items-center gap-1.5 text-sm font-bold text-muted-foreground">
+            <Clock className="w-4 h-4" />
+            {article.timeAgo}
+          </div>
+        </div>
+
+        {/* Excerpt from RSS */}
+        {article.excerpt ? (
+          <div className="space-y-6">
+            <p className="text-xl md:text-2xl leading-relaxed font-medium text-foreground/90 border-l-[6px] border-primary pl-6">
+              {article.excerpt}
+            </p>
+            <div className="border-t-[3px] border-dashed border-border pt-8 mt-8">
+              <p className="text-muted-foreground font-bold uppercase tracking-widest text-sm mb-6">
+                This is a preview. Read the full article on {article.source}.
               </p>
-            )}
-          </header>
-
-          {/* Article Body - Uses standard prose but stylized via globals.css or inline classes */}
-          <div 
-            className="prose prose-xl md:prose-2xl max-w-none 
-                       prose-headings:font-black prose-headings:font-serif 
-                       prose-p:font-medium prose-p:leading-relaxed prose-p:text-foreground/90
-                       prose-a:text-primary prose-a:font-bold prose-a:no-underline hover:prose-a:underline
-                       prose-img:border-4 prose-img:border-foreground prose-img:shadow-neo prose-img:w-full
-                       prose-blockquote:border-l-8 prose-blockquote:border-foreground prose-blockquote:bg-muted prose-blockquote:p-6 prose-blockquote:font-serif prose-blockquote:font-bold prose-blockquote:not-italic"
-            dangerouslySetInnerHTML={{ __html: article.content }}
-          />
-
-          {/* Footer Action */}
-          <footer className="mt-20 pt-12 border-t-4 border-foreground flex justify-center">
-            <a href={article.originalUrl} target="_blank" rel="noopener noreferrer">
-              <Button size="lg" className="h-16 px-12 text-xl font-black uppercase tracking-widest shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] transition-all">
-                View Original Article <ExternalLink className="ml-3 w-6 h-6" />
-              </Button>
+              <a
+                href={article.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-3 px-8 py-4 bg-foreground text-background font-black uppercase tracking-widest text-lg border-[3px] border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,0.3)] hover:-translate-y-1 hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,0.3)] transition-all"
+              >
+                Read Full Article on {article.source} <ExternalLink className="w-5 h-5" />
+              </a>
+            </div>
+          </div>
+        ) : (
+          <div className="flex flex-col items-center gap-6 py-12 text-center">
+            <p className="text-muted-foreground font-bold uppercase tracking-widest text-sm">
+              No preview available. Continue to {article.source} to read the full article.
+            </p>
+            <a
+              href={article.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-3 px-8 py-4 bg-foreground text-background font-black uppercase tracking-widest text-lg border-[3px] border-foreground shadow-[4px_4px_0px_0px_rgba(0,0,0,0.3)] hover:-translate-y-1 hover:shadow-[6px_6px_0px_0px_rgba(0,0,0,0.3)] transition-all"
+            >
+              Read on {article.source} <ExternalLink className="w-5 h-5" />
             </a>
-          </footer>
-        </article>
-      </main>
+          </div>
+        )}
+      </motion.main>
     </div>
   );
 }

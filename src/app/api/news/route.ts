@@ -51,6 +51,7 @@ export async function GET() {
             pubDate: article.pubDate ? new Date(article.pubDate).getTime() : 0,
             timeAgo: calculateTimeAgo(article.pubDate),
             headline: article.title,
+            excerpt: article.contentSnippet || article.summary || article.description || null,
             imageUrl: imageUrl,
             url: article.link,
             tags: tags
