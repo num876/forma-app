@@ -39,7 +39,45 @@ export async function GET(request: Request) {
       }
     }
 
-    // If we loop through all leagues and don't find the team
+    // If we loop through all leagues and don't find the team, try fetching from API-Football
+    const API_FOOTBALL_KEY = process.env.API_FOOTBALL_KEY;
+    const API_URL = "https://v3.football.api-sports.io";
+
+    if (API_FOOTBALL_KEY) {
+      // 1. Get the team ID
+      const teamRes = await fetch(`${API_URL}/teams?name=${team}`, {
+        headers: { "x-apisports-key": API_FOOTBALL_KEY }
+      });
+      const teamData = await teamRes.json();
+      if (teamData.response && teamData.response.length > 0) {
+        const teamId = teamData.response[0].team.id;
+        
+        // 2. Get the squad
+        const squadRes = await fetch(`${API_URL}/players/squads?team=${teamId}`, {
+          headers: { "x-apisports-key": API_FOOTBALL_KEY }
+        });
+        const squadData = await squadRes.json();
+        if (squadData.response && squadData.response.length > 0) {
+          const players = squadData.response[0].players.map((p: any) => {
+            let position = "UNK";
+            if (p.position === "Goalkeeper") position = "GK";
+            else if (p.position === "Defender") position = "DEF";
+            else if (p.position === "Midfielder") position = "MID";
+            else if (p.position === "Attacker") position = "ATT";
+
+            return {
+              id: p.id,
+              name: p.name,
+              position: position,
+              nationality: "Unknown", // API-Football squads endpoint doesn't give nationality unfortunately, but it's better than empty
+              age: p.age || "N/A"
+            };
+          });
+          return NextResponse.json(players);
+        }
+      }
+    }
+
     return NextResponse.json([]);
 
   } catch (error) {
