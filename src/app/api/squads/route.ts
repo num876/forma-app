@@ -14,71 +14,121 @@ export async function GET(request: Request) {
   }
 
   try {
-    const seasonDir = path.join(process.cwd(), "src/lib/data/squads", season);
-
-    if (!fs.existsSync(seasonDir)) {
-      // The mass scraper hasn't reached this season yet
-      return NextResponse.json([]);
-    }
-
-    // Search through the league files for this season to find the team
-    for (const league of LEAGUES) {
-      const filePath = path.join(seasonDir, `${league}.json`);
-      if (fs.existsSync(filePath)) {
-        try {
-          const fileData = fs.readFileSync(filePath, "utf-8");
-          const leagueData = JSON.parse(fileData);
-          
-          if (leagueData[team] && Array.isArray(leagueData[team])) {
-            // Found the team's squad!
-            return NextResponse.json(leagueData[team]);
-          }
-        } catch (e) {
-          console.error(`Error reading ${filePath}:`, e);
-        }
-      }
-    }
-
-    // If we loop through all leagues and don't find the team, try fetching from API-Football
     const API_FOOTBALL_KEY = process.env.API_FOOTBALL_KEY;
     const API_URL = "https://v3.football.api-sports.io";
 
-    if (API_FOOTBALL_KEY) {
-      // 1. Get the team ID
-      const teamRes = await fetch(`${API_URL}/teams?name=${team}`, {
-        headers: { "x-apisports-key": API_FOOTBALL_KEY }
-      });
-      const teamData = await teamRes.json();
-      if (teamData.response && teamData.response.length > 0) {
-        const teamId = teamData.response[0].team.id;
-        
-        // 2. Get the squad
-        const squadRes = await fetch(`${API_URL}/players/squads?team=${teamId}`, {
-          headers: { "x-apisports-key": API_FOOTBALL_KEY }
-        });
-        const squadData = await squadRes.json();
-        if (squadData.response && squadData.response.length > 0) {
-          const players = squadData.response[0].players.map((p: any) => {
-            let position = "UNK";
-            if (p.position === "Goalkeeper") position = "GK";
-            else if (p.position === "Defender") position = "DEF";
-            else if (p.position === "Midfielder") position = "MID";
-            else if (p.position === "Attacker") position = "ATT";
-
-            return {
-              id: p.id,
-              name: p.name,
-              position: position,
-              nationality: "Unknown", // API-Football squads endpoint doesn't give nationality unfortunately, but it's better than empty
-              age: p.age || "N/A"
-            };
-          });
-          return NextResponse.json(players);
-        }
-      }
+    if (!API_FOOTBALL_KEY) {
+      return NextResponse.json({ error: "API-Football key missing" }, { status: 500 });
     }
 
-    return NextResponse.json([]);
+    const queryYear = season.split('-')[0];
+
+    // 1. Get the team ID
+    const teamRes = await fetch(`${API_URL}/teams?name=${team}`, {
+      headers: { "x-apisports-key": API_FOOTBALL_KEY },
+      next: { revalidate: 86400 } // Cache for 24h
+    });
+    const teamData = await teamRes.json();
+    
+    if (!teamData.response || teamData.response.length === 0) {
+      return NextResponse.json([]);
+    }
+    
+    const teamId = teamData.response[0].team.id;
+    
+    // 2. Fetch Page 1 of players
+    const fetchPage = async (page: number) => {
+      const res = await fetch(`${API_URL}/players?team=${teamId}&season=${queryYear}&page=${page}`, {
+        headers: { "x-apisports-key": API_FOOTBALL_KEY },
+        next: { revalidate: 86400 }
+      });
+      return res.json();
+    };
+
+    const firstPageData = await fetchPage(1);
+    
+    if (!firstPageData.response || firstPageData.response.length === 0) {
+      return NextResponse.json([]);
+    }
+
+    let allPlayers = [...firstPageData.response];
+    const totalPages = firstPageData.paging?.total || 1;
+
+    // 3. Concurrently fetch remaining pages
+    if (totalPages > 1) {
+      const promises = [];
+      for (let i = 2; i <= totalPages; i++) {
+        promises.push(fetchPage(i));
+      }
+      const restPages = await Promise.all(promises);
+      restPages.forEach(pData => {
+        if (pData.response) {
+          allPlayers = allPlayers.concat(pData.response);
+        }
+      });
+    }
+
+    // 4. Transform and aggregate stats
+    const players = allPlayers.map((p: any) => {
+      let position = "UNK";
+      // API-Football often returns primary position in the first stats array or p.statistics[0].games.position
+      const primaryStat = p.statistics.find((s: any) => s.games.position);
+      const rawPos = primaryStat ? primaryStat.games.position : "Unknown";
+      
+      if (rawPos === "Goalkeeper") position = "GK";
+      else if (rawPos === "Defender") position = "DEF";
+      else if (rawPos === "Midfielder") position = "MID";
+      else if (rawPos === "Attacker") position = "ATT";
+
+      let apps = 0;
+      let minutes = 0;
+      let goals = 0;
+      let assists = 0;
+      let yellow = 0;
+      let red = 0;
+      let ratingSum = 0;
+      let ratingCount = 0;
+
+      p.statistics.forEach((stat: any) => {
+        const compName = stat.league?.name?.toLowerCase() || "";
+        // Exclude Friendlies
+        if (!compName.includes("friendlies")) {
+          apps += stat.games?.appearences || 0;
+          minutes += stat.games?.minutes || 0;
+          goals += stat.goals?.total || 0;
+          assists += stat.goals?.assists || 0;
+          yellow += stat.cards?.yellow || 0;
+          red += stat.cards?.red || 0;
+          
+          if (stat.games?.rating) {
+            ratingSum += parseFloat(stat.games.rating);
+            ratingCount++;
+          }
+        }
+      });
+
+      const avgRating = ratingCount > 0 ? (ratingSum / ratingCount).toFixed(2) : "N/A";
+
+      return {
+        id: p.player.id,
+        name: p.player.name,
+        photo: p.player.photo,
+        position: position,
+        nationality: p.player.nationality || "Unknown",
+        age: p.player.age || "N/A",
+        stats: {
+          apps,
+          minutes,
+          goals,
+          assists,
+          yellow,
+          red,
+          rating: avgRating
+        }
+      };
+    });
+
+    return NextResponse.json(players);
 
   } catch (error) {
     console.error("Database read error:", error);
